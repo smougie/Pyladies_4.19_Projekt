@@ -1,0 +1,2158 @@
+transaction_time;customer;product_name;category_name;quantity;unit_price
+2018-04-02 08:25:11;yvonne_moncada.fejkmejl@gmail.com;Lakkalikööri;Beverages;10;18.0
+2018-04-02 08:27:04;renate_messner.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;15;39.0
+2018-04-02 08:43:53;maria_larsson.fejkmejl@gmail.com;Outback Lager;Beverages;9;15.0
+2018-04-02 09:03:40;felipe_izquierdo.fejkmejl@gmail.com;Steeleye Stout;Beverages;9;18.0
+2018-04-02 09:04:33;roland_mendel.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;70;45.6
+2018-04-02 09:05:20;christina_berglund.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;6;4.5
+2018-04-02 09:11:52;martine_rancé.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;20;4.5
+2018-04-02 09:16:37;maria_larsson.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;40;314.16
+2018-04-02 09:19:14;jaime_yorres.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;2;13.0
+2018-04-02 09:19:27;roland_mendel.fejkmejl@gmail.com;Vegie-spread;Condiments;35;43.9
+2018-04-02 09:35:20;lúcia_carvalho.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;8;45.6
+2018-04-02 09:37:56;roland_mendel.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;45;39.0
+2018-04-02 09:41:36;pirkko_koskitalo.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;20;38.0
+2018-04-02 09:48:05;annette_roulet.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;10;14.0
+2018-04-02 09:48:58;bernardo_batista.fejkmejl@gmail.com;Konbu;Seafood;20;6.0
+2018-04-02 10:02:11;roland_mendel.fejkmejl@gmail.com;Sasquatch Ale;Beverages;60;14.0
+2018-04-02 10:03:43;maurizio_moroni.fejkmejl@gmail.com;Spegesild;Seafood;20;12.0
+2018-04-02 10:18:37;laurence_lebihan.fejkmejl@gmail.com;Zaanse koeken;Confections;30;9.5
+2018-04-02 10:30:17;palle_ibsen.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;18;55.0
+2018-04-02 10:36:34;hari_kumar.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;24;45.6
+2018-04-02 10:37:54;howard_snyder.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;3;21.0
+2018-04-02 10:48:45;horst_kloss.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;40;314.16
+2018-04-02 10:59:41;patricia_mckenna.fejkmejl@gmail.com;Mascarpone Fabioli;Dairy Products;35;32.0
+2018-04-02 11:03:48;jose_pavarotti.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;40;24.0
+2018-04-02 11:03:51;horst_kloss.fejkmejl@gmail.com;Lakkalikööri;Beverages;90;
+2018-04-02 11:12:34;pirkko_koskitalo.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;10;123.79
+2018-04-02 11:13:22;yoshi_latimer.fejkmejl@gmail.com;Tarte au sucre;Confections;10;
+2018-04-02 11:27:41;felipe_izquierdo.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;25;62.5
+2018-04-02 11:34:54;renate_messner.fejkmejl@gmail.com;Grandma's Boysenberry Spread;Condiments;20;25.0
+2018-04-02 11:37:45;anabela_domingues.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;20;22.0
+2018-04-02 11:38:49;isabel_de_castro.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;10;FREE
+2018-04-02 11:39:32;rene_phillips.fejkmejl@gmail.com;Pavlova;Confections;20;17.45
+2018-04-02 11:45:37;matti_karttunen.fejkmejl@gmail.com;Ipoh Coffee;Beverages;6;46.0
+2018-04-02 11:55:56;roland_mendel.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;60;34.0
+2018-04-02 11:56:36;maria_larsson.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;24;34.8
+2018-04-02 11:56:54;liu_wong.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;10;7.0
+2018-04-02 11:56:56;horst_kloss.fejkmejl@gmail.com;Schoggi Schokolade;Confections;120;43.9
+2018-04-02 11:56:59;roland_mendel.fejkmejl@gmail.com;Pavlova;Confections;60;17.45
+2018-04-02 11:58:52;roland_mendel.fejkmejl@gmail.com;Outback Lager;Beverages;30;15.0
+2018-04-02 12:05:52;paula_wilson.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;30;33.25
+2018-04-02 12:06:43;frédérique_citeaux.fejkmejl@gmail.com;Chai;Beverages;25;FREE
+2018-04-02 12:10:38;carlos_hernández.fejkmejl@gmail.com;Outback Lager;Beverages;12;15.0
+2018-04-02 12:10:48;patricia_mckenna.fejkmejl@gmail.com;Flotemysost;Dairy Products;30;21.5
+2018-04-02 12:18:44;rene_phillips.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;20;39.0
+2018-04-02 12:29:41;lino_rodriguez.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;10;4.5
+2018-04-02 12:30:42;karl_jablonski.fejkmejl@gmail.com;Sasquatch Ale;Beverages;35;14.0
+2018-04-02 12:39:28;elizabeth_lincoln.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;35;34.8
+2018-04-02 13:19:02;patricia_mckenna.fejkmejl@gmail.com;Chang;Beverages;7;19.0
+2018-04-02 13:21:14;hanna_moos.fejkmejl@gmail.com;Tourtière;Meat/Poultry;20;7.45
+2018-04-02 13:37:24;rita_müller.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;20;38.0
+2018-04-02 13:38:45;daniel_tonini.fejkmejl@gmail.com;Outback Lager;Beverages;4;15.0
+2018-04-02 13:46:57;annette_roulet.fejkmejl@gmail.com;Geitost;Dairy Products;20;2.5
+2018-04-02 13:55:37;bernardo_batista.fejkmejl@gmail.com;Steeleye Stout;Beverages;20;18.0
+2018-04-02 13:56:33;patricio_simpson.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;8;45.6
+2018-04-02 14:12:51;georg_pipps.fejkmejl@gmail.com;Mascarpone Fabioli;Dairy Products;20;32.0
+2018-04-02 14:21:37;antonio_moreno.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;20;14.0
+2018-04-02 14:35:54;aria_cruz.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;10;4.5
+2018-04-02 14:44:01;georg_pipps.fejkmejl@gmail.com;Lakkalikööri;Beverages;50;18.0
+2018-04-02 14:46:14;zbyszek.nowak.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;30;314.16
+2018-04-02 14:50:46;christina_berglund.fejkmejl@gmail.com;Mascarpone Fabioli;Dairy Products;10;32.0
+2018-04-02 15:02:58;karl_jablonski.fejkmejl@gmail.com;Geitost;Dairy Products;60;2.5
+2018-04-02 15:07:29;jaime_yorres.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;21;314.16
+2018-04-02 15:09:10;josé_pedro_freyre.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;10;
+2018-04-02 15:19:59;paula_wilson.fejkmejl@gmail.com;Chang;Beverages;15;19.0
+2018-04-02 15:21:07;isabel_de_castro.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;14;14.0
+2018-04-02 15:33:59;laurence_lebihan.fejkmejl@gmail.com;Grandma's Boysenberry Spread;Condiments;20;25.0
+2018-04-02 15:34:31;jose_pavarotti.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;30;31.23
+2018-04-02 15:40:34;sergio_gutiérrez.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;7;53.0
+2018-04-02 15:49:58;mario_pontes.fejkmejl@gmail.com;Inlagd Sill;Seafood;15;FREE
+2018-04-02 15:54:05;paula_wilson.fejkmejl@gmail.com;Tarte au sucre;Confections;25;49.3
+2018-04-02 16:01:18;elizabeth_lincoln.fejkmejl@gmail.com;Tarte au sucre;Confections;21;49.3
+2018-04-02 16:04:44;antonio_moreno.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;5;FREE
+2018-04-02 16:10:42;laurence_lebihan.fejkmejl@gmail.com;Spegesild;Seafood;21;12.0
+2018-04-02 16:13:15;paula_wilson.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;10;9.65
+2018-04-02 16:14:51;ann_devon.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;5;21.0
+2018-04-02 16:17:21;patricia_mckenna.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;48;53.0
+2018-04-02 16:22:18;roland_mendel.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;120;53.0
+2018-04-02 16:33:08;paula_wilson.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;60;30.0
+2018-04-02 16:34:16;carlos_hernández.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;20;53.0
+2018-04-02 16:36:52;jonas_bergulfsen.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;12;30.0
+2018-04-02 16:59:33;jose_pavarotti.fejkmejl@gmail.com;Borówka Basia;Luxury;50;21.37
+2018-04-02 17:03:59;jose_pavarotti.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;21;4.5
+2018-04-02 17:22:25;roland_mendel.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;65;24.0
+2018-04-02 17:46:17;giovanni_rovelli.fejkmejl@gmail.com;Inlagd Sill;Seafood;30;19.0
+2018-04-02 17:47:16;henriette_pfalzheim.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;20;9.65
+2018-04-02 17:54:00;paula_wilson.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;25;24.0
+2018-04-02 17:55:27;paula_parente.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;12;13.0
+2018-04-02 18:05:45;horst_kloss.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;80;9.2
+2018-04-02 18:19:07;michael_holz.fejkmejl@gmail.com;Konbu;Seafood;42;6.0
+2018-04-02 18:31:04;maurizio_moroni.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;10;32.8
+2018-04-02 18:35:59;matti_karttunen.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;20;FREE
+2018-04-02 18:41:14;patricio_simpson.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;20;314.16
+2018-04-02 18:44:39;felipe_izquierdo.fejkmejl@gmail.com;Aniseed Syrup;Condiments;20;10.0
+2018-04-02 18:44:52;karin_josephs.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;14;9.65
+2018-04-02 18:46:39;paolo_accorti.fejkmejl@gmail.com;Zaanse koeken;Confections;5;9.5
+2018-04-02 19:01:34;peter_franken.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;25;34.8
+2018-04-02 19:05:36;philip_cramer.fejkmejl@gmail.com;Inlagd Sill;Seafood;40;19.0
+2018-04-02 19:09:50;aria_cruz.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;50;314.16
+2018-04-02 19:23:44;yvonne_moncada.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;2;55.0
+2018-04-02 19:26:03;pirkko_koskitalo.fejkmejl@gmail.com;Tourtière;Meat/Poultry;3;7.45
+2018-04-02 19:42:35;helen_bennett.fejkmejl@gmail.com;Sirop d'érable;Condiments;30;28.5
+2018-04-02 19:44:15;carlos_gonzález.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;20;21.0
+2018-04-02 19:47:22;hari_kumar.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;20;45.6
+2018-04-02 19:51:26;janete_limeira.fejkmejl@gmail.com;Chang;Beverages;20;19.0
+2018-04-02 19:52:04;patricia_mckenna.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;20;14.0
+2018-04-03 08:01:56;frédérique_citeaux.fejkmejl@gmail.com;Spegesild;Seafood;5;12.0
+2018-04-03 08:05:15;carlos_gonzález.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;15;13.0
+2018-04-03 08:36:59;paula_wilson.fejkmejl@gmail.com;Schoggi Schokolade;Confections;50;43.9
+2018-04-03 08:43:15;giovanni_rovelli.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;30;31.23
+2018-04-03 08:48:40;pirkko_koskitalo.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;10;
+2018-04-03 09:22:42;henriette_pfalzheim.fejkmejl@gmail.com;Tarte au sucre;Confections;20;49.3
+2018-04-03 09:23:52;felipe_izquierdo.fejkmejl@gmail.com;Outback Lager;Beverages;60;15.0
+2018-04-03 09:24:00;horst_kloss.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;48;33.25
+2018-04-03 09:27:58;antonio_moreno.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;25;32.8
+2018-04-03 09:28:24;janine_labrune.fejkmejl@gmail.com;Ikura;Seafood;10;31.0
+2018-04-03 09:46:26;pirkko_koskitalo.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;25;22.0
+2018-04-03 10:00:48;pirkko_koskitalo.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;10;32.8
+2018-04-03 10:02:30;liz_nixon.fejkmejl@gmail.com;Pavlova;Confections;10;17.45
+2018-04-03 10:10:33;pascale_cartrain.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;21;22.0
+2018-04-03 10:23:29;renate_messner.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;14;38.0
+2018-04-03 10:25:23;paula_wilson.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;30;4.5
+2018-04-03 10:26:41;carlos_gonzález.fejkmejl@gmail.com;Ikura;Seafood;30;31.0
+2018-04-03 10:27:08;pascale_cartrain.fejkmejl@gmail.com;Ipoh Coffee;Beverages;12;46.0
+2018-04-03 10:33:33;peter_franken.fejkmejl@gmail.com;Flotemysost;Dairy Products;60;21.5
+2018-04-03 10:36:47;jose_pavarotti.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;120;32.8
+2018-04-03 10:37:48;mario_pontes.fejkmejl@gmail.com;Côte de Blaye;Beverages;4;263.5
+2018-04-03 10:42:57;felipe_izquierdo.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;15;9.2
+2018-04-03 10:48:55;carlos_hernández.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;10;4.5
+2018-04-03 10:56:20;matti_karttunen.fejkmejl@gmail.com;Lakkalikööri;Beverages;10;18.0
+2018-04-03 11:06:04;pirkko_koskitalo.fejkmejl@gmail.com;Chai;Beverages;10;18.0
+2018-04-03 11:09:27;zbyszek.nowak.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;15;13.25
+2018-04-03 11:20:27;isabel_de_castro.fejkmejl@gmail.com;Chai;Beverages;15;18.0
+2018-04-03 11:26:20;karin_josephs.fejkmejl@gmail.com;Sasquatch Ale;Beverages;10;14.0
+2018-04-03 11:44:42;giovanni_rovelli.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;5;22.0
+2018-04-03 11:44:45;palle_ibsen.fejkmejl@gmail.com;Tourtière;Meat/Poultry;18;7.45
+2018-04-03 11:50:14;peter_franken.fejkmejl@gmail.com;Inlagd Sill;Seafood;20;19.0
+2018-04-03 11:54:23;rita_müller.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;40;10.0
+2018-04-03 12:05:54;karin_josephs.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;15;7.0
+2018-04-03 12:07:15;pascale_cartrain.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;50;14.0
+2018-04-03 12:08:51;guillermo_fernández.fejkmejl@gmail.com;Chai;Beverages;12;18.0
+2018-04-03 12:20:12;horst_kloss.fejkmejl@gmail.com;Rogede sild;Seafood;100;9.5
+2018-04-03 12:28:04;christina_berglund.fejkmejl@gmail.com;Zaanse koeken;Confections;21;9.5
+2018-04-03 12:29:57;carlos_gonzález.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;15;36.0
+2018-04-03 12:31:56;alexander_feuer.fejkmejl@gmail.com;Tarte au sucre;Confections;20;49.3
+2018-04-03 12:35:51;lino_rodriguez.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;12;38.0
+2018-04-03 12:46:14;lúcia_carvalho.fejkmejl@gmail.com;Northwoods Cranberry Sauce;Condiments;30;40.0
+2018-04-03 12:46:41;aria_cruz.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;15;4.5
+2018-04-03 12:48:16;pascale_cartrain.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;50;55.0
+2018-04-03 13:06:00;roland_mendel.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;60;9.0
+2018-04-03 13:24:42;laurence_lebihan.fejkmejl@gmail.com;Northwoods Cranberry Sauce;Condiments;10;
+2018-04-03 13:26:06;jean_fresnière.fejkmejl@gmail.com;Borówka Basia;Luxury;42;21.37
+2018-04-03 13:28:28;carlos_hernández.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;2;24.0
+2018-04-03 13:36:33;daniel_tonini.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;10;314.16
+2018-04-03 13:43:09;pedro_afonso.fejkmejl@gmail.com;Sirop d'érable;Condiments;4;28.5
+2018-04-03 13:45:53;philip_cramer.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;40;31.23
+2018-04-03 13:49:42;philip_cramer.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;20;4.5
+2018-04-03 13:51:43;bernardo_batista.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;10;13.0
+2018-04-03 13:56:34;michael_holz.fejkmejl@gmail.com;Lakkalikööri;Beverages;2;18.0
+2018-04-03 14:00:24;paula_parente.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;15;55.0
+2018-04-03 14:01:11;roland_mendel.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;35;31.23
+2018-04-03 14:06:28;jose_pavarotti.fejkmejl@gmail.com;Chai;Beverages;5;
+2018-04-03 14:06:35;thomas_hardy.fejkmejl@gmail.com;Inlagd Sill;Seafood;16;19.0
+2018-04-03 14:06:52;jose_pavarotti.fejkmejl@gmail.com;Borówka Basia;Luxury;32;21.37
+2018-04-03 14:07:27;patricio_simpson.fejkmejl@gmail.com;Röd Kaviar;Seafood;10;15.0
+2018-04-03 14:11:12;sven_ottlieb.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;9;9.65
+2018-04-03 14:12:15;maurizio_moroni.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;12;45.6
+2018-04-03 14:13:18;hanna_moos.fejkmejl@gmail.com;Zaanse koeken;Confections;14;FREE
+2018-04-03 14:14:37;annette_roulet.fejkmejl@gmail.com;Gula Malacca;Condiments;16;19.45
+2018-04-03 14:14:38;peter_franken.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;40;4.5
+2018-04-03 14:20:41;annette_roulet.fejkmejl@gmail.com;Inlagd Sill;Seafood;20;19.0
+2018-04-03 14:26:59;catherine_dewey.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;16;38.0
+2018-04-03 14:29:03;jean_fresnière.fejkmejl@gmail.com;Tarte au sucre;Confections;28;49.3
+2018-04-03 14:39:31;aria_cruz.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;25;32.8
+2018-04-03 14:49:19;jose_pavarotti.fejkmejl@gmail.com;Röd Kaviar;Seafood;35;15.0
+2018-04-03 14:55:02;maurizio_moroni.fejkmejl@gmail.com;Tourtière;Meat/Poultry;10;7.45
+2018-04-03 14:56:21;elizabeth_lincoln.fejkmejl@gmail.com;Zaanse koeken;Confections;30;9.5
+2018-04-03 14:59:04;mary_saveley.fejkmejl@gmail.com;Sirop d'érable;Condiments;30;28.5
+2018-04-03 15:02:26;alexander_feuer.fejkmejl@gmail.com;Zaanse koeken;Confections;12;9.5
+2018-04-03 15:09:48;jean_fresnière.fejkmejl@gmail.com;Grandma's Boysenberry Spread;Condiments;70;25.0
+2018-04-03 15:23:46;janete_limeira.fejkmejl@gmail.com;Konbu;Seafood;30;6.0
+2018-04-03 15:24:59;art_braunschweiger.fejkmejl@gmail.com;Tourtière;Meat/Poultry;40;7.45
+2018-04-03 15:33:12;michael_holz.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;30;55.0
+2018-04-03 15:43:17;maurizio_moroni.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;4;FREE
+2018-04-03 15:45:28;mario_pontes.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;36;21.05
+2018-04-03 15:46:59;martín_sommer.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;20;123.79
+2018-04-03 16:06:25;philip_cramer.fejkmejl@gmail.com;Queso Manchego La Pastora;Dairy Products;36;FREE
+2018-04-03 16:08:30;mary_saveley.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;20;9.65
+2018-04-03 16:18:13;jean_fresnière.fejkmejl@gmail.com;Scottish Longbreads;Confections;30;12.5
+2018-04-03 16:51:06;jean_fresnière.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;70;34.0
+2018-04-03 17:05:35;francisco_chang.fejkmejl@gmail.com;Gravad lax;Seafood;1;26.0
+2018-04-03 17:07:53;roland_mendel.fejkmejl@gmail.com;Aniseed Syrup;Condiments;20;10.0
+2018-04-03 17:14:54;paula_wilson.fejkmejl@gmail.com;Mascarpone Fabioli;Dairy Products;40;32.0
+2018-04-03 17:33:51;victoria_ashworth.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;3;53.0
+2018-04-03 17:39:36;eduardo_saavedra.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;5;FREE
+2018-04-03 17:45:20;philip_cramer.fejkmejl@gmail.com;Boston Crab Meat;Seafood;60;18.4
+2018-04-03 17:48:52;jytte_petersen.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;35;13.0
+2018-04-03 17:56:21;roland_mendel.fejkmejl@gmail.com;Tourtière;Meat/Poultry;80;7.45
+2018-04-03 17:58:52;horst_kloss.fejkmejl@gmail.com;Geitost;Dairy Products;16;2.5
+2018-04-03 18:02:01;felipe_izquierdo.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;28;19.5
+2018-04-03 18:03:08;janete_limeira.fejkmejl@gmail.com;Spegesild;Seafood;35;12.0
+2018-04-03 18:11:27;laurence_lebihan.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;20;53.0
+2018-04-03 18:21:09;jose_pavarotti.fejkmejl@gmail.com;Sasquatch Ale;Beverages;30;14.0
+2018-04-03 18:23:03;palle_ibsen.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;5;13.0
+2018-04-03 18:31:15;anabela_domingues.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;30;13.25
+2018-04-03 18:33:19;lúcia_carvalho.fejkmejl@gmail.com;Geitost;Dairy Products;40;
+2018-04-03 18:36:39;patricia_mckenna.fejkmejl@gmail.com;Inlagd Sill;Seafood;6;19.0
+2018-04-03 18:49:04;elizabeth_lincoln.fejkmejl@gmail.com;Ikura;Seafood;16;31.0
+2018-04-03 18:55:52;horst_kloss.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;49;34.0
+2018-04-03 18:58:05;sergio_gutiérrez.fejkmejl@gmail.com;Pavlova;Confections;6;17.45
+2018-04-03 19:01:09;paolo_accorti.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;8;62.5
+2018-04-03 19:02:07;carlos_gonzález.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;3;34.8
+2018-04-03 19:12:16;georg_pipps.fejkmejl@gmail.com;Gustaf's Knäckebröd;Grains/Cereals;35;21.0
+2018-04-03 19:16:03;jose_pavarotti.fejkmejl@gmail.com;Flotemysost;Dairy Products;16;FREE
+2018-04-03 19:39:02;antonio_moreno.fejkmejl@gmail.com;Geitost;Dairy Products;30;2.5
+2018-04-03 19:39:40;karin_josephs.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;28;38.0
+2018-04-03 19:40:13;felipe_izquierdo.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;6;14.0
+2018-04-03 19:42:50;palle_ibsen.fejkmejl@gmail.com;Tourtière;Meat/Poultry;50;7.45
+2018-04-03 19:53:16;roland_mendel.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;100;34.0
+2018-04-04 08:01:41;annette_roulet.fejkmejl@gmail.com;Pavlova;Confections;20;17.45
+2018-04-04 08:05:52;roland_mendel.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;9;
+2018-04-04 08:07:47;helen_bennett.fejkmejl@gmail.com;Flotemysost;Dairy Products;15;21.5
+2018-04-04 08:10:15;rita_müller.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;15;33.25
+2018-04-04 08:11:52;janete_limeira.fejkmejl@gmail.com;Pavlova;Confections;30;17.45
+2018-04-04 08:12:50;daniel_tonini.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;5;7.0
+2018-04-04 08:13:21;yang_wang.fejkmejl@gmail.com;Chai;Beverages;15;18.0
+2018-04-04 08:15:38;thomas_hardy.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;40;19.5
+2018-04-04 08:31:55;jonas_bergulfsen.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;5;9.65
+2018-04-04 08:38:47;pascale_cartrain.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;30;
+2018-04-04 08:40:45;maria_larsson.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;10;53.0
+2018-04-04 08:43:12;manuel_pereira.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;10;314.16
+2018-04-04 09:03:01;pirkko_koskitalo.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;10;36.0
+2018-04-04 09:04:46;christina_berglund.fejkmejl@gmail.com;Maxilaku;Confections;15;20.0
+2018-04-04 09:17:19;karl_jablonski.fejkmejl@gmail.com;Pavlova;Confections;3;17.45
+2018-04-04 09:25:24;pascale_cartrain.fejkmejl@gmail.com;Outback Lager;Beverages;30;15.0
+2018-04-04 09:27:56;frédérique_citeaux.fejkmejl@gmail.com;Tourtière;Meat/Poultry;28;7.45
+2018-04-04 09:35:45;guillermo_fernández.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;20;FREE
+2018-04-04 09:45:23;bernardo_batista.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;4;9.2
+2018-04-04 09:45:59;maria_larsson.fejkmejl@gmail.com;Flotemysost;Dairy Products;6;21.5
+2018-04-04 09:51:12;elizabeth_lincoln.fejkmejl@gmail.com;Gula Malacca;Condiments;40;19.45
+2018-04-04 09:55:44;christina_berglund.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;25;9.2
+2018-04-04 10:03:32;jose_pavarotti.fejkmejl@gmail.com;Lakkalikööri;Beverages;80;FREE
+2018-04-04 10:12:42;alejandra_camino.fejkmejl@gmail.com;Tourtière;Meat/Poultry;5;7.45
+2018-04-04 10:23:55;zbyszek.nowak.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;12;4.5
+2018-04-04 10:50:16;catherine_dewey.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;40;
+2018-04-04 10:53:32;lúcia_carvalho.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;42;314.16
+2018-04-04 10:54:57;yoshi_tannamuri.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;10;9.0
+2018-04-04 10:55:02;miguel_angel_paolino.fejkmejl@gmail.com;Ipoh Coffee;Beverages;5;46.0
+2018-04-04 11:12:21;roland_mendel.fejkmejl@gmail.com;Longlife Tofu;Produce;36;10.0
+2018-04-04 11:25:28;laurence_lebihan.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;8;30.0
+2018-04-04 11:38:33;maria_anders.fejkmejl@gmail.com;Vegie-spread;Condiments;20;43.9
+2018-04-04 11:40:16;simon_crowther.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;3;36.0
+2018-04-04 11:42:10;carlos_gonzález.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;28;25.89
+2018-04-04 11:53:06;janete_limeira.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;40;9.2
+2018-04-04 12:01:31;roland_mendel.fejkmejl@gmail.com;Borówka Basia;Luxury;16;21.37
+2018-04-04 12:03:44;pascale_cartrain.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;30;31.23
+2018-04-04 12:08:00;helen_bennett.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;10;34.8
+2018-04-04 12:10:41;lino_rodriguez.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;15;21.05
+2018-04-04 12:11:25;thomas_hardy.fejkmejl@gmail.com;Röd Kaviar;Seafood;3;15.0
+2018-04-04 12:13:05;frédérique_citeaux.fejkmejl@gmail.com;Maxilaku;Confections;35;20.0
+2018-04-04 12:14:12;roland_mendel.fejkmejl@gmail.com;Chang;Beverages;8;19.0
+2018-04-04 12:16:28;mary_saveley.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;4;53.0
+2018-04-04 12:18:27;karl_jablonski.fejkmejl@gmail.com;Tourtière;Meat/Poultry;60;7.45
+2018-04-04 12:50:38;andré_fonseca.fejkmejl@gmail.com;Lakkalikööri;Beverages;20;18.0
+2018-04-04 12:53:58;peter_franken.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;15;13.0
+2018-04-04 12:54:02;jose_pavarotti.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;44;9.0
+2018-04-04 13:00:55;josé_pedro_freyre.fejkmejl@gmail.com;Inlagd Sill;Seafood;18;
+2018-04-04 13:16:51;felipe_izquierdo.fejkmejl@gmail.com;Chartreuse verte;Beverages;10;18.0
+2018-04-04 13:17:38;michael_holz.fejkmejl@gmail.com;Chang;Beverages;10;19.0
+2018-04-04 13:25:39;carlos_gonzález.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;25;34.8
+2018-04-04 13:26:08;zbyszek.nowak.fejkmejl@gmail.com;Sirop d'érable;Condiments;15;28.5
+2018-04-04 13:26:56;hanna_moos.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;14;21.0
+2018-04-04 13:29:40;daniel_tonini.fejkmejl@gmail.com;Schoggi Schokolade;Confections;10;43.9
+2018-04-04 13:31:17;roland_mendel.fejkmejl@gmail.com;Sirop d'érable;Condiments;66;28.5
+2018-04-04 13:40:41;henriette_pfalzheim.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;30;21.0
+2018-04-04 13:40:55;paula_wilson.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;21;FREE
+2018-04-04 13:44:54;janete_limeira.fejkmejl@gmail.com;Maxilaku;Confections;24;20.0
+2018-04-04 13:46:27;christina_berglund.fejkmejl@gmail.com;Zaanse koeken;Confections;40;9.5
+2018-04-04 13:46:55;philip_cramer.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;10;4.5
+2018-04-04 14:02:28;yvonne_moncada.fejkmejl@gmail.com;Konbu;Seafood;5;6.0
+2018-04-04 14:06:57;aria_cruz.fejkmejl@gmail.com;Sasquatch Ale;Beverages;10;14.0
+2018-04-04 14:19:12;georg_pipps.fejkmejl@gmail.com;Vegie-spread;Condiments;9;43.9
+2018-04-04 14:20:30;felipe_izquierdo.fejkmejl@gmail.com;Aniseed Syrup;Condiments;50;10.0
+2018-04-04 14:22:57;lino_rodriguez.fejkmejl@gmail.com;Steeleye Stout;Beverages;20;18.0
+2018-04-04 14:27:52;paolo_accorti.fejkmejl@gmail.com;Boston Crab Meat;Seafood;1;18.4
+2018-04-04 14:28:17;peter_franken.fejkmejl@gmail.com;Tourtière;Meat/Poultry;15;7.45
+2018-04-04 14:33:06;horst_kloss.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;36;32.8
+2018-04-04 14:40:56;yang_wang.fejkmejl@gmail.com;Konbu;Seafood;6;6.0
+2018-04-04 14:43:02;pascale_cartrain.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;25;FREE
+2018-04-04 14:46:57;fran_wilson.fejkmejl@gmail.com;Scottish Longbreads;Confections;10;12.5
+2018-04-04 14:56:29;howard_snyder.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;28;33.25
+2018-04-04 15:01:13;mario_pontes.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;40;13.0
+2018-04-04 15:01:46;carlos_hernández.fejkmejl@gmail.com;Konbu;Seafood;8;6.0
+2018-04-04 15:14:37;patricia_mckenna.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;20;32.8
+2018-04-04 15:17:58;martine_rancé.fejkmejl@gmail.com;Tarte au sucre;Confections;35;49.3
+2018-04-04 15:32:11;rita_müller.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;10;314.16
+2018-04-04 15:42:43;maria_anders.fejkmejl@gmail.com;Flotemysost;Dairy Products;20;21.5
+2018-04-04 15:54:57;paula_wilson.fejkmejl@gmail.com;Borówka Basia;Luxury;40;21.37
+2018-04-04 16:25:53;roland_mendel.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;30;38.0
+2018-04-04 16:29:32;janete_limeira.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;10;19.5
+2018-04-04 16:41:59;paula_wilson.fejkmejl@gmail.com;Chang;Beverages;24;19.0
+2018-04-04 16:52:06;josé_pedro_freyre.fejkmejl@gmail.com;Chai;Beverages;10;18.0
+2018-04-04 16:57:51;philip_cramer.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;40;34.8
+2018-04-04 17:01:49;dominique_perrier.fejkmejl@gmail.com;Côte de Blaye;Beverages;5;263.5
+2018-04-04 17:03:01;roland_mendel.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;35;39.0
+2018-04-04 17:20:26;jytte_petersen.fejkmejl@gmail.com;Spegesild;Seafood;2;12.0
+2018-04-04 17:22:05;paula_wilson.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;1;22.0
+2018-04-04 17:24:40;art_braunschweiger.fejkmejl@gmail.com;Scottish Longbreads;Confections;8;12.5
+2018-04-04 17:25:07;jose_pavarotti.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;36;123.79
+2018-04-04 17:39:53;elizabeth_lincoln.fejkmejl@gmail.com;Tarte au sucre;Confections;60;49.3
+2018-04-04 17:41:24;janine_labrune.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;6;10.0
+2018-04-04 17:41:53;patricia_mckenna.fejkmejl@gmail.com;Chang;Beverages;40;19.0
+2018-04-04 17:50:54;lino_rodriguez.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;40;21.05
+2018-04-04 17:58:19;peter_franken.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;15;9.2
+2018-04-04 17:58:31;josé_pedro_freyre.fejkmejl@gmail.com;Outback Lager;Beverages;4;15.0
+2018-04-04 18:04:18;patricia_mckenna.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;10;123.79
+2018-04-04 18:06:32;josé_pedro_freyre.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;21;21.05
+2018-04-04 18:15:15;laurence_lebihan.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;14;19.5
+2018-04-04 18:21:04;janine_labrune.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;7;36.0
+2018-04-04 18:30:16;peter_franken.fejkmejl@gmail.com;Tarte au sucre;Confections;15;49.3
+2018-04-04 18:33:53;yang_wang.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;40;38.0
+2018-04-04 18:34:13;michael_holz.fejkmejl@gmail.com;Röd Kaviar;Seafood;15;15.0
+2018-04-04 18:39:08;alejandra_camino.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;2;19.5
+2018-04-04 18:41:18;maurizio_moroni.fejkmejl@gmail.com;Tarte au sucre;Confections;10;49.3
+2018-04-04 18:45:12;peter_franken.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;60;10.0
+2018-04-04 19:01:29;horst_kloss.fejkmejl@gmail.com;Tarte au sucre;Confections;40;49.3
+2018-04-04 19:04:31;jose_pavarotti.fejkmejl@gmail.com;Steeleye Stout;Beverages;15;18.0
+2018-04-04 19:06:02;karl_jablonski.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;15;31.23
+2018-04-04 19:25:55;andré_fonseca.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;20;14.0
+2018-04-04 19:27:54;yoshi_tannamuri.fejkmejl@gmail.com;Outback Lager;Beverages;5;15.0
+2018-04-04 19:34:29;roland_mendel.fejkmejl@gmail.com;Outback Lager;Beverages;8;15.0
+2018-04-05 08:04:35;mario_pontes.fejkmejl@gmail.com;Ipoh Coffee;Beverages;30;46.0
+2018-04-05 08:07:44;jose_pavarotti.fejkmejl@gmail.com;Tarte au sucre;Confections;30;49.3
+2018-04-05 08:10:05;isabel_de_castro.fejkmejl@gmail.com;Northwoods Cranberry Sauce;Condiments;30;40.0
+2018-04-05 08:21:24;ana_trujillo.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;10;34.8
+2018-04-05 08:22:46;fran_wilson.fejkmejl@gmail.com;Tarte au sucre;Confections;10;49.3
+2018-04-05 08:27:12;peter_franken.fejkmejl@gmail.com;Pavlova;Confections;30;
+2018-04-05 08:48:39;horst_kloss.fejkmejl@gmail.com;Boston Crab Meat;Seafood;70;18.4
+2018-04-05 08:52:54;elizabeth_lincoln.fejkmejl@gmail.com;Northwoods Cranberry Sauce;Condiments;16;40.0
+2018-04-05 08:59:38;lúcia_carvalho.fejkmejl@gmail.com;Borówka Basia;Luxury;20;21.37
+2018-04-05 09:07:33;martín_sommer.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;40;39.0
+2018-04-05 09:08:06;roland_mendel.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;8;39.0
+2018-04-05 09:14:30;annette_roulet.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;8;45.6
+2018-04-05 09:19:27;christina_berglund.fejkmejl@gmail.com;Chang;Beverages;21;19.0
+2018-04-05 09:23:29;jose_pavarotti.fejkmejl@gmail.com;Spegesild;Seafood;24;12.0
+2018-04-05 09:32:44;roland_mendel.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;28;4.5
+2018-04-05 09:33:55;jean_fresnière.fejkmejl@gmail.com;Queso Manchego La Pastora;Dairy Products;15;38.0
+2018-04-05 10:05:23;lúcia_carvalho.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;30;31.23
+2018-04-05 10:10:43;rene_phillips.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;24;38.0
+2018-04-05 10:11:08;horst_kloss.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;40;31.23
+2018-04-05 10:19:31;elizabeth_brown.fejkmejl@gmail.com;Chef Anton's Gumbo Mix;Condiments;30;21.35
+2018-04-05 10:24:46;roland_mendel.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;10;21.05
+2018-04-05 10:37:40;fran_wilson.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;10;62.5
+2018-04-05 10:37:54;catherine_dewey.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;10;36.0
+2018-04-05 10:45:54;jose_pavarotti.fejkmejl@gmail.com;Chang;Beverages;45;19.0
+2018-04-05 11:01:38;jose_pavarotti.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;18;38.0
+2018-04-05 11:03:53;jose_pavarotti.fejkmejl@gmail.com;Rogede sild;Seafood;36;9.5
+2018-04-05 11:20:39;horst_kloss.fejkmejl@gmail.com;Chartreuse verte;Beverages;54;18.0
+2018-04-05 11:24:51;horst_kloss.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;42;14.0
+2018-04-05 11:30:59;christina_berglund.fejkmejl@gmail.com;Gula Malacca;Condiments;16;19.45
+2018-04-05 11:33:33;pirkko_koskitalo.fejkmejl@gmail.com;Chartreuse verte;Beverages;20;18.0
+2018-04-05 11:35:57;daniel_tonini.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;5;31.23
+2018-04-05 11:42:42;janete_limeira.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;25;62.5
+2018-04-05 11:44:24;karl_jablonski.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;10;32.8
+2018-04-05 11:48:28;pascale_cartrain.fejkmejl@gmail.com;Sir Rodney's Marmalade;Confections;40;81.0
+2018-04-05 11:49:28;philip_cramer.fejkmejl@gmail.com;Grandma's Boysenberry Spread;Condiments;6;25.0
+2018-04-05 11:55:41;sergio_gutiérrez.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;6;31.23
+2018-04-05 12:07:05;paula_wilson.fejkmejl@gmail.com;Ipoh Coffee;Beverages;15;46.0
+2018-04-05 12:36:19;peter_franken.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;30;33.25
+2018-04-05 12:52:47;christina_berglund.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;35;31.23
+2018-04-05 12:59:34;hanna_moos.fejkmejl@gmail.com;Chartreuse verte;Beverages;5;18.0
+2018-04-05 13:07:16;pirkko_koskitalo.fejkmejl@gmail.com;Longlife Tofu;Produce;35;10.0
+2018-04-05 13:14:53;hari_kumar.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;80;34.0
+2018-04-05 13:26:56;henriette_pfalzheim.fejkmejl@gmail.com;Outback Lager;Beverages;21;15.0
+2018-04-05 13:27:54;peter_franken.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;25;36.0
+2018-04-05 13:28:35;paula_wilson.fejkmejl@gmail.com;Tofu;Produce;1;23.25
+2018-04-05 13:43:33;palle_ibsen.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;10;30.0
+2018-04-05 13:48:46;maurizio_moroni.fejkmejl@gmail.com;Maxilaku;Confections;28;20.0
+2018-04-05 13:51:08;bernardo_batista.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;2;53.0
+2018-04-05 13:51:42;liu_wong.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;6;123.79
+2018-04-05 14:14:29;michael_holz.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;60;7.0
+2018-04-05 14:41:49;jose_pavarotti.fejkmejl@gmail.com;Tofu;Produce;42;23.25
+2018-04-05 14:42:01;roland_mendel.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;12;14.0
+2018-04-05 14:42:31;carlos_hernández.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;24;9.65
+2018-04-05 14:45:25;jose_pavarotti.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;50;36.0
+2018-04-05 14:52:37;paula_wilson.fejkmejl@gmail.com;Côte de Blaye;Beverages;40;263.5
+2018-04-05 15:06:21;paula_wilson.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;3;9.65
+2018-04-05 15:07:29;jose_pavarotti.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;12;9.2
+2018-04-05 15:14:23;victoria_ashworth.fejkmejl@gmail.com;Boston Crab Meat;Seafood;10;18.4
+2018-04-05 15:27:43;patricia_mckenna.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;18;25.89
+2018-04-05 15:35:08;lúcia_carvalho.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;12;24.0
+2018-04-05 15:37:55;annette_roulet.fejkmejl@gmail.com;Chai;Beverages;24;18.0
+2018-04-05 15:42:26;renate_messner.fejkmejl@gmail.com;Chai;Beverages;40;18.0
+2018-04-05 16:00:05;paul_henriot.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;5;34.8
+2018-04-05 16:10:41;christina_berglund.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;20;34.0
+2018-04-05 16:11:07;mario_pontes.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;21;21.05
+2018-04-05 16:42:27;georg_pipps.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;35;4.5
+2018-04-05 16:49:16;carlos_gonzález.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;40;10.0
+2018-04-05 16:53:56;christina_berglund.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;15;55.0
+2018-04-05 17:05:36;bernardo_batista.fejkmejl@gmail.com;Chartreuse verte;Beverages;20;18.0
+2018-04-05 17:07:16;victoria_ashworth.fejkmejl@gmail.com;Ipoh Coffee;Beverages;30;46.0
+2018-04-05 17:08:55;thomas_hardy.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;8;7.0
+2018-04-05 17:10:13;mary_saveley.fejkmejl@gmail.com;Steeleye Stout;Beverages;30;18.0
+2018-04-05 17:11:43;pirkko_koskitalo.fejkmejl@gmail.com;Tofu;Produce;10;23.25
+2018-04-05 17:14:52;carlos_hernández.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;60;55.0
+2018-04-05 17:22:46;eduardo_saavedra.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;5;13.0
+2018-04-05 17:24:14;helen_bennett.fejkmejl@gmail.com;Lakkalikööri;Beverages;10;18.0
+2018-04-05 17:58:45;patricia_mckenna.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;3;32.8
+2018-04-05 18:08:52;roland_mendel.fejkmejl@gmail.com;Chartreuse verte;Beverages;45;18.0
+2018-04-05 18:34:51;victoria_ashworth.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;14;10.0
+2018-04-05 18:35:41;carlos_gonzález.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;15;19.5
+2018-04-05 18:39:55;frédérique_citeaux.fejkmejl@gmail.com;Lakkalikööri;Beverages;10;18.0
+2018-04-05 18:40:04;miguel_angel_paolino.fejkmejl@gmail.com;Borówka Basia;Luxury;20;21.37
+2018-04-05 18:41:47;lúcia_carvalho.fejkmejl@gmail.com;Tourtière;Meat/Poultry;24;7.45
+2018-04-05 18:46:26;maria_larsson.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;35;9.65
+2018-04-05 18:47:01;diego_roel.fejkmejl@gmail.com;Flotemysost;Dairy Products;1;21.5
+2018-04-05 18:49:11;henriette_pfalzheim.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;15;53.0
+2018-04-05 19:07:39;paula_wilson.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;35;FREE
+2018-04-05 19:12:07;jose_pavarotti.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;12;9.2
+2018-04-05 19:13:12;giovanni_rovelli.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;12;14.0
+2018-04-05 19:20:17;patricia_mckenna.fejkmejl@gmail.com;Borówka Basia;Luxury;60;21.37
+2018-04-05 19:24:31;josé_pedro_freyre.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;40;53.0
+2018-04-05 19:29:25;roland_mendel.fejkmejl@gmail.com;Schoggi Schokolade;Confections;30;43.9
+2018-04-05 19:31:31;carlos_gonzález.fejkmejl@gmail.com;Maxilaku;Confections;25;20.0
+2018-04-05 19:34:39;henriette_pfalzheim.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;30;FREE
+2018-04-05 19:46:07;mary_saveley.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;20;14.0
+2018-04-05 19:46:21;carlos_hernández.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;25;53.0
+2018-04-05 19:56:34;jose_pavarotti.fejkmejl@gmail.com;Chai;Beverages;80;18.0
+2018-04-06 08:13:34;roland_mendel.fejkmejl@gmail.com;Queso Manchego La Pastora;Dairy Products;20;38.0
+2018-04-06 08:21:12;jose_pavarotti.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;27;39.0
+2018-04-06 08:27:13;horst_kloss.fejkmejl@gmail.com;Gula Malacca;Condiments;24;
+2018-04-06 08:52:06;ann_devon.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;30;36.0
+2018-04-06 08:52:41;laurence_lebihan.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;50;14.0
+2018-04-06 08:53:29;henriette_pfalzheim.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;35;30.0
+2018-04-06 08:56:02;pascale_cartrain.fejkmejl@gmail.com;Ipoh Coffee;Beverages;20;46.0
+2018-04-06 09:16:43;christina_berglund.fejkmejl@gmail.com;Röd Kaviar;Seafood;25;15.0
+2018-04-06 09:21:11;maurizio_moroni.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;40;34.8
+2018-04-06 09:22:41;isabel_de_castro.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;18;22.0
+2018-04-06 09:23:00;hanna_moos.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;3;10.0
+2018-04-06 09:31:30;laurence_lebihan.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;30;38.0
+2018-04-06 09:39:48;paula_wilson.fejkmejl@gmail.com;Röd Kaviar;Seafood;2;15.0
+2018-04-06 09:43:36;janete_limeira.fejkmejl@gmail.com;Flotemysost;Dairy Products;2;21.5
+2018-04-06 09:48:59;manuel_pereira.fejkmejl@gmail.com;Ikura;Seafood;10;31.0
+2018-04-06 09:55:58;karl_jablonski.fejkmejl@gmail.com;Gula Malacca;Condiments;2;19.45
+2018-04-06 10:17:32;martine_rancé.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;15;53.0
+2018-04-06 10:33:40;carine_schmitt.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;3;53.0
+2018-04-06 10:39:28;annette_roulet.fejkmejl@gmail.com;Spegesild;Seafood;10;
+2018-04-06 10:50:18;patricia_mckenna.fejkmejl@gmail.com;Mascarpone Fabioli;Dairy Products;6;32.0
+2018-04-06 11:13:31;horst_kloss.fejkmejl@gmail.com;Gula Malacca;Condiments;16;19.45
+2018-04-06 11:16:41;jean_fresnière.fejkmejl@gmail.com;Longlife Tofu;Produce;30;10.0
+2018-04-06 11:19:28;carlos_gonzález.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;12;21.0
+2018-04-06 11:26:24;jose_pavarotti.fejkmejl@gmail.com;Maxilaku;Confections;25;20.0
+2018-04-06 11:26:55;horst_kloss.fejkmejl@gmail.com;Ipoh Coffee;Beverages;24;46.0
+2018-04-06 11:34:08;pascale_cartrain.fejkmejl@gmail.com;Chai;Beverages;10;18.0
+2018-04-06 11:34:48;giovanni_rovelli.fejkmejl@gmail.com;Laughing Lumberjack Lager;Beverages;40;14.0
+2018-04-06 11:34:56;thomas_hardy.fejkmejl@gmail.com;Chocolade;Confections;15;12.75
+2018-04-06 11:42:52;elizabeth_lincoln.fejkmejl@gmail.com;Scottish Longbreads;Confections;42;12.5
+2018-04-06 11:46:50;carlos_hernández.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;12;
+2018-04-06 11:51:30;annette_roulet.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;10;4.5
+2018-04-06 12:02:43;jose_pavarotti.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;45;30.0
+2018-04-06 12:14:42;simon_crowther.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;4;55.0
+2018-04-06 12:23:29;horst_kloss.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;40;62.5
+2018-04-06 12:34:47;palle_ibsen.fejkmejl@gmail.com;Valkoinen suklaa;Confections;25;16.25
+2018-04-06 12:37:31;georg_pipps.fejkmejl@gmail.com;Borówka Basia;Luxury;8;21.37
+2018-04-06 12:40:22;anabela_domingues.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;20;24.0
+2018-04-06 12:55:08;laurence_lebihan.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;15;9.0
+2018-04-06 12:59:17;catherine_dewey.fejkmejl@gmail.com;Schoggi Schokolade;Confections;40;43.9
+2018-04-06 12:59:19;jose_pavarotti.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;40;34.0
+2018-04-06 13:12:18;christina_berglund.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;15;314.16
+2018-04-06 13:20:39;paul_henriot.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;12;21.0
+2018-04-06 13:26:00;giovanni_rovelli.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;10;22.0
+2018-04-06 13:31:38;antonio_moreno.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;50;21.0
+2018-04-06 13:43:17;paolo_accorti.fejkmejl@gmail.com;Longlife Tofu;Produce;5;10.0
+2018-04-06 14:02:25;martine_rancé.fejkmejl@gmail.com;Gustaf's Knäckebröd;Grains/Cereals;6;21.0
+2018-04-06 14:22:03;paula_wilson.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;2;33.25
+2018-04-06 14:58:38;rita_müller.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;20;32.8
+2018-04-06 15:04:43;roland_mendel.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;110;4.5
+2018-04-06 15:08:42;henriette_pfalzheim.fejkmejl@gmail.com;Ikura;Seafood;24;FREE
+2018-04-06 15:15:51;karin_josephs.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;20;FREE
+2018-04-06 15:24:37;maria_larsson.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;50;53.0
+2018-04-06 15:28:15;roland_mendel.fejkmejl@gmail.com;Tarte au sucre;Confections;80;49.3
+2018-04-06 15:29:20;jytte_petersen.fejkmejl@gmail.com;Geitost;Dairy Products;8;2.5
+2018-04-06 15:31:55;alexander_feuer.fejkmejl@gmail.com;Vegie-spread;Condiments;6;
+2018-04-06 15:34:29;daniel_tonini.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;6;9.65
+2018-04-06 15:35:08;patricia_mckenna.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;36;25.89
+2018-04-06 15:37:02;hari_kumar.fejkmejl@gmail.com;Mascarpone Fabioli;Dairy Products;24;32.0
+2018-04-06 15:40:48;roland_mendel.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;28;14.0
+2018-04-06 15:43:10;maria_anders.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;40;13.25
+2018-04-06 15:50:01;sergio_gutiérrez.fejkmejl@gmail.com;Sir Rodney's Marmalade;Confections;5;81.0
+2018-04-06 15:55:22;paul_henriot.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;7;FREE
+2018-04-06 15:56:01;roland_mendel.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;50;314.16
+2018-04-06 16:02:37;miguel_angel_paolino.fejkmejl@gmail.com;Chartreuse verte;Beverages;20;18.0
+2018-04-06 16:04:46;yoshi_tannamuri.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;5;7.0
+2018-04-06 16:05:19;horst_kloss.fejkmejl@gmail.com;Tarte au sucre;Confections;48;49.3
+2018-04-06 16:13:23;bernardo_batista.fejkmejl@gmail.com;Tofu;Produce;15;23.25
+2018-04-06 16:25:31;georg_pipps.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;35;62.5
+2018-04-06 16:28:34;fran_wilson.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;1;55.0
+2018-04-06 16:32:44;roland_mendel.fejkmejl@gmail.com;Chocolade;Confections;70;12.75
+2018-04-06 16:38:03;dominique_perrier.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;6;62.5
+2018-04-06 16:38:50;hari_kumar.fejkmejl@gmail.com;Borówka Basia;Luxury;70;21.37
+2018-04-06 16:40:03;horst_kloss.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;20;32.8
+2018-04-06 16:42:15;jean_fresnière.fejkmejl@gmail.com;Chai;Beverages;20;18.0
+2018-04-06 16:46:36;karl_jablonski.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;14;38.0
+2018-04-06 16:54:11;felipe_izquierdo.fejkmejl@gmail.com;Boston Crab Meat;Seafood;30;18.4
+2018-04-06 17:01:24;roland_mendel.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;18;30.0
+2018-04-06 17:06:35;henriette_pfalzheim.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;15;FREE
+2018-04-06 17:09:05;laurence_lebihan.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;25;36.0
+2018-04-06 17:14:21;mario_pontes.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;15;21.0
+2018-04-06 17:41:07;horst_kloss.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;25;55.0
+2018-04-06 17:47:08;maria_larsson.fejkmejl@gmail.com;Chartreuse verte;Beverages;30;18.0
+2018-04-06 17:50:22;jose_pavarotti.fejkmejl@gmail.com;Gravad lax;Seafood;60;26.0
+2018-04-06 17:51:03;daniel_tonini.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;5;30.0
+2018-04-06 18:03:33;palle_ibsen.fejkmejl@gmail.com;Sasquatch Ale;Beverages;14;14.0
+2018-04-06 18:16:00;pascale_cartrain.fejkmejl@gmail.com;Lakkalikööri;Beverages;42;18.0
+2018-04-06 18:27:41;catherine_dewey.fejkmejl@gmail.com;Gula Malacca;Condiments;6;19.45
+2018-04-06 18:31:55;roland_mendel.fejkmejl@gmail.com;Ikura;Seafood;100;31.0
+2018-04-06 18:42:32;helen_bennett.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;10;9.0
+2018-04-06 18:47:35;karl_jablonski.fejkmejl@gmail.com;Vegie-spread;Condiments;24;43.9
+2018-04-06 18:53:21;lino_rodriguez.fejkmejl@gmail.com;Ipoh Coffee;Beverages;3;46.0
+2018-04-06 19:08:48;jean_fresnière.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;6;33.25
+2018-04-06 19:11:47;mario_pontes.fejkmejl@gmail.com;Côte de Blaye;Beverages;5;263.5
+2018-04-06 19:13:09;roland_mendel.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;65;10.0
+2018-04-06 19:22:35;ann_devon.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;40;30.0
+2018-04-06 19:27:08;carine_schmitt.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;14;
+2018-04-06 19:34:48;felipe_izquierdo.fejkmejl@gmail.com;Chai;Beverages;4;18.0
+2018-04-06 19:39:05;patricia_mckenna.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;30;38.0
+2018-04-06 19:40:23;peter_franken.fejkmejl@gmail.com;Tofu;Produce;21;23.25
+2018-04-06 19:41:35;ann_devon.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;21;21.05
+2018-04-09 08:01:08;carlos_hernández.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;36;314.16
+2018-04-09 08:08:25;horst_kloss.fejkmejl@gmail.com;Chartreuse verte;Beverages;80;18.0
+2018-04-09 08:17:20;jose_pavarotti.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;50;34.8
+2018-04-09 08:18:43;horst_kloss.fejkmejl@gmail.com;Steeleye Stout;Beverages;100;18.0
+2018-04-09 08:19:37;carlos_hernández.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;15;13.0
+2018-04-09 08:34:20;eduardo_saavedra.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;5;21.05
+2018-04-09 08:36:08;mario_pontes.fejkmejl@gmail.com;Borówka Basia;Luxury;20;21.37
+2018-04-09 08:53:28;ann_devon.fejkmejl@gmail.com;Steeleye Stout;Beverages;35;18.0
+2018-04-09 09:04:48;laurence_lebihan.fejkmejl@gmail.com;Tarte au sucre;Confections;14;49.3
+2018-04-09 09:17:46;michael_holz.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;30;25.89
+2018-04-09 09:19:16;victoria_ashworth.fejkmejl@gmail.com;Outback Lager;Beverages;7;15.0
+2018-04-09 09:20:48;michael_holz.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;6;9.65
+2018-04-09 09:21:46;roland_mendel.fejkmejl@gmail.com;Geitost;Dairy Products;60;2.5
+2018-04-09 09:26:08;catherine_dewey.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;20;45.6
+2018-04-09 09:34:19;daniel_tonini.fejkmejl@gmail.com;Geitost;Dairy Products;7;2.5
+2018-04-09 09:44:03;maria_larsson.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;25;9.65
+2018-04-09 09:51:54;karl_jablonski.fejkmejl@gmail.com;Mishi Kobe Niku;Meat/Poultry;6;97.0
+2018-04-09 10:02:00;hari_kumar.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;18;53.0
+2018-04-09 10:06:27;palle_ibsen.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;15;7.0
+2018-04-09 10:13:18;michael_holz.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;36;36.0
+2018-04-09 10:13:41;patricia_mckenna.fejkmejl@gmail.com;Tofu;Produce;70;23.25
+2018-04-09 10:24:34;felipe_izquierdo.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;30;13.25
+2018-04-09 10:31:52;philip_cramer.fejkmejl@gmail.com;Konbu;Seafood;20;6.0
+2018-04-09 10:42:48;carlos_gonzález.fejkmejl@gmail.com;Queso Manchego La Pastora;Dairy Products;30;38.0
+2018-04-09 10:55:03;paul_henriot.fejkmejl@gmail.com;Konbu;Seafood;4;6.0
+2018-04-09 10:56:09;jean_fresnière.fejkmejl@gmail.com;Zaanse koeken;Confections;16;9.5
+2018-04-09 11:06:00;elizabeth_brown.fejkmejl@gmail.com;Mishi Kobe Niku;Meat/Poultry;3;97.0
+2018-04-09 11:29:01;miguel_angel_paolino.fejkmejl@gmail.com;Maxilaku;Confections;30;20.0
+2018-04-09 11:30:59;jose_pavarotti.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;24;14.0
+2018-04-09 11:33:54;alejandra_camino.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;4;14.0
+2018-04-09 11:45:00;carlos_gonzález.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;35;34.0
+2018-04-09 11:45:59;yang_wang.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;28;14.0
+2018-04-09 12:01:43;yoshi_latimer.fejkmejl@gmail.com;Tourtière;Meat/Poultry;4;7.45
+2018-04-09 12:05:09;roland_mendel.fejkmejl@gmail.com;Gustaf's Knäckebröd;Grains/Cereals;52;21.0
+2018-04-09 12:05:11;jose_pavarotti.fejkmejl@gmail.com;Ikura;Seafood;18;31.0
+2018-04-09 12:16:28;henriette_pfalzheim.fejkmejl@gmail.com;Borówka Basia;Luxury;9;21.37
+2018-04-09 12:23:33;patricia_mckenna.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;6;
+2018-04-09 12:37:33;jytte_petersen.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;9;55.0
+2018-04-09 12:45:14;howard_snyder.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;2;123.79
+2018-04-09 12:52:20;elizabeth_lincoln.fejkmejl@gmail.com;Ipoh Coffee;Beverages;9;46.0
+2018-04-09 12:54:06;renate_messner.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;25;55.0
+2018-04-09 12:54:14;pascale_cartrain.fejkmejl@gmail.com;Louisiana Hot Spiced Okra;Condiments;60;17.0
+2018-04-09 13:01:49;jonas_bergulfsen.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;15;4.5
+2018-04-09 13:08:02;patricio_simpson.fejkmejl@gmail.com;Sasquatch Ale;Beverages;20;14.0
+2018-04-09 13:08:45;manuel_pereira.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;10;123.79
+2018-04-09 13:08:48;sergio_gutiérrez.fejkmejl@gmail.com;Maxilaku;Confections;2;20.0
+2018-04-09 13:08:58;jose_pavarotti.fejkmejl@gmail.com;Scottish Longbreads;Confections;80;12.5
+2018-04-09 13:09:11;pascale_cartrain.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;2;7.0
+2018-04-09 13:13:13;yang_wang.fejkmejl@gmail.com;Vegie-spread;Condiments;12;43.9
+2018-04-09 13:22:57;roland_mendel.fejkmejl@gmail.com;Gula Malacca;Condiments;77;FREE
+2018-04-09 13:23:22;mario_pontes.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;15;39.0
+2018-04-09 13:27:36;ann_devon.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;20;34.8
+2018-04-09 13:28:53;roland_mendel.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;30;4.5
+2018-04-09 13:41:24;philip_cramer.fejkmejl@gmail.com;Maxilaku;Confections;21;20.0
+2018-04-09 13:46:03;palle_ibsen.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;15;21.05
+2018-04-09 13:48:26;pascale_cartrain.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;2;14.0
+2018-04-09 13:57:56;horst_kloss.fejkmejl@gmail.com;Pavlova;Confections;50;FREE
+2018-04-09 13:59:51;zbyszek.nowak.fejkmejl@gmail.com;Tarte au sucre;Confections;12;49.3
+2018-04-09 14:05:24;art_braunschweiger.fejkmejl@gmail.com;Scottish Longbreads;Confections;6;12.5
+2018-04-09 14:06:37;thomas_hardy.fejkmejl@gmail.com;Chang;Beverages;15;19.0
+2018-04-09 14:11:40;hari_kumar.fejkmejl@gmail.com;Ikura;Seafood;36;31.0
+2018-04-09 14:21:22;eduardo_saavedra.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;7;33.25
+2018-04-09 14:33:27;patricia_mckenna.fejkmejl@gmail.com;Mishi Kobe Niku;Meat/Poultry;50;97.0
+2018-04-09 14:41:58;patricia_mckenna.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;40;55.0
+2018-04-09 14:55:41;horst_kloss.fejkmejl@gmail.com;Northwoods Cranberry Sauce;Condiments;70;40.0
+2018-04-09 14:55:42;antonio_moreno.fejkmejl@gmail.com;Boston Crab Meat;Seafood;10;18.4
+2018-04-09 15:00:40;jose_pavarotti.fejkmejl@gmail.com;Konbu;Seafood;84;6.0
+2018-04-09 15:24:41;carine_schmitt.fejkmejl@gmail.com;Tarte au sucre;Confections;10;49.3
+2018-04-09 15:28:50;horst_kloss.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;35;34.8
+2018-04-09 15:36:02;jytte_petersen.fejkmejl@gmail.com;Scottish Longbreads;Confections;36;12.5
+2018-04-09 15:48:39;annette_roulet.fejkmejl@gmail.com;Louisiana Hot Spiced Okra;Condiments;10;17.0
+2018-04-09 15:50:52;jean_fresnière.fejkmejl@gmail.com;Gustaf's Knäckebröd;Grains/Cereals;40;21.0
+2018-04-09 15:53:04;pirkko_koskitalo.fejkmejl@gmail.com;Flotemysost;Dairy Products;30;21.5
+2018-04-09 16:13:48;henriette_pfalzheim.fejkmejl@gmail.com;Scottish Longbreads;Confections;40;12.5
+2018-04-09 16:17:22;felipe_izquierdo.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;60;34.8
+2018-04-09 16:21:11;miguel_angel_paolino.fejkmejl@gmail.com;Vegie-spread;Condiments;5;43.9
+2018-04-09 16:24:17;karl_jablonski.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;35;22.0
+2018-04-09 16:27:35;isabel_de_castro.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;18;53.0
+2018-04-09 16:29:10;roland_mendel.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;35;33.25
+2018-04-09 16:34:23;christina_berglund.fejkmejl@gmail.com;Tofu;Produce;16;23.25
+2018-04-09 16:36:16;jonas_bergulfsen.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;5;32.8
+2018-04-09 16:38:05;paula_wilson.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;25;22.0
+2018-04-09 16:40:32;janete_limeira.fejkmejl@gmail.com;Chang;Beverages;5;19.0
+2018-04-09 16:46:22;philip_cramer.fejkmejl@gmail.com;Pavlova;Confections;20;17.45
+2018-04-09 16:47:24;karl_jablonski.fejkmejl@gmail.com;Northwoods Cranberry Sauce;Condiments;70;40.0
+2018-04-09 16:51:25;thomas_hardy.fejkmejl@gmail.com;Zaanse koeken;Confections;25;9.5
+2018-04-09 16:55:36;philip_cramer.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;18;14.0
+2018-04-09 17:01:35;victoria_ashworth.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;30;30.0
+2018-04-09 17:13:42;jose_pavarotti.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;70;31.23
+2018-04-09 17:14:36;howard_snyder.fejkmejl@gmail.com;Tarte au sucre;Confections;20;49.3
+2018-04-09 17:16:41;bernardo_batista.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;8;9.65
+2018-04-09 17:17:31;dominique_perrier.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;14;314.16
+2018-04-09 17:28:18;karl_jablonski.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;30;314.16
+2018-04-09 17:44:47;rene_phillips.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;20;38.0
+2018-04-09 17:45:20;miguel_angel_paolino.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;8;39.0
+2018-04-09 17:48:45;antonio_moreno.fejkmejl@gmail.com;Chang;Beverages;20;19.0
+2018-04-09 18:14:01;horst_kloss.fejkmejl@gmail.com;Lakkalikööri;Beverages;33;18.0
+2018-04-09 18:14:38;thomas_hardy.fejkmejl@gmail.com;Valkoinen suklaa;Confections;15;16.25
+2018-04-09 18:16:00;hari_kumar.fejkmejl@gmail.com;Pavlova;Confections;56;17.45
+2018-04-09 18:20:56;matti_karttunen.fejkmejl@gmail.com;Northwoods Cranberry Sauce;Condiments;10;40.0
+2018-04-09 18:22:57;horst_kloss.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;84;34.0
+2018-04-09 18:39:51;peter_franken.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;30;55.0
+2018-04-09 18:42:55;karl_jablonski.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;5;38.0
+2018-04-09 18:48:21;aria_cruz.fejkmejl@gmail.com;Boston Crab Meat;Seafood;4;
+2018-04-09 18:50:16;janete_limeira.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;15;4.5
+2018-04-09 19:22:25;miguel_angel_paolino.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;10;39.0
+2018-04-09 19:41:13;carlos_gonzález.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;8;34.0
+2018-04-09 19:54:16;mario_pontes.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;35;4.5
+2018-04-09 19:56:45;pirkko_koskitalo.fejkmejl@gmail.com;Ipoh Coffee;Beverages;25;46.0
+2018-04-10 08:07:28;pascale_cartrain.fejkmejl@gmail.com;Schoggi Schokolade;Confections;25;43.9
+2018-04-10 08:20:34;jose_pavarotti.fejkmejl@gmail.com;Maxilaku;Confections;18;20.0
+2018-04-10 08:21:59;carlos_hernández.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;8;36.0
+2018-04-10 08:42:16;miguel_angel_paolino.fejkmejl@gmail.com;Konbu;Seafood;10;FREE
+2018-04-10 08:42:49;john_steel.fejkmejl@gmail.com;Boston Crab Meat;Seafood;10;
+2018-04-10 08:43:03;janete_limeira.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;40;34.0
+2018-04-10 09:02:19;rene_phillips.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;15;21.05
+2018-04-10 09:13:03;maurizio_moroni.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;10;4.5
+2018-04-10 09:13:15;christina_berglund.fejkmejl@gmail.com;Flotemysost;Dairy Products;20;21.5
+2018-04-10 09:20:54;ana_trujillo.fejkmejl@gmail.com;Konbu;Seafood;10;6.0
+2018-04-10 09:28:34;renate_messner.fejkmejl@gmail.com;Borówka Basia;Luxury;20;21.37
+2018-04-10 09:29:07;horst_kloss.fejkmejl@gmail.com;Lakkalikööri;Beverages;44;18.0
+2018-04-10 09:38:04;felipe_izquierdo.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;24;34.0
+2018-04-10 09:38:37;frédérique_citeaux.fejkmejl@gmail.com;Côte de Blaye;Beverages;10;263.5
+2018-04-10 09:43:39;paula_wilson.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;30;38.0
+2018-04-10 09:44:33;paula_parente.fejkmejl@gmail.com;Mishi Kobe Niku;Meat/Poultry;20;97.0
+2018-04-10 09:47:56;jonas_bergulfsen.fejkmejl@gmail.com;Pavlova;Confections;15;17.45
+2018-04-10 09:48:14;carlos_gonzález.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;15;30.0
+2018-04-10 09:52:43;mario_pontes.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;10;FREE
+2018-04-10 09:55:43;rene_phillips.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;15;10.0
+2018-04-10 10:05:38;elizabeth_lincoln.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;9;55.0
+2018-04-10 10:17:35;philip_cramer.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;35;24.0
+2018-04-10 10:25:54;horst_kloss.fejkmejl@gmail.com;Sirop d'érable;Condiments;16;28.5
+2018-04-10 10:39:18;carlos_hernández.fejkmejl@gmail.com;Scottish Longbreads;Confections;30;12.5
+2018-04-10 10:41:53;paul_henriot.fejkmejl@gmail.com;Flotemysost;Dairy Products;20;21.5
+2018-04-10 11:02:46;aria_cruz.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;12;9.65
+2018-04-10 11:02:57;ann_devon.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;35;24.0
+2018-04-10 11:03:01;maurizio_moroni.fejkmejl@gmail.com;Geitost;Dairy Products;20;2.5
+2018-04-10 11:16:26;karl_jablonski.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;30;36.0
+2018-04-10 11:19:29;helvetius_nagy.fejkmejl@gmail.com;Outback Lager;Beverages;6;15.0
+2018-04-10 11:21:55;josé_pedro_freyre.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;4;24.0
+2018-04-10 11:25:24;jonas_bergulfsen.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;6;45.6
+2018-04-10 11:33:32;patricia_mckenna.fejkmejl@gmail.com;Sasquatch Ale;Beverages;30;14.0
+2018-04-10 11:42:07;rita_müller.fejkmejl@gmail.com;Mascarpone Fabioli;Dairy Products;15;32.0
+2018-04-10 11:42:44;alejandra_camino.fejkmejl@gmail.com;Rogede sild;Seafood;20;9.5
+2018-04-10 11:45:14;jose_pavarotti.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;60;123.79
+2018-04-10 11:45:58;peter_franken.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;10;32.8
+2018-04-10 11:49:49;jose_pavarotti.fejkmejl@gmail.com;Tourtière;Meat/Poultry;30;7.45
+2018-04-10 11:55:46;helen_bennett.fejkmejl@gmail.com;Flotemysost;Dairy Products;12;21.5
+2018-04-10 11:58:03;matti_karttunen.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;6;14.0
+2018-04-10 12:14:12;carlos_gonzález.fejkmejl@gmail.com;Spegesild;Seafood;20;12.0
+2018-04-10 12:15:30;mario_pontes.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;30;36.0
+2018-04-10 12:19:36;martine_rancé.fejkmejl@gmail.com;Scottish Longbreads;Confections;18;12.5
+2018-04-10 12:22:42;frédérique_citeaux.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;40;38.0
+2018-04-10 12:27:28;art_braunschweiger.fejkmejl@gmail.com;Inlagd Sill;Seafood;20;19.0
+2018-04-10 12:33:01;jose_pavarotti.fejkmejl@gmail.com;Inlagd Sill;Seafood;55;19.0
+2018-04-10 12:33:30;andré_fonseca.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;20;
+2018-04-10 12:38:45;renate_messner.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;18;123.79
+2018-04-10 12:53:06;laurence_lebihan.fejkmejl@gmail.com;Tourtière;Meat/Poultry;15;7.45
+2018-04-10 12:57:13;lino_rodriguez.fejkmejl@gmail.com;Ikura;Seafood;24;31.0
+2018-04-10 12:58:22;guillermo_fernández.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;4;123.79
+2018-04-10 13:06:55;jaime_yorres.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;12;21.05
+2018-04-10 13:28:12;christina_berglund.fejkmejl@gmail.com;Pavlova;Confections;12;17.45
+2018-04-10 13:30:00;jose_pavarotti.fejkmejl@gmail.com;Chang;Beverages;25;19.0
+2018-04-10 13:33:56;yoshi_latimer.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;2;39.0
+2018-04-10 13:37:30;paula_wilson.fejkmejl@gmail.com;Flotemysost;Dairy Products;9;21.5
+2018-04-10 13:38:53;andré_fonseca.fejkmejl@gmail.com;Queso Manchego La Pastora;Dairy Products;4;38.0
+2018-04-10 13:49:28;frédérique_citeaux.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;18;24.0
+2018-04-10 13:58:20;horst_kloss.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;55;34.0
+2018-04-10 14:00:11;jean_fresnière.fejkmejl@gmail.com;Flotemysost;Dairy Products;15;21.5
+2018-04-10 14:04:41;patricio_simpson.fejkmejl@gmail.com;Laughing Lumberjack Lager;Beverages;20;14.0
+2018-04-10 14:11:20;elizabeth_lincoln.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;15;24.0
+2018-04-10 14:40:15;helvetius_nagy.fejkmejl@gmail.com;Tarte au sucre;Confections;10;49.3
+2018-04-10 14:40:31;jose_pavarotti.fejkmejl@gmail.com;Boston Crab Meat;Seafood;42;18.4
+2018-04-10 14:44:46;thomas_hardy.fejkmejl@gmail.com;Borówka Basia;Luxury;50;21.37
+2018-04-10 14:57:16;felipe_izquierdo.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;30;10.0
+2018-04-10 14:58:12;laurence_lebihan.fejkmejl@gmail.com;Inlagd Sill;Seafood;30;FREE
+2018-04-10 15:16:59;karl_jablonski.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;15;13.25
+2018-04-10 15:19:24;pascale_cartrain.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;40;39.0
+2018-04-10 15:22:52;mary_saveley.fejkmejl@gmail.com;Geitost;Dairy Products;4;2.5
+2018-04-10 15:40:40;yang_wang.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;10;34.0
+2018-04-10 15:46:52;henriette_pfalzheim.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;10;13.0
+2018-04-10 15:52:00;ann_devon.fejkmejl@gmail.com;Louisiana Hot Spiced Okra;Condiments;24;17.0
+2018-04-10 16:03:54;patricia_mckenna.fejkmejl@gmail.com;Flotemysost;Dairy Products;50;21.5
+2018-04-10 16:05:18;palle_ibsen.fejkmejl@gmail.com;Tarte au sucre;Confections;15;49.3
+2018-04-10 16:09:44;jonas_bergulfsen.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;8;4.5
+2018-04-10 16:09:47;andré_fonseca.fejkmejl@gmail.com;Zaanse koeken;Confections;15;9.5
+2018-04-10 16:11:11;renate_messner.fejkmejl@gmail.com;Northwoods Cranberry Sauce;Condiments;24;40.0
+2018-04-10 16:11:34;sergio_gutiérrez.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;5;10.0
+2018-04-10 16:18:19;palle_ibsen.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;30;9.65
+2018-04-10 16:26:34;jose_pavarotti.fejkmejl@gmail.com;Boston Crab Meat;Seafood;40;18.4
+2018-04-10 16:41:32;pirkko_koskitalo.fejkmejl@gmail.com;Tofu;Produce;20;23.25
+2018-04-10 17:01:43;guillermo_fernández.fejkmejl@gmail.com;Rogede sild;Seafood;21;
+2018-04-10 17:02:06;laurence_lebihan.fejkmejl@gmail.com;Tofu;Produce;20;23.25
+2018-04-10 17:18:51;pedro_afonso.fejkmejl@gmail.com;Chef Anton's Gumbo Mix;Condiments;20;21.35
+2018-04-10 17:22:05;liu_wong.fejkmejl@gmail.com;Ikura;Seafood;6;31.0
+2018-04-10 17:27:09;pirkko_koskitalo.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;50;32.8
+2018-04-10 17:32:55;josé_pedro_freyre.fejkmejl@gmail.com;Valkoinen suklaa;Confections;9;
+2018-04-10 17:36:31;rene_phillips.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;8;55.0
+2018-04-10 17:37:50;helen_bennett.fejkmejl@gmail.com;Chang;Beverages;10;19.0
+2018-04-10 17:49:17;maria_larsson.fejkmejl@gmail.com;Outback Lager;Beverages;50;15.0
+2018-04-10 18:07:52;janete_limeira.fejkmejl@gmail.com;Sasquatch Ale;Beverages;20;14.0
+2018-04-10 18:21:59;christina_berglund.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;15;31.23
+2018-04-10 18:42:06;pirkko_koskitalo.fejkmejl@gmail.com;Steeleye Stout;Beverages;6;18.0
+2018-04-10 18:51:51;bernardo_batista.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;20;21.05
+2018-04-10 18:51:55;thomas_hardy.fejkmejl@gmail.com;Konbu;Seafood;20;6.0
+2018-04-10 19:01:08;janete_limeira.fejkmejl@gmail.com;Chang;Beverages;12;19.0
+2018-04-10 19:06:08;sergio_gutiérrez.fejkmejl@gmail.com;Spegesild;Seafood;3;12.0
+2018-04-10 19:11:09;mary_saveley.fejkmejl@gmail.com;Spegesild;Seafood;20;12.0
+2018-04-10 19:49:40;martine_rancé.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;2;314.16
+2018-04-10 19:57:39;peter_franken.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;36;34.0
+2018-04-11 08:02:06;roland_mendel.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;30;33.25
+2018-04-11 08:14:29;josé_pedro_freyre.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;15;33.25
+2018-04-11 08:15:24;roland_mendel.fejkmejl@gmail.com;Konbu;Seafood;65;6.0
+2018-04-11 08:18:01;christina_berglund.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;10;9.65
+2018-04-11 08:21:39;simon_crowther.fejkmejl@gmail.com;Outback Lager;Beverages;6;15.0
+2018-04-11 08:22:17;paula_wilson.fejkmejl@gmail.com;Tarte au sucre;Confections;70;49.3
+2018-04-11 08:24:59;roland_mendel.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;13;9.65
+2018-04-11 08:27:53;michael_holz.fejkmejl@gmail.com;Borówka Basia;Luxury;30;21.37
+2018-04-11 08:38:09;karin_josephs.fejkmejl@gmail.com;Sasquatch Ale;Beverages;20;14.0
+2018-04-11 09:05:15;jose_pavarotti.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;35;9.2
+2018-04-11 09:07:25;aria_cruz.fejkmejl@gmail.com;Tourtière;Meat/Poultry;30;7.45
+2018-04-11 09:07:33;patricia_mckenna.fejkmejl@gmail.com;Chartreuse verte;Beverages;3;18.0
+2018-04-11 09:10:26;guillermo_fernández.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;10;21.0
+2018-04-11 09:19:53;renate_messner.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;25;13.0
+2018-04-11 09:50:38;philip_cramer.fejkmejl@gmail.com;Ipoh Coffee;Beverages;15;46.0
+2018-04-11 09:51:45;karl_jablonski.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;42;39.0
+2018-04-11 09:53:09;thomas_hardy.fejkmejl@gmail.com;Valkoinen suklaa;Confections;24;16.25
+2018-04-11 09:59:59;jean_fresnière.fejkmejl@gmail.com;Côte de Blaye;Beverages;49;263.5
+2018-04-11 10:03:53;jose_pavarotti.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;20;4.5
+2018-04-11 10:15:31;horst_kloss.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;9;36.0
+2018-04-11 10:25:39;hanna_moos.fejkmejl@gmail.com;Sirop d'érable;Condiments;4;28.5
+2018-04-11 10:26:52;alejandra_camino.fejkmejl@gmail.com;Scottish Longbreads;Confections;2;12.5
+2018-04-11 10:32:26;jose_pavarotti.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;77;39.0
+2018-04-11 10:37:42;howard_snyder.fejkmejl@gmail.com;Chai;Beverages;8;18.0
+2018-04-11 11:02:16;paula_wilson.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;40;21.0
+2018-04-11 11:18:48;victoria_ashworth.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;6;19.5
+2018-04-11 11:29:34;lúcia_carvalho.fejkmejl@gmail.com;Steeleye Stout;Beverages;30;18.0
+2018-04-11 11:31:32;elizabeth_brown.fejkmejl@gmail.com;Konbu;Seafood;1;6.0
+2018-04-11 11:32:47;antonio_moreno.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;24;21.0
+2018-04-11 11:35:27;roland_mendel.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;15;21.0
+2018-04-11 11:44:57;palle_ibsen.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;7;13.0
+2018-04-11 11:46:19;zbyszek.nowak.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;2;53.0
+2018-04-11 12:00:52;maria_larsson.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;50;22.0
+2018-04-11 12:02:49;anabela_domingues.fejkmejl@gmail.com;Borówka Basia;Luxury;20;21.37
+2018-04-11 12:05:52;jaime_yorres.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;21;38.0
+2018-04-11 12:13:43;thomas_hardy.fejkmejl@gmail.com;Steeleye Stout;Beverages;4;18.0
+2018-04-11 12:13:56;maria_anders.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;15;FREE
+2018-04-11 12:14:19;christina_berglund.fejkmejl@gmail.com;Chartreuse verte;Beverages;20;18.0
+2018-04-11 12:30:16;jean_fresnière.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;20;38.0
+2018-04-11 12:36:21;carlos_hernández.fejkmejl@gmail.com;Gula Malacca;Condiments;10;19.45
+2018-04-11 12:40:38;peter_franken.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;32;9.0
+2018-04-11 12:45:17;carlos_hernández.fejkmejl@gmail.com;Mascarpone Fabioli;Dairy Products;4;32.0
+2018-04-11 12:46:59;roland_mendel.fejkmejl@gmail.com;Chef Anton's Gumbo Mix;Condiments;32;21.35
+2018-04-11 13:00:34;philip_cramer.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;4;14.0
+2018-04-11 13:10:20;palle_ibsen.fejkmejl@gmail.com;Rogede sild;Seafood;30;FREE
+2018-04-11 13:11:06;carine_schmitt.fejkmejl@gmail.com;Pavlova;Confections;10;17.45
+2018-04-11 13:12:06;paul_henriot.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;18;7.0
+2018-04-11 13:16:01;horst_kloss.fejkmejl@gmail.com;Borówka Basia;Luxury;55;21.37
+2018-04-11 13:28:46;peter_franken.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;20;34.0
+2018-04-11 13:31:45;maria_anders.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;2;13.0
+2018-04-11 13:36:33;patricia_mckenna.fejkmejl@gmail.com;Flotemysost;Dairy Products;20;21.5
+2018-04-11 13:43:41;thomas_hardy.fejkmejl@gmail.com;Gustaf's Knäckebröd;Grains/Cereals;4;21.0
+2018-04-11 13:47:29;mary_saveley.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;2;21.05
+2018-04-11 13:59:16;lino_rodriguez.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;2;34.0
+2018-04-11 14:00:06;matti_karttunen.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;20;10.0
+2018-04-11 14:00:30;patricia_mckenna.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;30;9.65
+2018-04-11 14:05:21;karl_jablonski.fejkmejl@gmail.com;Röd Kaviar;Seafood;15;15.0
+2018-04-11 14:25:57;rita_müller.fejkmejl@gmail.com;Sirop d'érable;Condiments;15;28.5
+2018-04-11 14:28:36;paula_wilson.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;18;25.89
+2018-04-11 14:29:51;carlos_hernández.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;15;14.0
+2018-04-11 14:34:40;horst_kloss.fejkmejl@gmail.com;Konbu;Seafood;20;6.0
+2018-04-11 14:53:02;janine_labrune.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;9;7.0
+2018-04-11 14:54:45;sven_ottlieb.fejkmejl@gmail.com;Borówka Basia;Luxury;20;21.37
+2018-04-11 14:58:18;georg_pipps.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;12;21.0
+2018-04-11 15:11:05;henriette_pfalzheim.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;20;30.0
+2018-04-11 15:13:51;thomas_hardy.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;20;53.0
+2018-04-11 15:14:28;georg_pipps.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;15;21.0
+2018-04-11 15:14:51;mario_pontes.fejkmejl@gmail.com;Inlagd Sill;Seafood;25;19.0
+2018-04-11 15:28:14;martine_rancé.fejkmejl@gmail.com;Gravad lax;Seafood;10;26.0
+2018-04-11 15:31:05;paula_wilson.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;2;38.0
+2018-04-11 15:39:56;rene_phillips.fejkmejl@gmail.com;Chartreuse verte;Beverages;30;18.0
+2018-04-11 15:42:31;yang_wang.fejkmejl@gmail.com;Tarte au sucre;Confections;9;49.3
+2018-04-11 15:44:25;miguel_angel_paolino.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;6;314.16
+2018-04-11 15:44:42;jean_fresnière.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;15;FREE
+2018-04-11 15:49:48;paula_parente.fejkmejl@gmail.com;Chai;Beverages;20;18.0
+2018-04-11 15:54:56;palle_ibsen.fejkmejl@gmail.com;Lakkalikööri;Beverages;35;18.0
+2018-04-11 16:01:39;rene_phillips.fejkmejl@gmail.com;Borówka Basia;Luxury;20;21.37
+2018-04-11 16:04:20;yoshi_latimer.fejkmejl@gmail.com;Konbu;Seafood;10;6.0
+2018-04-11 16:09:15;roland_mendel.fejkmejl@gmail.com;Spegesild;Seafood;45;
+2018-04-11 16:14:24;carlos_hernández.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;70;
+2018-04-11 16:48:37;hanna_moos.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;10;62.5
+2018-04-11 16:51:13;alexander_feuer.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;30;34.8
+2018-04-11 16:58:47;andré_fonseca.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;3;30.0
+2018-04-11 17:08:43;carlos_gonzález.fejkmejl@gmail.com;Tourtière;Meat/Poultry;20;7.45
+2018-04-11 17:16:06;rene_phillips.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;25;123.79
+2018-04-11 17:19:03;pascale_cartrain.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;12;4.5
+2018-04-11 17:22:21;henriette_pfalzheim.fejkmejl@gmail.com;Chang;Beverages;40;19.0
+2018-04-11 17:22:49;roland_mendel.fejkmejl@gmail.com;Queso Manchego La Pastora;Dairy Products;30;
+2018-04-11 17:35:19;maria_larsson.fejkmejl@gmail.com;Gustaf's Knäckebröd;Grains/Cereals;25;21.0
+2018-04-11 17:48:26;mario_pontes.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;35;53.0
+2018-04-11 17:50:11;maria_larsson.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;30;24.0
+2018-04-11 17:52:28;mario_pontes.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;35;9.2
+2018-04-11 17:58:01;paul_henriot.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;12;9.65
+2018-04-11 17:58:52;yang_wang.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;12;38.0
+2018-04-11 18:03:08;lino_rodriguez.fejkmejl@gmail.com;Chocolade;Confections;6;12.75
+2018-04-11 18:13:38;pirkko_koskitalo.fejkmejl@gmail.com;Sirop d'érable;Condiments;25;28.5
+2018-04-11 18:22:45;paula_wilson.fejkmejl@gmail.com;Lakkalikööri;Beverages;30;18.0
+2018-04-11 18:32:10;laurence_lebihan.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;50;30.0
+2018-04-11 18:44:55;paula_wilson.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;28;32.8
+2018-04-11 19:03:35;mary_saveley.fejkmejl@gmail.com;Gustaf's Knäckebröd;Grains/Cereals;6;21.0
+2018-04-11 19:04:59;carlos_gonzález.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;60;24.0
+2018-04-11 19:12:01;jean_fresnière.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;60;38.0
+2018-04-11 19:21:41;jose_pavarotti.fejkmejl@gmail.com;Gula Malacca;Condiments;100;19.45
+2018-04-11 19:21:52;yang_wang.fejkmejl@gmail.com;Vegie-spread;Condiments;30;43.9
+2018-04-11 19:24:02;pirkko_koskitalo.fejkmejl@gmail.com;Gustaf's Knäckebröd;Grains/Cereals;24;21.0
+2018-04-11 19:35:36;maurizio_moroni.fejkmejl@gmail.com;Scottish Longbreads;Confections;3;12.5
+2018-04-11 19:52:41;anabela_domingues.fejkmejl@gmail.com;Grandma's Boysenberry Spread;Condiments;6;25.0
+2018-04-12 08:11:19;catherine_dewey.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;6;31.23
+2018-04-12 08:19:56;patricia_mckenna.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;80;13.25
+2018-04-12 08:21:58;pirkko_koskitalo.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;15;32.8
+2018-04-12 08:30:08;jytte_petersen.fejkmejl@gmail.com;Inlagd Sill;Seafood;30;19.0
+2018-04-12 08:31:40;pascale_cartrain.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;30;14.0
+2018-04-12 08:42:13;helen_bennett.fejkmejl@gmail.com;Konbu;Seafood;10;6.0
+2018-04-12 08:50:14;lúcia_carvalho.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;35;
+2018-04-12 09:18:46;matti_karttunen.fejkmejl@gmail.com;Queso Manchego La Pastora;Dairy Products;4;38.0
+2018-04-12 09:19:19;frédérique_citeaux.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;12;9.65
+2018-04-12 09:20:05;jean_fresnière.fejkmejl@gmail.com;Tarte au sucre;Confections;3;49.3
+2018-04-12 09:28:26;mario_pontes.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;15;FREE
+2018-04-12 09:29:30;sven_ottlieb.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;30;55.0
+2018-04-12 09:32:09;paul_henriot.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;10;14.0
+2018-04-12 09:44:21;frédérique_citeaux.fejkmejl@gmail.com;Borówka Basia;Luxury;35;21.37
+2018-04-12 09:50:45;henriette_pfalzheim.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;50;19.5
+2018-04-12 09:56:18;josé_pedro_freyre.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;8;39.0
+2018-04-12 09:58:23;jose_pavarotti.fejkmejl@gmail.com;Konbu;Seafood;80;6.0
+2018-04-12 10:00:49;thomas_hardy.fejkmejl@gmail.com;Borówka Basia;Luxury;50;21.37
+2018-04-12 10:02:19;horst_kloss.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;24;62.5
+2018-04-12 10:15:16;horst_kloss.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;55;13.0
+2018-04-12 10:35:55;pedro_afonso.fejkmejl@gmail.com;Spegesild;Seafood;5;12.0
+2018-04-12 10:43:02;horst_kloss.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;70;13.0
+2018-04-12 10:50:13;roland_mendel.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;13;45.6
+2018-04-12 10:51:57;karl_jablonski.fejkmejl@gmail.com;Tarte au sucre;Confections;35;49.3
+2018-04-12 10:52:56;janete_limeira.fejkmejl@gmail.com;Scottish Longbreads;Confections;18;12.5
+2018-04-12 10:59:57;lúcia_carvalho.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;42;45.6
+2018-04-12 11:11:40;martín_sommer.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;50;314.16
+2018-04-12 11:22:08;mary_saveley.fejkmejl@gmail.com;Tourtière;Meat/Poultry;6;
+2018-04-12 11:35:40;yang_wang.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;21;24.0
+2018-04-12 11:37:22;paula_wilson.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;20;21.05
+2018-04-12 11:43:55;yoshi_latimer.fejkmejl@gmail.com;Tofu;Produce;15;23.25
+2018-04-12 11:44:35;patricia_mckenna.fejkmejl@gmail.com;Valkoinen suklaa;Confections;40;16.25
+2018-04-12 11:47:58;eduardo_saavedra.fejkmejl@gmail.com;Ikura;Seafood;5;31.0
+2018-04-12 11:58:45;mary_saveley.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;20;21.05
+2018-04-12 12:05:45;simon_crowther.fejkmejl@gmail.com;Chai;Beverages;8;18.0
+2018-04-12 12:06:35;guillermo_fernández.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;20;7.0
+2018-04-12 12:08:08;henriette_pfalzheim.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;30;21.05
+2018-04-12 12:08:16;annette_roulet.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;3;33.25
+2018-04-12 12:08:39;felipe_izquierdo.fejkmejl@gmail.com;Pavlova;Confections;24;17.45
+2018-04-12 12:34:19;paula_wilson.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;2;FREE
+2018-04-12 12:45:42;giovanni_rovelli.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;28;4.5
+2018-04-12 12:53:08;renate_messner.fejkmejl@gmail.com;Laughing Lumberjack Lager;Beverages;5;14.0
+2018-04-12 12:56:46;philip_cramer.fejkmejl@gmail.com;Genen Shouyu;Condiments;5;15.5
+2018-04-12 13:02:46;annette_roulet.fejkmejl@gmail.com;Sasquatch Ale;Beverages;10;14.0
+2018-04-12 13:02:51;yang_wang.fejkmejl@gmail.com;Gravad lax;Seafood;8;26.0
+2018-04-12 13:09:33;frédérique_citeaux.fejkmejl@gmail.com;Ikura;Seafood;14;31.0
+2018-04-12 13:36:35;howard_snyder.fejkmejl@gmail.com;Geitost;Dairy Products;8;2.5
+2018-04-12 13:38:56;bernardo_batista.fejkmejl@gmail.com;Steeleye Stout;Beverages;20;18.0
+2018-04-12 13:43:24;michael_holz.fejkmejl@gmail.com;Röd Kaviar;Seafood;9;15.0
+2018-04-12 13:47:29;art_braunschweiger.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;10;30.0
+2018-04-12 13:56:10;rita_müller.fejkmejl@gmail.com;Queso Manchego La Pastora;Dairy Products;20;38.0
+2018-04-12 14:04:07;palle_ibsen.fejkmejl@gmail.com;Sirop d'érable;Condiments;20;28.5
+2018-04-12 14:14:19;maria_anders.fejkmejl@gmail.com;Aniseed Syrup;Condiments;6;10.0
+2018-04-12 14:23:12;pedro_afonso.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;30;38.0
+2018-04-12 14:24:42;helvetius_nagy.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;18;13.0
+2018-04-12 14:30:51;antonio_moreno.fejkmejl@gmail.com;Chocolade;Confections;15;12.75
+2018-04-12 14:38:32;art_braunschweiger.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;20;34.0
+2018-04-12 14:45:12;jose_pavarotti.fejkmejl@gmail.com;Genen Shouyu;Condiments;50;15.5
+2018-04-12 14:51:07;guillermo_fernández.fejkmejl@gmail.com;Laughing Lumberjack Lager;Beverages;30;14.0
+2018-04-12 14:52:05;pirkko_koskitalo.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;20;9.2
+2018-04-12 14:52:48;carlos_gonzález.fejkmejl@gmail.com;Longlife Tofu;Produce;14;10.0
+2018-04-12 14:58:36;elizabeth_lincoln.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;18;
+2018-04-12 15:22:45;pirkko_koskitalo.fejkmejl@gmail.com;Chai;Beverages;8;18.0
+2018-04-12 15:22:57;rene_phillips.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;15;25.89
+2018-04-12 15:27:21;carlos_hernández.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;30;9.65
+2018-04-12 15:28:15;howard_snyder.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;15;34.0
+2018-04-12 15:58:55;annette_roulet.fejkmejl@gmail.com;Inlagd Sill;Seafood;6;19.0
+2018-04-12 15:59:46;maria_larsson.fejkmejl@gmail.com;Gula Malacca;Condiments;10;FREE
+2018-04-12 16:03:14;roland_mendel.fejkmejl@gmail.com;Queso Manchego La Pastora;Dairy Products;36;38.0
+2018-04-12 16:03:53;philip_cramer.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;35;25.89
+2018-04-12 16:07:54;alexander_feuer.fejkmejl@gmail.com;Konbu;Seafood;20;6.0
+2018-04-12 16:52:04;frédérique_citeaux.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;35;123.79
+2018-04-12 16:55:20;paula_wilson.fejkmejl@gmail.com;Konbu;Seafood;4;6.0
+2018-04-12 17:01:33;dominique_perrier.fejkmejl@gmail.com;Pavlova;Confections;3;17.45
+2018-04-12 17:07:54;renate_messner.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;50;33.25
+2018-04-12 17:36:27;thomas_hardy.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;30;7.0
+2018-04-12 17:40:04;maria_anders.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;15;45.6
+2018-04-12 17:57:37;christina_berglund.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;6;314.16
+2018-04-12 18:00:24;roland_mendel.fejkmejl@gmail.com;Côte de Blaye;Beverages;20;263.5
+2018-04-12 18:01:28;pirkko_koskitalo.fejkmejl@gmail.com;Konbu;Seafood;20;6.0
+2018-04-12 18:22:44;aria_cruz.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;4;7.0
+2018-04-12 18:28:53;jose_pavarotti.fejkmejl@gmail.com;Sirop d'érable;Condiments;90;28.5
+2018-04-12 18:42:47;rene_phillips.fejkmejl@gmail.com;Sirop d'érable;Condiments;6;28.5
+2018-04-12 18:50:35;roland_mendel.fejkmejl@gmail.com;Pavlova;Confections;21;17.45
+2018-04-12 18:50:47;paula_wilson.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;24;34.8
+2018-04-12 19:00:43;patricia_mckenna.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;25;62.5
+2018-04-12 19:01:10;jose_pavarotti.fejkmejl@gmail.com;Ikura;Seafood;70;31.0
+2018-04-12 19:02:08;paula_parente.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;15;14.0
+2018-04-12 19:28:12;paula_wilson.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;6;314.16
+2018-04-12 19:32:32;felipe_izquierdo.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;20;45.6
+2018-04-12 19:36:51;hari_kumar.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;6;9.65
+2018-04-12 19:49:30;maria_larsson.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;50;123.79
+2018-04-12 19:58:40;zbyszek.nowak.fejkmejl@gmail.com;Scottish Longbreads;Confections;15;12.5
+2018-04-13 08:02:21;renate_messner.fejkmejl@gmail.com;Lakkalikööri;Beverages;4;FREE
+2018-04-13 08:04:00;paula_wilson.fejkmejl@gmail.com;Spegesild;Seafood;3;12.0
+2018-04-13 08:08:28;palle_ibsen.fejkmejl@gmail.com;Boston Crab Meat;Seafood;20;18.4
+2018-04-13 08:09:24;maria_anders.fejkmejl@gmail.com;Grandma's Boysenberry Spread;Condiments;16;25.0
+2018-04-13 08:11:33;felipe_izquierdo.fejkmejl@gmail.com;Borówka Basia;Luxury;25;21.37
+2018-04-13 08:16:59;howard_snyder.fejkmejl@gmail.com;Flotemysost;Dairy Products;15;21.5
+2018-04-13 08:38:13;horst_kloss.fejkmejl@gmail.com;Ipoh Coffee;Beverages;40;46.0
+2018-04-13 08:40:03;jose_pavarotti.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;7;14.0
+2018-04-13 09:06:52;antonio_moreno.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;30;314.16
+2018-04-13 09:13:03;maria_larsson.fejkmejl@gmail.com;Scottish Longbreads;Confections;21;12.5
+2018-04-13 09:13:41;roland_mendel.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;40;9.65
+2018-04-13 09:30:02;carlos_gonzález.fejkmejl@gmail.com;Chartreuse verte;Beverages;8;FREE
+2018-04-13 09:39:06;renate_messner.fejkmejl@gmail.com;Gula Malacca;Condiments;21;19.45
+2018-04-13 09:40:31;jean_fresnière.fejkmejl@gmail.com;Pavlova;Confections;16;17.45
+2018-04-13 09:42:32;aria_cruz.fejkmejl@gmail.com;Zaanse koeken;Confections;6;9.5
+2018-04-13 09:57:48;horst_kloss.fejkmejl@gmail.com;Mishi Kobe Niku;Meat/Poultry;16;
+2018-04-13 10:00:17;georg_pipps.fejkmejl@gmail.com;Pavlova;Confections;18;17.45
+2018-04-13 10:10:42;philip_cramer.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;24;123.79
+2018-04-13 10:12:33;jose_pavarotti.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;4;24.0
+2018-04-13 10:19:41;jean_fresnière.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;25;4.5
+2018-04-13 10:26:16;georg_pipps.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;25;33.25
+2018-04-13 10:47:21;michael_holz.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;70;32.8
+2018-04-13 10:48:49;paula_parente.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;24;9.2
+2018-04-13 10:52:09;frédérique_citeaux.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;30;39.0
+2018-04-13 11:07:37;jytte_petersen.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;30;10.0
+2018-04-13 11:30:38;matti_karttunen.fejkmejl@gmail.com;Sirop d'érable;Condiments;5;28.5
+2018-04-13 11:38:55;janete_limeira.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;10;14.0
+2018-04-13 11:47:12;janete_limeira.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;12;39.0
+2018-04-13 11:51:51;annette_roulet.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;18;36.0
+2018-04-13 12:11:55;paula_wilson.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;2;34.0
+2018-04-13 12:12:28;roland_mendel.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;4;33.25
+2018-04-13 12:18:21;palle_ibsen.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;60;45.6
+2018-04-13 12:20:23;horst_kloss.fejkmejl@gmail.com;Inlagd Sill;Seafood;12;19.0
+2018-04-13 12:23:59;maria_larsson.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;60;30.0
+2018-04-13 12:25:04;peter_franken.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;32;10.0
+2018-04-13 12:28:38;henriette_pfalzheim.fejkmejl@gmail.com;Chartreuse verte;Beverages;10;18.0
+2018-04-13 12:31:34;paula_wilson.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;1;30.0
+2018-04-13 12:40:08;victoria_ashworth.fejkmejl@gmail.com;Spegesild;Seafood;15;12.0
+2018-04-13 13:06:46;miguel_angel_paolino.fejkmejl@gmail.com;Lakkalikööri;Beverages;30;18.0
+2018-04-13 13:09:24;philip_cramer.fejkmejl@gmail.com;Outback Lager;Beverages;14;15.0
+2018-04-13 13:13:11;horst_kloss.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;9;14.0
+2018-04-13 13:14:33;rita_müller.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;25;9.0
+2018-04-13 13:14:45;jean_fresnière.fejkmejl@gmail.com;Steeleye Stout;Beverages;60;18.0
+2018-04-13 13:28:01;sergio_gutiérrez.fejkmejl@gmail.com;Mascarpone Fabioli;Dairy Products;6;32.0
+2018-04-13 13:39:26;frédérique_citeaux.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;30;33.25
+2018-04-13 13:51:11;paula_wilson.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;2;7.0
+2018-04-13 14:04:53;guillermo_fernández.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;20;
+2018-04-13 14:23:01;laurence_lebihan.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;20;62.5
+2018-04-13 14:25:14;horst_kloss.fejkmejl@gmail.com;Borówka Basia;Luxury;15;21.37
+2018-04-13 14:33:16;zbyszek.nowak.fejkmejl@gmail.com;Longlife Tofu;Produce;20;10.0
+2018-04-13 14:33:23;elizabeth_lincoln.fejkmejl@gmail.com;Tarte au sucre;Confections;20;49.3
+2018-04-13 14:34:35;renate_messner.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;25;21.0
+2018-04-13 14:39:13;paula_wilson.fejkmejl@gmail.com;Northwoods Cranberry Sauce;Condiments;2;40.0
+2018-04-13 14:49:58;jose_pavarotti.fejkmejl@gmail.com;Flotemysost;Dairy Products;60;21.5
+2018-04-13 14:58:04;pascale_cartrain.fejkmejl@gmail.com;Boston Crab Meat;Seafood;5;18.4
+2018-04-13 15:07:39;sergio_gutiérrez.fejkmejl@gmail.com;Côte de Blaye;Beverages;2;263.5
+2018-04-13 15:12:38;renate_messner.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;15;25.89
+2018-04-13 15:15:58;andré_fonseca.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;20;14.0
+2018-04-13 15:17:39;liz_nixon.fejkmejl@gmail.com;Sasquatch Ale;Beverages;10;14.0
+2018-04-13 15:22:47;karl_jablonski.fejkmejl@gmail.com;Sasquatch Ale;Beverages;35;14.0
+2018-04-13 15:22:55;alejandra_camino.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;1;9.2
+2018-04-13 15:23:44;michael_holz.fejkmejl@gmail.com;Geitost;Dairy Products;15;2.5
+2018-04-13 15:24:39;renate_messner.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;30;33.25
+2018-04-13 15:25:49;paula_wilson.fejkmejl@gmail.com;Chef Anton's Gumbo Mix;Condiments;12;21.35
+2018-04-13 15:29:38;peter_franken.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;70;55.0
+2018-04-13 15:35:28;maria_larsson.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;60;38.0
+2018-04-13 15:35:43;paula_wilson.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;2;24.0
+2018-04-13 16:14:54;maria_larsson.fejkmejl@gmail.com;Spegesild;Seafood;25;12.0
+2018-04-13 16:23:14;elizabeth_lincoln.fejkmejl@gmail.com;Aniseed Syrup;Condiments;20;10.0
+2018-04-13 16:40:09;victoria_ashworth.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;20;38.0
+2018-04-13 16:59:20;christina_berglund.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;30;9.65
+2018-04-13 17:15:32;carlos_gonzález.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;70;9.0
+2018-04-13 17:19:05;hari_kumar.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;25;39.0
+2018-04-13 17:28:39;yvonne_moncada.fejkmejl@gmail.com;Sir Rodney's Marmalade;Confections;15;81.0
+2018-04-13 17:31:18;roland_mendel.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;60;25.89
+2018-04-13 17:31:49;hari_kumar.fejkmejl@gmail.com;Gravad lax;Seafood;18;26.0
+2018-04-13 17:37:54;lúcia_carvalho.fejkmejl@gmail.com;Ipoh Coffee;Beverages;36;46.0
+2018-04-13 17:39:46;antonio_moreno.fejkmejl@gmail.com;Sasquatch Ale;Beverages;40;14.0
+2018-04-13 17:43:56;carlos_gonzález.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;20;45.6
+2018-04-13 18:21:28;mary_saveley.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;15;19.5
+2018-04-13 18:32:21;karin_josephs.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;40;53.0
+2018-04-13 18:33:52;georg_pipps.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;15;31.23
+2018-04-13 18:55:04;jose_pavarotti.fejkmejl@gmail.com;Geitost;Dairy Products;30;2.5
+2018-04-13 19:05:10;renate_messner.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;25;34.8
+2018-04-13 19:18:12;renate_messner.fejkmejl@gmail.com;Schoggi Schokolade;Confections;15;43.9
+2018-04-13 19:33:39;fran_wilson.fejkmejl@gmail.com;Laughing Lumberjack Lager;Beverages;7;14.0
+2018-04-13 19:45:44;carlos_hernández.fejkmejl@gmail.com;Longlife Tofu;Produce;16;10.0
+2018-04-16 08:01:47;renate_messner.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;10;25.89
+2018-04-16 08:05:03;thomas_hardy.fejkmejl@gmail.com;Borówka Basia;Luxury;15;21.37
+2018-04-16 08:09:29;patricia_mckenna.fejkmejl@gmail.com;Chai;Beverages;15;18.0
+2018-04-16 08:10:54;paula_parente.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;20;7.0
+2018-04-16 08:12:21;mary_saveley.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;40;34.8
+2018-04-16 08:12:37;elizabeth_lincoln.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;16;55.0
+2018-04-16 08:15:34;karl_jablonski.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;20;34.8
+2018-04-16 08:23:55;paula_wilson.fejkmejl@gmail.com;Côte de Blaye;Beverages;30;FREE
+2018-04-16 08:29:44;michael_holz.fejkmejl@gmail.com;Inlagd Sill;Seafood;25;19.0
+2018-04-16 08:31:50;laurence_lebihan.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;16;34.8
+2018-04-16 08:39:12;felipe_izquierdo.fejkmejl@gmail.com;Rogede sild;Seafood;20;9.5
+2018-04-16 08:44:25;martine_rancé.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;35;30.0
+2018-04-16 09:02:37;karl_jablonski.fejkmejl@gmail.com;Rogede sild;Seafood;40;9.5
+2018-04-16 09:03:29;pascale_cartrain.fejkmejl@gmail.com;Borówka Basia;Luxury;35;21.37
+2018-04-16 09:19:21;henriette_pfalzheim.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;9;32.8
+2018-04-16 09:32:27;maria_larsson.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;35;FREE
+2018-04-16 09:42:23;mario_pontes.fejkmejl@gmail.com;Scottish Longbreads;Confections;20;12.5
+2018-04-16 09:50:30;daniel_tonini.fejkmejl@gmail.com;Lakkalikööri;Beverages;20;18.0
+2018-04-16 09:55:39;antonio_moreno.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;15;55.0
+2018-04-16 10:03:32;elizabeth_lincoln.fejkmejl@gmail.com;Gula Malacca;Condiments;18;19.45
+2018-04-16 10:07:07;renate_messner.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;20;36.0
+2018-04-16 10:08:11;carlos_hernández.fejkmejl@gmail.com;Chang;Beverages;50;19.0
+2018-04-16 10:10:26;jose_pavarotti.fejkmejl@gmail.com;Borówka Basia;Luxury;44;21.37
+2018-04-16 10:31:08;alexander_feuer.fejkmejl@gmail.com;Tarte au sucre;Confections;12;49.3
+2018-04-16 10:32:06;jose_pavarotti.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;15;45.6
+2018-04-16 10:34:05;helvetius_nagy.fejkmejl@gmail.com;Boston Crab Meat;Seafood;2;18.4
+2018-04-16 10:37:51;pirkko_koskitalo.fejkmejl@gmail.com;Konbu;Seafood;10;6.0
+2018-04-16 10:42:57;hari_kumar.fejkmejl@gmail.com;Chai;Beverages;40;18.0
+2018-04-16 10:54:02;alejandra_camino.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;10;9.0
+2018-04-16 11:09:45;jose_pavarotti.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;100;55.0
+2018-04-16 11:11:43;lúcia_carvalho.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;5;9.2
+2018-04-16 11:21:37;jose_pavarotti.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;12;9.65
+2018-04-16 11:26:16;rita_müller.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;20;36.0
+2018-04-16 11:27:52;yoshi_tannamuri.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;5;13.0
+2018-04-16 11:28:46;martine_rancé.fejkmejl@gmail.com;Zaanse koeken;Confections;30;9.5
+2018-04-16 11:30:15;ann_devon.fejkmejl@gmail.com;Ipoh Coffee;Beverages;6;46.0
+2018-04-16 11:35:44;roland_mendel.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;25;19.5
+2018-04-16 11:59:54;horst_kloss.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;50;9.2
+2018-04-16 12:03:25;michael_holz.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;6;53.0
+2018-04-16 12:05:36;roland_mendel.fejkmejl@gmail.com;Aniseed Syrup;Condiments;25;10.0
+2018-04-16 12:07:21;philip_cramer.fejkmejl@gmail.com;Tofu;Produce;9;23.25
+2018-04-16 12:22:06;laurence_lebihan.fejkmejl@gmail.com;Ipoh Coffee;Beverages;40;46.0
+2018-04-16 12:25:10;mario_pontes.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;12;7.0
+2018-04-16 12:25:26;lino_rodriguez.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;30;38.0
+2018-04-16 12:38:12;patricia_mckenna.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;80;123.79
+2018-04-16 12:54:10;lúcia_carvalho.fejkmejl@gmail.com;Outback Lager;Beverages;40;15.0
+2018-04-16 12:54:57;thomas_hardy.fejkmejl@gmail.com;Outback Lager;Beverages;25;15.0
+2018-04-16 13:19:49;martine_rancé.fejkmejl@gmail.com;Tourtière;Meat/Poultry;6;7.45
+2018-04-16 13:27:23;jose_pavarotti.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;25;14.0
+2018-04-16 13:44:42;patricia_mckenna.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;20;22.0
+2018-04-16 14:11:08;jose_pavarotti.fejkmejl@gmail.com;Chang;Beverages;3;19.0
+2018-04-16 14:13:27;carlos_hernández.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;30;25.89
+2018-04-16 14:16:43;philip_cramer.fejkmejl@gmail.com;Northwoods Cranberry Sauce;Condiments;30;40.0
+2018-04-16 14:17:33;annette_roulet.fejkmejl@gmail.com;Chang;Beverages;15;19.0
+2018-04-16 14:20:41;paula_parente.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;4;62.5
+2018-04-16 14:39:17;sven_ottlieb.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;20;21.0
+2018-04-16 14:54:38;horst_kloss.fejkmejl@gmail.com;Konbu;Seafood;77;6.0
+2018-04-16 15:01:59;horst_kloss.fejkmejl@gmail.com;Gula Malacca;Condiments;50;19.45
+2018-04-16 15:30:00;jytte_petersen.fejkmejl@gmail.com;Sirop d'érable;Condiments;20;
+2018-04-16 15:32:05;ann_devon.fejkmejl@gmail.com;Maxilaku;Confections;30;20.0
+2018-04-16 15:38:23;manuel_pereira.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;4;34.8
+2018-04-16 15:43:37;yoshi_latimer.fejkmejl@gmail.com;Röd Kaviar;Seafood;30;15.0
+2018-04-16 15:46:44;pascale_cartrain.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;15;38.0
+2018-04-16 15:47:11;victoria_ashworth.fejkmejl@gmail.com;Geitost;Dairy Products;15;2.5
+2018-04-16 16:02:07;palle_ibsen.fejkmejl@gmail.com;Boston Crab Meat;Seafood;50;18.4
+2018-04-16 16:20:44;patricia_mckenna.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;2;14.0
+2018-04-16 16:21:24;peter_franken.fejkmejl@gmail.com;Gravad lax;Seafood;28;26.0
+2018-04-16 16:21:31;jose_pavarotti.fejkmejl@gmail.com;Konbu;Seafood;28;6.0
+2018-04-16 16:34:46;patricio_simpson.fejkmejl@gmail.com;Borówka Basia;Luxury;1;21.37
+2018-04-16 16:37:16;maria_larsson.fejkmejl@gmail.com;Zaanse koeken;Confections;30;
+2018-04-16 16:42:07;roland_mendel.fejkmejl@gmail.com;Chartreuse verte;Beverages;130;18.0
+2018-04-16 16:42:49;hari_kumar.fejkmejl@gmail.com;Maxilaku;Confections;4;20.0
+2018-04-16 17:03:27;karl_jablonski.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;5;45.6
+2018-04-16 17:05:56;mario_pontes.fejkmejl@gmail.com;Borówka Basia;Luxury;10;21.37
+2018-04-16 17:06:57;henriette_pfalzheim.fejkmejl@gmail.com;Pavlova;Confections;30;17.45
+2018-04-16 17:10:35;carlos_gonzález.fejkmejl@gmail.com;Konbu;Seafood;10;6.0
+2018-04-16 17:21:50;georg_pipps.fejkmejl@gmail.com;Sirop d'érable;Condiments;20;28.5
+2018-04-16 17:23:28;christina_berglund.fejkmejl@gmail.com;Steeleye Stout;Beverages;8;18.0
+2018-04-16 17:32:50;annette_roulet.fejkmejl@gmail.com;Lakkalikööri;Beverages;14;18.0
+2018-04-16 17:43:38;roland_mendel.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;65;21.05
+2018-04-16 17:46:33;renate_messner.fejkmejl@gmail.com;Borówka Basia;Luxury;20;21.37
+2018-04-16 17:47:34;jose_pavarotti.fejkmejl@gmail.com;Zaanse koeken;Confections;10;9.5
+2018-04-16 17:47:37;zbyszek.nowak.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;15;34.0
+2018-04-16 18:02:33;antonio_moreno.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;30;31.23
+2018-04-16 18:02:34;anabela_domingues.fejkmejl@gmail.com;Chartreuse verte;Beverages;28;18.0
+2018-04-16 18:37:44;christina_berglund.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;30;45.6
+2018-04-16 18:49:21;yoshi_latimer.fejkmejl@gmail.com;Sir Rodney's Marmalade;Confections;21;81.0
+2018-04-16 18:50:04;sven_ottlieb.fejkmejl@gmail.com;Konbu;Seafood;18;6.0
+2018-04-16 18:55:12;jytte_petersen.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;25;25.89
+2018-04-16 18:57:31;pirkko_koskitalo.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;24;34.0
+2018-04-16 19:00:32;thomas_hardy.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;21;24.0
+2018-04-16 19:02:29;maria_larsson.fejkmejl@gmail.com;Tarte au sucre;Confections;6;49.3
+2018-04-16 19:03:12;victoria_ashworth.fejkmejl@gmail.com;Steeleye Stout;Beverages;20;18.0
+2018-04-16 19:04:59;paula_wilson.fejkmejl@gmail.com;Louisiana Hot Spiced Okra;Condiments;1;17.0
+2018-04-16 19:08:37;philip_cramer.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;40;10.0
+2018-04-16 19:09:36;patricia_mckenna.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;35;
+2018-04-16 19:10:59;paula_wilson.fejkmejl@gmail.com;Flotemysost;Dairy Products;60;21.5
+2018-04-16 19:21:49;maurizio_moroni.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;20;13.0
+2018-04-16 19:33:38;carlos_gonzález.fejkmejl@gmail.com;Pavlova;Confections;30;17.45
+2018-04-16 19:36:23;laurence_lebihan.fejkmejl@gmail.com;Pavlova;Confections;12;17.45
+2018-04-17 08:02:40;patricia_mckenna.fejkmejl@gmail.com;Borówka Basia;Luxury;25;21.37
+2018-04-17 08:09:34;hanna_moos.fejkmejl@gmail.com;Lakkalikööri;Beverages;14;18.0
+2018-04-17 08:16:10;roland_mendel.fejkmejl@gmail.com;Sirop d'érable;Condiments;120;28.5
+2018-04-17 08:26:27;horst_kloss.fejkmejl@gmail.com;Outback Lager;Beverages;20;15.0
+2018-04-17 08:29:07;lúcia_carvalho.fejkmejl@gmail.com;Boston Crab Meat;Seafood;2;18.4
+2018-04-17 08:30:03;helen_bennett.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;21;34.0
+2018-04-17 08:35:18;carlos_hernández.fejkmejl@gmail.com;Flotemysost;Dairy Products;30;21.5
+2018-04-17 08:40:23;fran_wilson.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;7;45.6
+2018-04-17 08:46:23;josé_pedro_freyre.fejkmejl@gmail.com;Scottish Longbreads;Confections;15;12.5
+2018-04-17 08:47:06;miguel_angel_paolino.fejkmejl@gmail.com;Flotemysost;Dairy Products;2;21.5
+2018-04-17 08:47:14;henriette_pfalzheim.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;20;9.0
+2018-04-17 08:47:52;pedro_afonso.fejkmejl@gmail.com;Maxilaku;Confections;15;20.0
+2018-04-17 08:49:24;jose_pavarotti.fejkmejl@gmail.com;Chang;Beverages;100;
+2018-04-17 08:49:52;georg_pipps.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;35;9.65
+2018-04-17 08:52:50;art_braunschweiger.fejkmejl@gmail.com;Côte de Blaye;Beverages;20;263.5
+2018-04-17 08:54:42;mary_saveley.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;10;30.0
+2018-04-17 09:05:23;elizabeth_lincoln.fejkmejl@gmail.com;Geitost;Dairy Products;49;2.5
+2018-04-17 09:33:18;christina_berglund.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;20;24.0
+2018-04-17 09:43:11;frédérique_citeaux.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;15;19.5
+2018-04-17 09:57:08;eduardo_saavedra.fejkmejl@gmail.com;Zaanse koeken;Confections;5;9.5
+2018-04-17 10:07:13;jose_pavarotti.fejkmejl@gmail.com;Queso Manchego La Pastora;Dairy Products;100;38.0
+2018-04-17 10:32:02;patricio_simpson.fejkmejl@gmail.com;Steeleye Stout;Beverages;3;18.0
+2018-04-17 10:40:58;jose_pavarotti.fejkmejl@gmail.com;Spegesild;Seafood;45;12.0
+2018-04-17 11:06:17;alexander_feuer.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;12;55.0
+2018-04-17 11:12:23;victoria_ashworth.fejkmejl@gmail.com;Tarte au sucre;Confections;10;49.3
+2018-04-17 11:13:01;patricia_mckenna.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;40;21.05
+2018-04-17 11:27:04;georg_pipps.fejkmejl@gmail.com;Ipoh Coffee;Beverages;25;46.0
+2018-04-17 11:36:19;janete_limeira.fejkmejl@gmail.com;Spegesild;Seafood;15;12.0
+2018-04-17 11:43:14;fran_wilson.fejkmejl@gmail.com;Chai;Beverages;20;18.0
+2018-04-17 11:45:24;annette_roulet.fejkmejl@gmail.com;Konbu;Seafood;3;6.0
+2018-04-17 11:46:01;georg_pipps.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;40;39.0
+2018-04-17 11:59:23;pirkko_koskitalo.fejkmejl@gmail.com;Queso Manchego La Pastora;Dairy Products;12;38.0
+2018-04-17 12:10:42;jose_pavarotti.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;7;55.0
+2018-04-17 12:28:24;christina_berglund.fejkmejl@gmail.com;Boston Crab Meat;Seafood;50;FREE
+2018-04-17 12:50:37;hanna_moos.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;8;
+2018-04-17 12:51:24;martine_rancé.fejkmejl@gmail.com;Steeleye Stout;Beverages;15;18.0
+2018-04-17 12:56:11;francisco_chang.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;10;10.0
+2018-04-17 13:06:21;mario_pontes.fejkmejl@gmail.com;Sirop d'érable;Condiments;10;28.5
+2018-04-17 13:10:33;peter_franken.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;50;9.2
+2018-04-17 13:23:17;renate_messner.fejkmejl@gmail.com;Boston Crab Meat;Seafood;10;18.4
+2018-04-17 13:23:59;rita_müller.fejkmejl@gmail.com;Chang;Beverages;30;
+2018-04-17 13:27:13;roland_mendel.fejkmejl@gmail.com;Borówka Basia;Luxury;70;21.37
+2018-04-17 13:29:55;josé_pedro_freyre.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;10;24.0
+2018-04-17 13:36:27;horst_kloss.fejkmejl@gmail.com;Chai;Beverages;30;18.0
+2018-04-17 13:38:19;guillermo_fernández.fejkmejl@gmail.com;Tofu;Produce;12;23.25
+2018-04-17 13:39:24;giovanni_rovelli.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;30;34.8
+2018-04-17 13:44:34;josé_pedro_freyre.fejkmejl@gmail.com;Boston Crab Meat;Seafood;40;18.4
+2018-04-17 13:47:44;jytte_petersen.fejkmejl@gmail.com;Côte de Blaye;Beverages;50;263.5
+2018-04-17 13:53:25;felipe_izquierdo.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;28;9.65
+2018-04-17 14:01:58;miguel_angel_paolino.fejkmejl@gmail.com;Outback Lager;Beverages;12;15.0
+2018-04-17 14:02:21;jose_pavarotti.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;15;19.5
+2018-04-17 14:10:34;jose_pavarotti.fejkmejl@gmail.com;Konbu;Seafood;56;6.0
+2018-04-17 14:12:12;thomas_hardy.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;25;4.5
+2018-04-17 14:21:02;roland_mendel.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;45;36.0
+2018-04-17 14:23:16;zbyszek.nowak.fejkmejl@gmail.com;Tourtière;Meat/Poultry;3;7.45
+2018-04-17 14:25:46;maria_larsson.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;6;21.0
+2018-04-17 14:36:38;dominique_perrier.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;10;36.0
+2018-04-17 14:37:01;helen_bennett.fejkmejl@gmail.com;Geitost;Dairy Products;12;2.5
+2018-04-17 14:41:33;peter_franken.fejkmejl@gmail.com;Borówka Basia;Luxury;56;21.37
+2018-04-17 14:55:25;maria_larsson.fejkmejl@gmail.com;Chang;Beverages;25;19.0
+2018-04-17 14:55:52;helen_bennett.fejkmejl@gmail.com;Tarte au sucre;Confections;2;
+2018-04-17 14:57:05;pirkko_koskitalo.fejkmejl@gmail.com;Pavlova;Confections;14;17.45
+2018-04-17 14:57:16;henriette_pfalzheim.fejkmejl@gmail.com;Boston Crab Meat;Seafood;20;18.4
+2018-04-17 14:59:11;paula_wilson.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;30;
+2018-04-17 15:01:10;patricia_mckenna.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;60;123.79
+2018-04-17 15:11:13;rita_müller.fejkmejl@gmail.com;Outback Lager;Beverages;15;15.0
+2018-04-17 15:13:26;philip_cramer.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;36;55.0
+2018-04-17 15:14:21;victoria_ashworth.fejkmejl@gmail.com;Konbu;Seafood;15;6.0
+2018-04-17 15:33:29;laurence_lebihan.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;30;62.5
+2018-04-17 15:35:04;rita_müller.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;4;45.6
+2018-04-17 15:37:14;michael_holz.fejkmejl@gmail.com;Chang;Beverages;20;19.0
+2018-04-17 15:41:46;aria_cruz.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;6;24.0
+2018-04-17 15:45:48;lúcia_carvalho.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;28;13.0
+2018-04-17 15:49:56;hari_kumar.fejkmejl@gmail.com;Inlagd Sill;Seafood;60;19.0
+2018-04-17 16:04:23;laurence_lebihan.fejkmejl@gmail.com;Pavlova;Confections;15;17.45
+2018-04-17 16:05:47;ann_devon.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;21;123.79
+2018-04-17 16:16:15;howard_snyder.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;14;38.0
+2018-04-17 16:16:27;lúcia_carvalho.fejkmejl@gmail.com;Lakkalikööri;Beverages;60;18.0
+2018-04-17 16:21:49;patricia_mckenna.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;80;9.65
+2018-04-17 16:48:46;anabela_domingues.fejkmejl@gmail.com;Sir Rodney's Marmalade;Confections;20;81.0
+2018-04-17 17:04:13;bernardo_batista.fejkmejl@gmail.com;Steeleye Stout;Beverages;21;18.0
+2018-04-17 17:05:55;horst_kloss.fejkmejl@gmail.com;Steeleye Stout;Beverages;25;18.0
+2018-04-17 17:14:39;ana_trujillo.fejkmejl@gmail.com;Mascarpone Fabioli;Dairy Products;10;32.0
+2018-04-17 17:27:14;yang_wang.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;30;33.25
+2018-04-17 17:29:35;christina_berglund.fejkmejl@gmail.com;Ipoh Coffee;Beverages;60;46.0
+2018-04-17 17:31:29;carlos_hernández.fejkmejl@gmail.com;Boston Crab Meat;Seafood;5;18.4
+2018-04-17 17:32:34;laurence_lebihan.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;10;9.2
+2018-04-17 17:33:49;horst_kloss.fejkmejl@gmail.com;Côte de Blaye;Beverages;30;263.5
+2018-04-17 17:48:10;elizabeth_brown.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;10;
+2018-04-17 17:53:47;catherine_dewey.fejkmejl@gmail.com;Lakkalikööri;Beverages;6;18.0
+2018-04-17 18:00:58;jose_pavarotti.fejkmejl@gmail.com;Chai;Beverages;45;18.0
+2018-04-17 18:01:35;roland_mendel.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;70;38.0
+2018-04-17 18:09:06;karl_jablonski.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;40;10.0
+2018-04-17 18:10:17;henriette_pfalzheim.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;9;9.65
+2018-04-17 18:24:59;philip_cramer.fejkmejl@gmail.com;Tarte au sucre;Confections;25;49.3
+2018-04-17 18:37:22;helvetius_nagy.fejkmejl@gmail.com;Geitost;Dairy Products;14;2.5
+2018-04-17 18:47:37;mario_pontes.fejkmejl@gmail.com;Flotemysost;Dairy Products;9;21.5
+2018-04-17 19:03:19;jose_pavarotti.fejkmejl@gmail.com;Zaanse koeken;Confections;50;9.5
+2018-04-17 19:08:49;horst_kloss.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;7;34.8
+2018-04-17 19:15:55;horst_kloss.fejkmejl@gmail.com;Flotemysost;Dairy Products;35;21.5
+2018-04-17 19:18:19;eduardo_saavedra.fejkmejl@gmail.com;Lakkalikööri;Beverages;5;18.0
+2018-04-17 19:18:37;maurizio_moroni.fejkmejl@gmail.com;Borówka Basia;Luxury;16;21.37
+2018-04-17 19:22:20;karl_jablonski.fejkmejl@gmail.com;Spegesild;Seafood;18;12.0
+2018-04-17 19:29:46;jose_pavarotti.fejkmejl@gmail.com;Gustaf's Knäckebröd;Grains/Cereals;48;21.0
+2018-04-17 19:32:17;peter_franken.fejkmejl@gmail.com;Inlagd Sill;Seafood;40;19.0
+2018-04-17 19:38:43;michael_holz.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;20;31.23
+2018-04-17 19:43:17;carlos_gonzález.fejkmejl@gmail.com;Genen Shouyu;Condiments;20;15.5
+2018-04-17 19:49:22;josé_pedro_freyre.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;12;4.5
+2018-04-17 19:53:10;paula_parente.fejkmejl@gmail.com;Zaanse koeken;Confections;15;9.5
+2018-04-18 08:02:54;peter_franken.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;49;314.16
+2018-04-18 08:07:06;jose_pavarotti.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;24;9.65
+2018-04-18 08:11:00;giovanni_rovelli.fejkmejl@gmail.com;Louisiana Hot Spiced Okra;Condiments;30;17.0
+2018-04-18 08:14:47;victoria_ashworth.fejkmejl@gmail.com;Maxilaku;Confections;6;20.0
+2018-04-18 08:16:09;aria_cruz.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;30;25.89
+2018-04-18 08:29:24;paolo_accorti.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;10;13.0
+2018-04-18 08:45:46;christina_berglund.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;12;22.0
+2018-04-18 08:46:57;carlos_hernández.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;21;31.23
+2018-04-18 08:58:52;howard_snyder.fejkmejl@gmail.com;Côte de Blaye;Beverages;30;263.5
+2018-04-18 09:06:59;jean_fresnière.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;42;10.0
+2018-04-18 09:08:46;michael_holz.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;36;123.79
+2018-04-18 09:09:58;victoria_ashworth.fejkmejl@gmail.com;Aniseed Syrup;Condiments;30;10.0
+2018-04-18 09:17:38;patricia_mckenna.fejkmejl@gmail.com;Lakkalikööri;Beverages;35;18.0
+2018-04-18 09:29:52;helen_bennett.fejkmejl@gmail.com;Steeleye Stout;Beverages;10;18.0
+2018-04-18 09:37:33;roland_mendel.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;50;10.0
+2018-04-18 09:40:06;ann_devon.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;15;25.89
+2018-04-18 09:44:58;pirkko_koskitalo.fejkmejl@gmail.com;Rogede sild;Seafood;40;9.5
+2018-04-18 09:46:00;peter_franken.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;24;31.23
+2018-04-18 09:49:53;karl_jablonski.fejkmejl@gmail.com;Tarte au sucre;Confections;3;49.3
+2018-04-18 09:59:39;bernardo_batista.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;4;9.65
+2018-04-18 10:03:27;horst_kloss.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;90;30.0
+2018-04-18 10:04:48;elizabeth_brown.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;21;9.0
+2018-04-18 10:10:36;zbyszek.nowak.fejkmejl@gmail.com;Steeleye Stout;Beverages;3;18.0
+2018-04-18 10:40:51;paula_wilson.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;30;13.0
+2018-04-18 10:54:45;janete_limeira.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;70;7.0
+2018-04-18 10:56:53;patricio_simpson.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;10;9.65
+2018-04-18 10:57:08;carlos_hernández.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;18;36.0
+2018-04-18 10:57:16;janete_limeira.fejkmejl@gmail.com;Outback Lager;Beverages;20;15.0
+2018-04-18 11:09:37;laurence_lebihan.fejkmejl@gmail.com;Konbu;Seafood;20;6.0
+2018-04-18 11:11:18;lino_rodriguez.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;7;13.0
+2018-04-18 11:25:08;josé_pedro_freyre.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;20;123.79
+2018-04-18 11:31:06;patricio_simpson.fejkmejl@gmail.com;Geitost;Dairy Products;10;2.5
+2018-04-18 11:44:26;annette_roulet.fejkmejl@gmail.com;Lakkalikööri;Beverages;20;18.0
+2018-04-18 11:48:52;carlos_hernández.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;30;314.16
+2018-04-18 11:57:57;ann_devon.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;50;34.0
+2018-04-18 12:02:29;rene_phillips.fejkmejl@gmail.com;Gula Malacca;Condiments;12;19.45
+2018-04-18 12:05:29;peter_franken.fejkmejl@gmail.com;Röd Kaviar;Seafood;20;15.0
+2018-04-18 12:22:35;frédérique_citeaux.fejkmejl@gmail.com;Chartreuse verte;Beverages;60;FREE
+2018-04-18 12:32:01;horst_kloss.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;100;14.0
+2018-04-18 12:36:23;jytte_petersen.fejkmejl@gmail.com;Tarte au sucre;Confections;5;49.3
+2018-04-18 12:54:22;roland_mendel.fejkmejl@gmail.com;Flotemysost;Dairy Products;14;FREE
+2018-04-18 12:56:42;martine_rancé.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;50;62.5
+2018-04-18 12:59:47;palle_ibsen.fejkmejl@gmail.com;Ikura;Seafood;25;31.0
+2018-04-18 13:12:29;horst_kloss.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;35;33.25
+2018-04-18 13:19:29;palle_ibsen.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;14;13.0
+2018-04-18 13:39:02;paula_wilson.fejkmejl@gmail.com;Tarte au sucre;Confections;50;49.3
+2018-04-18 13:40:24;bernardo_batista.fejkmejl@gmail.com;Vegie-spread;Condiments;16;43.9
+2018-04-18 13:42:09;elizabeth_lincoln.fejkmejl@gmail.com;Grandma's Boysenberry Spread;Condiments;12;25.0
+2018-04-18 13:43:26;martine_rancé.fejkmejl@gmail.com;Vegie-spread;Condiments;30;43.9
+2018-04-18 13:49:24;mary_saveley.fejkmejl@gmail.com;Ikura;Seafood;20;31.0
+2018-04-18 14:04:06;rene_phillips.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;40;14.0
+2018-04-18 14:06:47;maria_anders.fejkmejl@gmail.com;Spegesild;Seafood;2;12.0
+2018-04-18 14:19:33;renate_messner.fejkmejl@gmail.com;Sir Rodney's Marmalade;Confections;21;81.0
+2018-04-18 14:27:58;bernardo_batista.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;15;21.0
+2018-04-18 14:52:37;fran_wilson.fejkmejl@gmail.com;Queso Manchego La Pastora;Dairy Products;20;38.0
+2018-04-18 14:59:32;georg_pipps.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;30;36.0
+2018-04-18 15:35:21;elizabeth_lincoln.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;25;9.65
+2018-04-18 15:35:45;palle_ibsen.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;25;4.5
+2018-04-18 15:45:52;jonas_bergulfsen.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;15;25.89
+2018-04-18 15:55:26;lúcia_carvalho.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;15;13.25
+2018-04-18 16:01:13;guillermo_fernández.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;6;32.8
+2018-04-18 16:05:13;giovanni_rovelli.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;20;9.65
+2018-04-18 16:07:32;henriette_pfalzheim.fejkmejl@gmail.com;Tofu;Produce;15;23.25
+2018-04-18 16:08:20;jean_fresnière.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;10;22.0
+2018-04-18 16:18:08;jose_pavarotti.fejkmejl@gmail.com;Rogede sild;Seafood;110;9.5
+2018-04-18 16:18:13;roland_mendel.fejkmejl@gmail.com;Steeleye Stout;Beverages;30;FREE
+2018-04-18 16:30:16;maria_anders.fejkmejl@gmail.com;Chartreuse verte;Beverages;21;18.0
+2018-04-18 16:39:31;catherine_dewey.fejkmejl@gmail.com;Rogede sild;Seafood;15;9.5
+2018-04-18 16:44:07;hari_kumar.fejkmejl@gmail.com;Scottish Longbreads;Confections;20;12.5
+2018-04-18 16:52:57;christina_berglund.fejkmejl@gmail.com;Vegie-spread;Condiments;8;43.9
+2018-04-18 16:53:52;maria_larsson.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;30;9.0
+2018-04-18 16:57:07;yang_wang.fejkmejl@gmail.com;Chang;Beverages;30;19.0
+2018-04-18 17:08:32;jose_pavarotti.fejkmejl@gmail.com;Scottish Longbreads;Confections;55;12.5
+2018-04-18 17:12:20;miguel_angel_paolino.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;5;FREE
+2018-04-18 17:33:21;laurence_lebihan.fejkmejl@gmail.com;Borówka Basia;Luxury;3;21.37
+2018-04-18 17:35:07;mary_saveley.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;16;30.0
+2018-04-18 17:35:29;rene_phillips.fejkmejl@gmail.com;Borówka Basia;Luxury;14;21.37
+2018-04-18 17:49:29;janine_labrune.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;14;9.65
+2018-04-18 17:51:58;mario_pontes.fejkmejl@gmail.com;Chartreuse verte;Beverages;42;FREE
+2018-04-18 17:54:04;laurence_lebihan.fejkmejl@gmail.com;Tourtière;Meat/Poultry;24;7.45
+2018-04-18 17:54:13;roland_mendel.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;130;33.25
+2018-04-18 18:07:09;jytte_petersen.fejkmejl@gmail.com;Pavlova;Confections;14;17.45
+2018-04-18 18:10:05;karl_jablonski.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;20;39.0
+2018-04-18 18:11:04;liu_wong.fejkmejl@gmail.com;Boston Crab Meat;Seafood;10;18.4
+2018-04-18 18:16:17;pascale_cartrain.fejkmejl@gmail.com;Flotemysost;Dairy Products;50;21.5
+2018-04-18 18:16:33;liz_nixon.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;2;34.8
+2018-04-18 18:51:42;yang_wang.fejkmejl@gmail.com;Longlife Tofu;Produce;21;FREE
+2018-04-18 19:11:50;paula_wilson.fejkmejl@gmail.com;Chartreuse verte;Beverages;2;18.0
+2018-04-18 19:25:17;victoria_ashworth.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;9;33.25
+2018-04-18 19:35:12;hanna_moos.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;21;34.0
+2018-04-18 19:36:18;elizabeth_lincoln.fejkmejl@gmail.com;Geitost;Dairy Products;15;2.5
+2018-04-18 19:36:31;ann_devon.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;60;30.0
+2018-04-18 19:36:43;frédérique_citeaux.fejkmejl@gmail.com;Tarte au sucre;Confections;35;49.3
+2018-04-18 19:46:01;horst_kloss.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;45;30.0
+2018-04-18 19:58:49;jaime_yorres.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;3;25.89
+2018-04-19 08:03:09;horst_kloss.fejkmejl@gmail.com;Outback Lager;Beverages;50;15.0
+2018-04-19 08:13:14;christina_berglund.fejkmejl@gmail.com;Lakkalikööri;Beverages;21;18.0
+2018-04-19 08:15:22;pascale_cartrain.fejkmejl@gmail.com;Geitost;Dairy Products;25;2.5
+2018-04-19 08:27:02;pirkko_koskitalo.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;30;38.0
+2018-04-19 08:39:20;christina_berglund.fejkmejl@gmail.com;Aniseed Syrup;Condiments;30;10.0
+2018-04-19 08:48:09;aria_cruz.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;10;14.0
+2018-04-19 08:59:48;horst_kloss.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;63;31.23
+2018-04-19 09:27:31;alejandra_camino.fejkmejl@gmail.com;Steeleye Stout;Beverages;4;18.0
+2018-04-19 09:34:06;felipe_izquierdo.fejkmejl@gmail.com;Pavlova;Confections;28;17.45
+2018-04-19 09:34:47;janine_labrune.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;15;39.0
+2018-04-19 09:55:43;miguel_angel_paolino.fejkmejl@gmail.com;Scottish Longbreads;Confections;20;12.5
+2018-04-19 10:02:57;renate_messner.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;20;25.89
+2018-04-19 10:12:25;karl_jablonski.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;30;55.0
+2018-04-19 10:18:10;michael_holz.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;12;31.23
+2018-04-19 10:26:46;annette_roulet.fejkmejl@gmail.com;Inlagd Sill;Seafood;21;19.0
+2018-04-19 10:37:52;frédérique_citeaux.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;35;21.0
+2018-04-19 10:40:48;andré_fonseca.fejkmejl@gmail.com;Chang;Beverages;10;19.0
+2018-04-19 10:51:02;hanna_moos.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;12;10.0
+2018-04-19 11:05:15;carlos_gonzález.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;4;25.89
+2018-04-19 11:19:38;christina_berglund.fejkmejl@gmail.com;Chartreuse verte;Beverages;6;FREE
+2018-04-19 11:33:12;jose_pavarotti.fejkmejl@gmail.com;Pavlova;Confections;49;17.45
+2018-04-19 11:41:13;elizabeth_brown.fejkmejl@gmail.com;Chang;Beverages;10;19.0
+2018-04-19 11:42:30;roland_mendel.fejkmejl@gmail.com;Mascarpone Fabioli;Dairy Products;6;32.0
+2018-04-19 11:45:35;jaime_yorres.fejkmejl@gmail.com;Genen Shouyu;Condiments;10;15.5
+2018-04-19 11:45:46;mary_saveley.fejkmejl@gmail.com;Outback Lager;Beverages;30;15.0
+2018-04-19 11:51:47;josé_pedro_freyre.fejkmejl@gmail.com;Sirop d'érable;Condiments;10;28.5
+2018-04-19 11:52:20;alexander_feuer.fejkmejl@gmail.com;Pavlova;Confections;20;17.45
+2018-04-19 11:53:30;pirkko_koskitalo.fejkmejl@gmail.com;Tofu;Produce;5;23.25
+2018-04-19 12:09:14;yang_wang.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;15;4.5
+2018-04-19 12:19:54;annette_roulet.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;20;123.79
+2018-04-19 12:28:05;karl_jablonski.fejkmejl@gmail.com;Sirop d'érable;Condiments;25;28.5
+2018-04-19 12:39:28;horst_kloss.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;48;53.0
+2018-04-19 12:40:15;andré_fonseca.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;4;9.65
+2018-04-19 12:40:32;art_braunschweiger.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;10;31.23
+2018-04-19 12:55:46;howard_snyder.fejkmejl@gmail.com;Inlagd Sill;Seafood;30;19.0
+2018-04-19 12:56:41;maurizio_moroni.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;14;7.0
+2018-04-19 13:04:15;carlos_hernández.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;15;FREE
+2018-04-19 13:13:15;paula_parente.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;4;62.5
+2018-04-19 13:13:26;roland_mendel.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;14;123.79
+2018-04-19 13:28:28;isabel_de_castro.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;10;123.79
+2018-04-19 13:28:30;anabela_domingues.fejkmejl@gmail.com;Scottish Longbreads;Confections;24;12.5
+2018-04-19 13:32:05;peter_franken.fejkmejl@gmail.com;Boston Crab Meat;Seafood;50;18.4
+2018-04-19 13:37:45;palle_ibsen.fejkmejl@gmail.com;Ikura;Seafood;18;31.0
+2018-04-19 13:39:06;thomas_hardy.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;18;32.8
+2018-04-19 13:42:38;maurizio_moroni.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;20;9.65
+2018-04-19 13:59:08;henriette_pfalzheim.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;21;13.0
+2018-04-19 14:04:08;frédérique_citeaux.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;24;314.16
+2018-04-19 14:09:39;karl_jablonski.fejkmejl@gmail.com;Pavlova;Confections;35;17.45
+2018-04-19 14:18:00;carlos_gonzález.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;18;9.2
+2018-04-19 14:24:18;jytte_petersen.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;24;34.8
+2018-04-19 14:27:04;lúcia_carvalho.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;15;25.89
+2018-04-19 14:29:10;victoria_ashworth.fejkmejl@gmail.com;Gustaf's Knäckebröd;Grains/Cereals;21;21.0
+2018-04-19 14:39:40;laurence_lebihan.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;50;22.0
+2018-04-19 14:44:21;philip_cramer.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;12;24.0
+2018-04-19 14:53:01;jose_pavarotti.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;45;34.0
+2018-04-19 14:57:15;anabela_domingues.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;30;34.0
+2018-04-19 14:57:28;frédérique_citeaux.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;20;34.8
+2018-04-19 15:19:20;lúcia_carvalho.fejkmejl@gmail.com;Valkoinen suklaa;Confections;25;
+2018-04-19 15:29:19;bernardo_batista.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;20;13.0
+2018-04-19 15:29:41;annette_roulet.fejkmejl@gmail.com;Tarte au sucre;Confections;40;
+2018-04-19 15:31:36;roland_mendel.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;35;45.6
+2018-04-19 15:31:38;carlos_hernández.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;35;FREE
+2018-04-19 15:35:34;carlos_hernández.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;35;55.0
+2018-04-19 15:36:54;janete_limeira.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;35;21.05
+2018-04-19 15:38:43;karin_josephs.fejkmejl@gmail.com;Borówka Basia;Luxury;3;21.37
+2018-04-19 16:00:28;yoshi_tannamuri.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;5;14.0
+2018-04-19 16:24:23;jean_fresnière.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;18;33.25
+2018-04-19 16:25:12;patricia_mckenna.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;3;53.0
+2018-04-19 16:27:49;paula_wilson.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;6;39.0
+2018-04-19 16:53:20;georg_pipps.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;20;19.5
+2018-04-19 16:58:40;thomas_hardy.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;20;38.0
+2018-04-19 17:00:29;karl_jablonski.fejkmejl@gmail.com;Chang;Beverages;40;19.0
+2018-04-19 17:06:26;carlos_hernández.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;20;19.5
+2018-04-19 17:16:57;maurizio_moroni.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;10;55.0
+2018-04-19 17:33:37;lino_rodriguez.fejkmejl@gmail.com;Pavlova;Confections;40;17.45
+2018-04-19 17:39:06;thomas_hardy.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;14;9.65
+2018-04-19 17:57:53;michael_holz.fejkmejl@gmail.com;Pavlova;Confections;35;17.45
+2018-04-19 18:30:38;horst_kloss.fejkmejl@gmail.com;Sir Rodney's Marmalade;Confections;15;81.0
+2018-04-19 18:42:56;matti_karttunen.fejkmejl@gmail.com;Chai;Beverages;2;18.0
+2018-04-19 18:43:35;peter_franken.fejkmejl@gmail.com;Flotemysost;Dairy Products;60;21.5
+2018-04-19 18:45:05;peter_franken.fejkmejl@gmail.com;Steeleye Stout;Beverages;30;18.0
+2018-04-19 18:51:03;jean_fresnière.fejkmejl@gmail.com;Pavlova;Confections;30;17.45
+2018-04-19 18:55:08;horst_kloss.fejkmejl@gmail.com;Aniseed Syrup;Condiments;60;10.0
+2018-04-19 19:17:51;karl_jablonski.fejkmejl@gmail.com;Inlagd Sill;Seafood;35;19.0
+2018-04-19 19:33:21;pirkko_koskitalo.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;20;19.5
+2018-04-19 19:43:28;paula_parente.fejkmejl@gmail.com;Spegesild;Seafood;21;12.0
+2018-04-19 19:47:13;horst_kloss.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;55;34.0
+2018-04-19 19:56:32;mary_saveley.fejkmejl@gmail.com;Chocolade;Confections;8;FREE
+2018-04-20 08:00:29;paula_parente.fejkmejl@gmail.com;Outback Lager;Beverages;8;15.0
+2018-04-20 08:01:36;lúcia_carvalho.fejkmejl@gmail.com;Flotemysost;Dairy Products;25;21.5
+2018-04-20 08:04:26;pascale_cartrain.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;30;45.6
+2018-04-20 08:18:39;karl_jablonski.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;20;62.5
+2018-04-20 08:31:07;paolo_accorti.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;10;53.0
+2018-04-20 08:37:30;howard_snyder.fejkmejl@gmail.com;Steeleye Stout;Beverages;4;18.0
+2018-04-20 08:37:46;hari_kumar.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;10;53.0
+2018-04-20 08:40:38;carlos_hernández.fejkmejl@gmail.com;Borówka Basia;Luxury;20;21.37
+2018-04-20 08:43:54;michael_holz.fejkmejl@gmail.com;Valkoinen suklaa;Confections;20;16.25
+2018-04-20 08:54:07;paula_wilson.fejkmejl@gmail.com;Borówka Basia;Luxury;6;21.37
+2018-04-20 09:01:09;georg_pipps.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;12;21.05
+2018-04-20 09:05:40;hari_kumar.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;10;21.0
+2018-04-20 09:05:51;helen_bennett.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;6;55.0
+2018-04-20 09:09:50;miguel_angel_paolino.fejkmejl@gmail.com;Côte de Blaye;Beverages;15;263.5
+2018-04-20 09:10:11;roland_mendel.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;30;21.0
+2018-04-20 09:16:48;roland_mendel.fejkmejl@gmail.com;Borówka Basia;Luxury;60;21.37
+2018-04-20 09:17:13;christina_berglund.fejkmejl@gmail.com;Boston Crab Meat;Seafood;25;18.4
+2018-04-20 09:19:45;howard_snyder.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;20;10.0
+2018-04-20 09:23:13;jean_fresnière.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;20;55.0
+2018-04-20 09:29:47;pirkko_koskitalo.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;15;21.0
+2018-04-20 09:39:02;liz_nixon.fejkmejl@gmail.com;Chef Anton's Gumbo Mix;Condiments;4;21.35
+2018-04-20 09:42:33;horst_kloss.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;70;9.0
+2018-04-20 09:43:03;bernardo_batista.fejkmejl@gmail.com;Flotemysost;Dairy Products;8;21.5
+2018-04-20 09:43:42;jose_pavarotti.fejkmejl@gmail.com;Tourtière;Meat/Poultry;32;7.45
+2018-04-20 09:44:08;felipe_izquierdo.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;7;9.2
+2018-04-20 09:44:39;aria_cruz.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;18;9.2
+2018-04-20 09:51:41;mario_pontes.fejkmejl@gmail.com;Borówka Basia;Luxury;35;21.37
+2018-04-20 09:59:33;josé_pedro_freyre.fejkmejl@gmail.com;Chang;Beverages;20;19.0
+2018-04-20 09:59:49;peter_franken.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;25;10.0
+2018-04-20 10:21:38;catherine_dewey.fejkmejl@gmail.com;Scottish Longbreads;Confections;20;12.5
+2018-04-20 10:26:16;paula_parente.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;15;32.8
+2018-04-20 10:33:54;roland_mendel.fejkmejl@gmail.com;Konbu;Seafood;13;6.0
+2018-04-20 10:47:18;anabela_domingues.fejkmejl@gmail.com;Tarte au sucre;Confections;10;49.3
+2018-04-20 10:53:26;horst_kloss.fejkmejl@gmail.com;Inlagd Sill;Seafood;30;19.0
+2018-04-20 10:54:06;roland_mendel.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;39;21.05
+2018-04-20 10:55:13;roland_mendel.fejkmejl@gmail.com;Vegie-spread;Condiments;65;43.9
+2018-04-20 11:02:32;maria_larsson.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;12;314.16
+2018-04-20 11:06:34;frédérique_citeaux.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;12;55.0
+2018-04-20 11:37:09;liu_wong.fejkmejl@gmail.com;Gula Malacca;Condiments;10;19.45
+2018-04-20 11:40:04;renate_messner.fejkmejl@gmail.com;Chai;Beverages;40;18.0
+2018-04-20 11:41:19;liu_wong.fejkmejl@gmail.com;Chai;Beverages;4;18.0
+2018-04-20 11:48:15;jytte_petersen.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;60;24.0
+2018-04-20 11:48:41;georg_pipps.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;50;36.0
+2018-04-20 11:56:22;miguel_angel_paolino.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;7;9.2
+2018-04-20 11:59:24;giovanni_rovelli.fejkmejl@gmail.com;Mascarpone Fabioli;Dairy Products;20;32.0
+2018-04-20 12:00:27;guillermo_fernández.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;18;45.6
+2018-04-20 12:00:52;laurence_lebihan.fejkmejl@gmail.com;Grandma's Boysenberry Spread;Condiments;50;25.0
+2018-04-20 12:01:51;jose_pavarotti.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;42;9.65
+2018-04-20 12:02:50;miguel_angel_paolino.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;10;4.5
+2018-04-20 12:08:17;andré_fonseca.fejkmejl@gmail.com;Grandma's Boysenberry Spread;Condiments;30;25.0
+2018-04-20 12:08:31;yang_wang.fejkmejl@gmail.com;Longlife Tofu;Produce;20;10.0
+2018-04-20 12:13:13;peter_franken.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;40;24.0
+2018-04-20 12:28:44;carlos_hernández.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;14;4.5
+2018-04-20 12:43:43;georg_pipps.fejkmejl@gmail.com;Côte de Blaye;Beverages;50;263.5
+2018-04-20 12:45:57;howard_snyder.fejkmejl@gmail.com;Outback Lager;Beverages;15;15.0
+2018-04-20 12:59:24;christina_berglund.fejkmejl@gmail.com;Chai;Beverages;35;18.0
+2018-04-20 13:04:43;christina_berglund.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;10;25.89
+2018-04-20 13:10:57;paula_wilson.fejkmejl@gmail.com;Queso Manchego La Pastora;Dairy Products;2;38.0
+2018-04-20 13:11:20;elizabeth_lincoln.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;50;39.0
+2018-04-20 13:14:40;patricia_mckenna.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;49;13.25
+2018-04-20 13:15:34;roland_mendel.fejkmejl@gmail.com;Steeleye Stout;Beverages;6;18.0
+2018-04-20 13:23:52;jose_pavarotti.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;12;13.25
+2018-04-20 13:24:43;carlos_gonzález.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;50;31.23
+2018-04-20 13:30:49;rene_phillips.fejkmejl@gmail.com;Ipoh Coffee;Beverages;24;46.0
+2018-04-20 13:31:20;isabel_de_castro.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;28;38.0
+2018-04-20 13:35:36;mario_pontes.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;35;4.5
+2018-04-20 13:38:15;elizabeth_lincoln.fejkmejl@gmail.com;Outback Lager;Beverages;30;15.0
+2018-04-20 13:44:01;horst_kloss.fejkmejl@gmail.com;Sir Rodney's Marmalade;Confections;20;81.0
+2018-04-20 13:46:41;carlos_hernández.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;20;45.6
+2018-04-20 13:50:44;anabela_domingues.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;8;123.79
+2018-04-20 13:52:14;lúcia_carvalho.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;10;21.0
+2018-04-20 13:59:27;patricia_mckenna.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;30;55.0
+2018-04-20 14:11:42;paula_wilson.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;2;13.0
+2018-04-20 14:15:17;ann_devon.fejkmejl@gmail.com;Chai;Beverages;25;18.0
+2018-04-20 14:25:24;maria_larsson.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;12;9.65
+2018-04-20 14:36:09;karin_josephs.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;15;19.5
+2018-04-20 14:58:11;andré_fonseca.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;15;25.89
+2018-04-20 14:58:34;jose_pavarotti.fejkmejl@gmail.com;Inlagd Sill;Seafood;40;19.0
+2018-04-20 15:05:35;hari_kumar.fejkmejl@gmail.com;Chartreuse verte;Beverages;20;18.0
+2018-04-20 15:10:24;eduardo_saavedra.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;5;38.0
+2018-04-20 15:16:58;rene_phillips.fejkmejl@gmail.com;Lakkalikööri;Beverages;50;
+2018-04-20 15:17:55;laurence_lebihan.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;20;33.25
+2018-04-20 15:20:26;howard_snyder.fejkmejl@gmail.com;Zaanse koeken;Confections;6;9.5
+2018-04-20 15:28:52;patricia_mckenna.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;20;314.16
+2018-04-20 15:30:53;michael_holz.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;60;34.0
+2018-04-20 15:43:21;patricia_mckenna.fejkmejl@gmail.com;Vegie-spread;Condiments;35;43.9
+2018-04-20 15:50:29;laurence_lebihan.fejkmejl@gmail.com;Lakkalikööri;Beverages;20;18.0
+2018-04-20 15:52:11;maria_larsson.fejkmejl@gmail.com;Zaanse koeken;Confections;30;9.5
+2018-04-20 15:53:39;elizabeth_brown.fejkmejl@gmail.com;Gustaf's Knäckebröd;Grains/Cereals;12;21.0
+2018-04-20 15:57:09;laurence_lebihan.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;8;33.25
+2018-04-20 16:11:04;philip_cramer.fejkmejl@gmail.com;Lakkalikööri;Beverages;35;18.0
+2018-04-20 16:15:57;simon_crowther.fejkmejl@gmail.com;Outback Lager;Beverages;3;15.0
+2018-04-20 16:21:33;art_braunschweiger.fejkmejl@gmail.com;Vegie-spread;Condiments;10;43.9
+2018-04-20 16:32:48;hari_kumar.fejkmejl@gmail.com;Sir Rodney's Marmalade;Confections;15;81.0
+2018-04-20 16:33:03;lúcia_carvalho.fejkmejl@gmail.com;Chai;Beverages;10;18.0
+2018-04-20 16:33:27;zbyszek.nowak.fejkmejl@gmail.com;Chang;Beverages;10;19.0
+2018-04-20 16:35:12;michael_holz.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;20;13.25
+2018-04-20 16:35:38;carlos_gonzález.fejkmejl@gmail.com;Outback Lager;Beverages;35;15.0
+2018-04-20 16:46:18;hari_kumar.fejkmejl@gmail.com;Rogede sild;Seafood;15;9.5
+2018-04-20 16:54:56;zbyszek.nowak.fejkmejl@gmail.com;Chai;Beverages;6;18.0
+2018-04-20 17:08:08;carlos_hernández.fejkmejl@gmail.com;Chartreuse verte;Beverages;6;18.0
+2018-04-20 17:09:58;roland_mendel.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;65;36.0
+2018-04-20 17:13:45;roland_mendel.fejkmejl@gmail.com;Borówka Basia;Luxury;24;21.37
+2018-04-20 17:16:11;art_braunschweiger.fejkmejl@gmail.com;Tourtière;Meat/Poultry;24;7.45
+2018-04-20 17:23:54;matti_karttunen.fejkmejl@gmail.com;Pavlova;Confections;3;17.45
+2018-04-20 17:30:04;maria_larsson.fejkmejl@gmail.com;Lakkalikööri;Beverages;50;18.0
+2018-04-20 17:42:06;pirkko_koskitalo.fejkmejl@gmail.com;Flotemysost;Dairy Products;30;21.5
+2018-04-20 17:44:18;carlos_gonzález.fejkmejl@gmail.com;Mascarpone Fabioli;Dairy Products;50;32.0
+2018-04-20 17:47:13;carlos_gonzález.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;16;31.23
+2018-04-20 17:48:39;matti_karttunen.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;12;9.2
+2018-04-20 17:50:10;peter_franken.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;20;9.65
+2018-04-20 17:57:42;lúcia_carvalho.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;30;10.0
+2018-04-20 18:03:51;elizabeth_lincoln.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;25;34.0
+2018-04-20 18:11:17;liu_wong.fejkmejl@gmail.com;Laughing Lumberjack Lager;Beverages;3;14.0
+2018-04-20 18:32:29;paula_wilson.fejkmejl@gmail.com;Pavlova;Confections;2;17.45
+2018-04-20 18:36:16;janete_limeira.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;42;55.0
+2018-04-20 18:39:13;bernardo_batista.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;6;31.23
+2018-04-20 18:54:14;jose_pavarotti.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;20;53.0
+2018-04-20 18:58:38;bernardo_batista.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;30;
+2018-04-20 19:03:49;art_braunschweiger.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;10;9.2
+2018-04-20 19:05:56;catherine_dewey.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;15;34.8
+2018-04-20 19:07:33;karin_josephs.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;12;9.2
+2018-04-20 19:19:06;horst_kloss.fejkmejl@gmail.com;Chai;Beverages;45;18.0
+2018-04-20 19:23:42;giovanni_rovelli.fejkmejl@gmail.com;Scottish Longbreads;Confections;20;12.5
+2018-04-20 19:24:26;yang_wang.fejkmejl@gmail.com;Ikura;Seafood;16;31.0
+2018-04-20 19:25:27;karl_jablonski.fejkmejl@gmail.com;Steeleye Stout;Beverages;35;
+2018-04-20 19:25:52;maria_larsson.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;50;21.0
+2018-04-20 19:26:16;patricia_mckenna.fejkmejl@gmail.com;Boston Crab Meat;Seafood;40;18.4
+2018-04-20 19:44:30;pascale_cartrain.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;21;9.2
+2018-04-20 19:44:35;yang_wang.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;40;10.0
+2018-04-20 19:51:49;pirkko_koskitalo.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;25;55.0
+2018-04-20 19:54:59;pascale_cartrain.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;36;10.0
+2018-04-20 19:58:09;elizabeth_lincoln.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;20;14.0
+2018-04-23 08:00:00;rita_müller.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;4;24.0
+2018-04-23 08:09:15;matti_karttunen.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;5;24.0
+2018-04-23 08:12:18;fran_wilson.fejkmejl@gmail.com;Lakkalikööri;Beverages;10;18.0
+2018-04-23 08:19:33;howard_snyder.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;9;34.8
+2018-04-23 08:31:05;lúcia_carvalho.fejkmejl@gmail.com;Boston Crab Meat;Seafood;24;18.4
+2018-04-23 08:42:38;roland_mendel.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;24;19.5
+2018-04-23 08:46:25;laurence_lebihan.fejkmejl@gmail.com;Flotemysost;Dairy Products;30;21.5
+2018-04-23 08:49:30;christina_berglund.fejkmejl@gmail.com;Tourtière;Meat/Poultry;6;7.45
+2018-04-23 08:59:26;michael_holz.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;50;314.16
+2018-04-23 09:01:43;philip_cramer.fejkmejl@gmail.com;Aniseed Syrup;Condiments;49;10.0
+2018-04-23 09:07:40;giovanni_rovelli.fejkmejl@gmail.com;Boston Crab Meat;Seafood;3;18.4
+2018-04-23 09:10:36;christina_berglund.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;12;32.8
+2018-04-23 09:13:21;thomas_hardy.fejkmejl@gmail.com;Laughing Lumberjack Lager;Beverages;15;14.0
+2018-04-23 09:29:16;karin_josephs.fejkmejl@gmail.com;Tofu;Produce;9;23.25
+2018-04-23 09:31:15;horst_kloss.fejkmejl@gmail.com;Chang;Beverages;60;19.0
+2018-04-23 09:31:24;sven_ottlieb.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;20;32.8
+2018-04-23 09:38:05;paula_wilson.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;15;39.0
+2018-04-23 09:39:47;christina_berglund.fejkmejl@gmail.com;Ikura;Seafood;20;31.0
+2018-04-23 09:42:58;josé_pedro_freyre.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;12;39.0
+2018-04-23 09:47:48;roland_mendel.fejkmejl@gmail.com;Sir Rodney's Marmalade;Confections;39;81.0
+2018-04-23 09:50:52;miguel_angel_paolino.fejkmejl@gmail.com;Gula Malacca;Condiments;21;19.45
+2018-04-23 09:57:03;victoria_ashworth.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;15;10.0
+2018-04-23 10:06:00;laurence_lebihan.fejkmejl@gmail.com;Chartreuse verte;Beverages;21;18.0
+2018-04-23 10:47:07;helen_bennett.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;2;32.8
+2018-04-23 10:52:26;dominique_perrier.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;10;21.0
+2018-04-23 10:54:59;rene_phillips.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;25;62.5
+2018-04-23 10:59:53;pascale_cartrain.fejkmejl@gmail.com;Ikura;Seafood;16;31.0
+2018-04-23 11:02:35;palle_ibsen.fejkmejl@gmail.com;Vegie-spread;Condiments;40;43.9
+2018-04-23 11:07:46;giovanni_rovelli.fejkmejl@gmail.com;Gustaf's Knäckebröd;Grains/Cereals;40;21.0
+2018-04-23 11:08:30;mario_pontes.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;20;62.5
+2018-04-23 11:11:15;roland_mendel.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;12;123.79
+2018-04-23 11:12:01;josé_pedro_freyre.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;30;21.05
+2018-04-23 11:12:27;martine_rancé.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;40;10.0
+2018-04-23 11:32:13;paul_henriot.fejkmejl@gmail.com;Inlagd Sill;Seafood;6;19.0
+2018-04-23 11:55:36;ann_devon.fejkmejl@gmail.com;Flotemysost;Dairy Products;5;21.5
+2018-04-23 11:57:40;roland_mendel.fejkmejl@gmail.com;Valkoinen suklaa;Confections;22;16.25
+2018-04-23 12:01:23;renate_messner.fejkmejl@gmail.com;Tourtière;Meat/Poultry;10;7.45
+2018-04-23 12:12:14;felipe_izquierdo.fejkmejl@gmail.com;Valkoinen suklaa;Confections;40;16.25
+2018-04-23 12:15:29;alexander_feuer.fejkmejl@gmail.com;Lakkalikööri;Beverages;10;18.0
+2018-04-23 12:28:29;palle_ibsen.fejkmejl@gmail.com;Aniseed Syrup;Condiments;14;10.0
+2018-04-23 12:30:24;lúcia_carvalho.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;15;34.0
+2018-04-23 12:39:15;karl_jablonski.fejkmejl@gmail.com;Geitost;Dairy Products;35;2.5
+2018-04-23 12:46:31;renate_messner.fejkmejl@gmail.com;Pavlova;Confections;30;FREE
+2018-04-23 12:54:39;palle_ibsen.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;40;13.0
+2018-04-23 12:56:40;jose_pavarotti.fejkmejl@gmail.com;Steeleye Stout;Beverages;70;18.0
+2018-04-23 13:09:58;felipe_izquierdo.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;30;24.0
+2018-04-23 13:11:21;annette_roulet.fejkmejl@gmail.com;Ipoh Coffee;Beverages;10;46.0
+2018-04-23 13:15:49;christina_berglund.fejkmejl@gmail.com;Konbu;Seafood;6;6.0
+2018-04-23 13:18:26;maria_larsson.fejkmejl@gmail.com;Sirop d'érable;Condiments;30;28.5
+2018-04-23 13:19:56;elizabeth_lincoln.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;50;34.0
+2018-04-23 13:20:29;laurence_lebihan.fejkmejl@gmail.com;Ikura;Seafood;15;31.0
+2018-04-23 13:23:01;victoria_ashworth.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;4;55.0
+2018-04-23 13:33:27;jose_pavarotti.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;25;32.8
+2018-04-23 13:37:57;liz_nixon.fejkmejl@gmail.com;Tarte au sucre;Confections;5;49.3
+2018-04-23 13:49:45;jose_pavarotti.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;30;34.0
+2018-04-23 14:24:35;pedro_afonso.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;10;21.0
+2018-04-23 14:24:43;ana_trujillo.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;1;36.0
+2018-04-23 14:32:52;christina_berglund.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;12;4.5
+2018-04-23 14:37:03;jose_pavarotti.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;120;9.65
+2018-04-23 14:54:00;paolo_accorti.fejkmejl@gmail.com;Rogede sild;Seafood;4;FREE
+2018-04-23 15:04:12;ana_trujillo.fejkmejl@gmail.com;Outback Lager;Beverages;5;15.0
+2018-04-23 15:17:05;renate_messner.fejkmejl@gmail.com;Scottish Longbreads;Confections;4;12.5
+2018-04-23 15:54:39;lino_rodriguez.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;9;55.0
+2018-04-23 15:59:25;isabel_de_castro.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;21;10.0
+2018-04-23 16:10:33;yvonne_moncada.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;12;10.0
+2018-04-23 16:13:12;paolo_accorti.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;2;31.23
+2018-04-23 16:16:40;art_braunschweiger.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;12;38.0
+2018-04-23 16:17:56;simon_crowther.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;6;
+2018-04-23 16:30:32;michael_holz.fejkmejl@gmail.com;Outback Lager;Beverages;40;15.0
+2018-04-23 16:31:03;roland_mendel.fejkmejl@gmail.com;Pavlova;Confections;65;17.45
+2018-04-23 16:34:13;jose_pavarotti.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;20;33.25
+2018-04-23 16:43:33;paula_wilson.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;4;314.16
+2018-04-23 16:46:34;miguel_angel_paolino.fejkmejl@gmail.com;Tourtière;Meat/Poultry;10;7.45
+2018-04-23 16:56:43;giovanni_rovelli.fejkmejl@gmail.com;Chang;Beverages;10;19.0
+2018-04-23 16:58:18;laurence_lebihan.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;20;314.16
+2018-04-23 17:01:41;maurizio_moroni.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;6;21.0
+2018-04-23 17:06:09;maria_larsson.fejkmejl@gmail.com;Chang;Beverages;5;19.0
+2018-04-23 17:11:52;mario_pontes.fejkmejl@gmail.com;Ikura;Seafood;70;31.0
+2018-04-23 17:12:14;roland_mendel.fejkmejl@gmail.com;Chef Anton's Gumbo Mix;Condiments;65;21.35
+2018-04-23 17:26:15;mario_pontes.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;20;38.0
+2018-04-23 17:47:21;jose_pavarotti.fejkmejl@gmail.com;Flotemysost;Dairy Products;55;21.5
+2018-04-23 17:48:53;jaime_yorres.fejkmejl@gmail.com;Sirop d'érable;Condiments;20;28.5
+2018-04-23 17:54:26;annette_roulet.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;10;24.0
+2018-04-23 17:56:44;mario_pontes.fejkmejl@gmail.com;Côte de Blaye;Beverages;60;263.5
+2018-04-23 17:57:58;renate_messner.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;20;314.16
+2018-04-23 17:58:02;victoria_ashworth.fejkmejl@gmail.com;Konbu;Seafood;8;6.0
+2018-04-23 18:06:17;frédérique_citeaux.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;20;7.0
+2018-04-23 18:21:17;yvonne_moncada.fejkmejl@gmail.com;Tofu;Produce;12;23.25
+2018-04-23 18:31:53;antonio_moreno.fejkmejl@gmail.com;Louisiana Hot Spiced Okra;Condiments;4;17.0
+2018-04-23 18:42:36;maria_larsson.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;35;55.0
+2018-04-23 19:00:39;fran_wilson.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;5;
+2018-04-23 19:01:26;paula_wilson.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;20;38.0
+2018-04-23 19:05:54;fran_wilson.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;8;4.5
+2018-04-23 19:06:15;horst_kloss.fejkmejl@gmail.com;Boston Crab Meat;Seafood;40;
+2018-04-23 19:08:08;thomas_hardy.fejkmejl@gmail.com;Flotemysost;Dairy Products;12;21.5
+2018-04-23 19:09:00;peter_franken.fejkmejl@gmail.com;Laughing Lumberjack Lager;Beverages;25;14.0
+2018-04-23 19:14:24;carlos_hernández.fejkmejl@gmail.com;Spegesild;Seafood;28;12.0
+2018-04-23 19:17:29;horst_kloss.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;45;55.0
+2018-04-23 19:20:12;lino_rodriguez.fejkmejl@gmail.com;Scottish Longbreads;Confections;10;12.5
+2018-04-23 19:34:29;jose_pavarotti.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;40;38.0
+2018-04-23 19:36:30;elizabeth_lincoln.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;6;39.0
+2018-04-23 19:42:21;philip_cramer.fejkmejl@gmail.com;Inlagd Sill;Seafood;20;19.0
+2018-04-23 19:42:57;paula_parente.fejkmejl@gmail.com;Konbu;Seafood;2;6.0
+2018-04-24 08:06:44;alejandra_camino.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;10;34.0
+2018-04-24 08:10:06;pirkko_koskitalo.fejkmejl@gmail.com;Borówka Basia;Luxury;30;21.37
+2018-04-24 08:14:50;yoshi_latimer.fejkmejl@gmail.com;Geitost;Dairy Products;20;2.5
+2018-04-24 08:21:57;guillermo_fernández.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;10;314.16
+2018-04-24 08:31:16;hanna_moos.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;3;45.6
+2018-04-24 08:38:57;peter_franken.fejkmejl@gmail.com;Spegesild;Seafood;60;12.0
+2018-04-24 08:42:17;renate_messner.fejkmejl@gmail.com;Geitost;Dairy Products;30;2.5
+2018-04-24 08:50:55;isabel_de_castro.fejkmejl@gmail.com;Chartreuse verte;Beverages;20;18.0
+2018-04-24 08:55:27;jose_pavarotti.fejkmejl@gmail.com;Chef Anton's Gumbo Mix;Condiments;70;21.35
+2018-04-24 08:57:12;helen_bennett.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;15;FREE
+2018-04-24 09:05:10;pascale_cartrain.fejkmejl@gmail.com;Flotemysost;Dairy Products;30;21.5
+2018-04-24 09:05:40;philip_cramer.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;15;21.0
+2018-04-24 09:08:06;patricia_mckenna.fejkmejl@gmail.com;Inlagd Sill;Seafood;40;19.0
+2018-04-24 09:39:26;annette_roulet.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;10;36.0
+2018-04-24 09:51:42;mary_saveley.fejkmejl@gmail.com;Ipoh Coffee;Beverages;20;46.0
+2018-04-24 09:52:02;yang_wang.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;30;53.0
+2018-04-24 09:54:21;pedro_afonso.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;15;123.79
+2018-04-24 10:02:03;felipe_izquierdo.fejkmejl@gmail.com;Chang;Beverages;20;19.0
+2018-04-24 10:02:12;christina_berglund.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;10;39.0
+2018-04-24 10:11:27;lúcia_carvalho.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;6;22.0
+2018-04-24 10:12:09;jean_fresnière.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;10;14.0
+2018-04-24 10:14:41;carlos_gonzález.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;40;55.0
+2018-04-24 10:19:36;andré_fonseca.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;28;53.0
+2018-04-24 10:23:47;daniel_tonini.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;6;39.0
+2018-04-24 10:26:38;helen_bennett.fejkmejl@gmail.com;Northwoods Cranberry Sauce;Condiments;20;40.0
+2018-04-24 10:30:59;howard_snyder.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;30;55.0
+2018-04-24 10:31:29;andré_fonseca.fejkmejl@gmail.com;Ikura;Seafood;20;31.0
+2018-04-24 10:36:38;mary_saveley.fejkmejl@gmail.com;Tarte au sucre;Confections;40;49.3
+2018-04-24 10:36:45;lúcia_carvalho.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;15;25.89
+2018-04-24 10:50:57;jonas_bergulfsen.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;2;9.2
+2018-04-24 10:55:58;mary_saveley.fejkmejl@gmail.com;Chang;Beverages;20;19.0
+2018-04-24 11:00:40;felipe_izquierdo.fejkmejl@gmail.com;Chai;Beverages;50;18.0
+2018-04-24 11:01:29;andré_fonseca.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;2;FREE
+2018-04-24 11:12:15;catherine_dewey.fejkmejl@gmail.com;Ipoh Coffee;Beverages;30;FREE
+2018-04-24 11:17:04;jean_fresnière.fejkmejl@gmail.com;Scottish Longbreads;Confections;15;12.5
+2018-04-24 11:19:37;ann_devon.fejkmejl@gmail.com;Flotemysost;Dairy Products;50;21.5
+2018-04-24 11:31:20;jean_fresnière.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;40;62.5
+2018-04-24 11:37:59;renate_messner.fejkmejl@gmail.com;Queso Manchego La Pastora;Dairy Products;15;
+2018-04-24 11:49:43;annette_roulet.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;15;21.05
+2018-04-24 11:51:25;patricia_mckenna.fejkmejl@gmail.com;Ipoh Coffee;Beverages;20;46.0
+2018-04-24 12:01:46;jose_pavarotti.fejkmejl@gmail.com;Chang;Beverages;30;19.0
+2018-04-24 12:03:36;peter_franken.fejkmejl@gmail.com;Tourtière;Meat/Poultry;35;7.45
+2018-04-24 12:10:31;aria_cruz.fejkmejl@gmail.com;Spegesild;Seafood;9;12.0
+2018-04-24 12:27:49;carlos_hernández.fejkmejl@gmail.com;Steeleye Stout;Beverages;40;
+2018-04-24 12:51:58;jose_pavarotti.fejkmejl@gmail.com;Scottish Longbreads;Confections;45;12.5
+2018-04-24 12:54:13;jean_fresnière.fejkmejl@gmail.com;Ikura;Seafood;16;31.0
+2018-04-24 12:57:37;jose_pavarotti.fejkmejl@gmail.com;Tarte au sucre;Confections;15;49.3
+2018-04-24 12:59:21;karl_jablonski.fejkmejl@gmail.com;Chang;Beverages;12;19.0
+2018-04-24 13:09:21;art_braunschweiger.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;20;36.0
+2018-04-24 13:16:18;peter_franken.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;20;25.89
+2018-04-24 13:26:11;jaime_yorres.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;12;62.5
+2018-04-24 13:29:12;yvonne_moncada.fejkmejl@gmail.com;Chef Anton's Gumbo Mix;Condiments;20;21.35
+2018-04-24 13:35:07;carlos_gonzález.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;15;13.0
+2018-04-24 13:35:41;jaime_yorres.fejkmejl@gmail.com;Tourtière;Meat/Poultry;40;7.45
+2018-04-24 13:38:07;jose_pavarotti.fejkmejl@gmail.com;Geitost;Dairy Products;16;2.5
+2018-04-24 13:48:08;roland_mendel.fejkmejl@gmail.com;Steeleye Stout;Beverages;40;18.0
+2018-04-24 13:53:02;maria_anders.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;2;45.6
+2018-04-24 14:09:12;michael_holz.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;21;34.8
+2018-04-24 14:28:03;pascale_cartrain.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;15;13.0
+2018-04-24 14:37:35;catherine_dewey.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;40;10.0
+2018-04-24 14:38:10;victoria_ashworth.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;1;34.8
+2018-04-24 14:39:28;lúcia_carvalho.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;70;FREE
+2018-04-24 15:04:40;maria_larsson.fejkmejl@gmail.com;Chartreuse verte;Beverages;16;18.0
+2018-04-24 15:05:03;jose_pavarotti.fejkmejl@gmail.com;Scottish Longbreads;Confections;40;12.5
+2018-04-24 15:13:18;maurizio_moroni.fejkmejl@gmail.com;Outback Lager;Beverages;12;15.0
+2018-04-24 15:14:02;carine_schmitt.fejkmejl@gmail.com;Lakkalikööri;Beverages;20;18.0
+2018-04-24 15:18:38;helvetius_nagy.fejkmejl@gmail.com;Chartreuse verte;Beverages;10;18.0
+2018-04-24 15:24:55;philip_cramer.fejkmejl@gmail.com;Borówka Basia;Luxury;4;21.37
+2018-04-24 15:28:23;ana_trujillo.fejkmejl@gmail.com;Tofu;Produce;3;23.25
+2018-04-24 15:32:57;peter_franken.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;40;9.0
+2018-04-24 15:37:31;yvonne_moncada.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;5;34.8
+2018-04-24 15:41:53;giovanni_rovelli.fejkmejl@gmail.com;Maxilaku;Confections;30;20.0
+2018-04-24 15:44:41;catherine_dewey.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;14;24.0
+2018-04-24 15:55:06;miguel_angel_paolino.fejkmejl@gmail.com;Gula Malacca;Condiments;21;19.45
+2018-04-24 15:59:17;christina_berglund.fejkmejl@gmail.com;Flotemysost;Dairy Products;12;21.5
+2018-04-24 15:59:42;maria_larsson.fejkmejl@gmail.com;Vegie-spread;Condiments;20;43.9
+2018-04-24 16:11:26;janete_limeira.fejkmejl@gmail.com;Inlagd Sill;Seafood;25;19.0
+2018-04-24 16:12:29;paula_wilson.fejkmejl@gmail.com;Sir Rodney's Marmalade;Confections;6;81.0
+2018-04-24 16:12:40;georg_pipps.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;30;39.0
+2018-04-24 16:16:54;laurence_lebihan.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;12;9.65
+2018-04-24 16:17:22;frédérique_citeaux.fejkmejl@gmail.com;Borówka Basia;Luxury;50;21.37
+2018-04-24 16:21:23;roland_mendel.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;70;55.0
+2018-04-24 16:50:02;ana_trujillo.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;2;21.0
+2018-04-24 16:52:45;felipe_izquierdo.fejkmejl@gmail.com;Outback Lager;Beverages;30;15.0
+2018-04-24 16:54:47;elizabeth_lincoln.fejkmejl@gmail.com;Chai;Beverages;60;
+2018-04-24 16:57:48;thomas_hardy.fejkmejl@gmail.com;Spegesild;Seafood;28;12.0
+2018-04-24 17:06:08;jytte_petersen.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;30;53.0
+2018-04-24 17:30:23;palle_ibsen.fejkmejl@gmail.com;Steeleye Stout;Beverages;10;18.0
+2018-04-24 17:33:57;henriette_pfalzheim.fejkmejl@gmail.com;Flotemysost;Dairy Products;15;21.5
+2018-04-24 17:46:12;carlos_hernández.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;40;314.16
+2018-04-24 17:48:54;pascale_cartrain.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;28;
+2018-04-24 18:03:15;michael_holz.fejkmejl@gmail.com;Spegesild;Seafood;30;12.0
+2018-04-24 18:09:11;christina_berglund.fejkmejl@gmail.com;Tourtière;Meat/Poultry;15;7.45
+2018-04-24 18:09:59;rene_phillips.fejkmejl@gmail.com;Pavlova;Confections;50;17.45
+2018-04-24 18:20:45;palle_ibsen.fejkmejl@gmail.com;Sasquatch Ale;Beverages;36;14.0
+2018-04-24 18:25:04;jose_pavarotti.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;120;24.0
+2018-04-24 18:30:14;palle_ibsen.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;25;4.5
+2018-04-24 18:35:34;jose_pavarotti.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;120;314.16
+2018-04-24 18:36:56;giovanni_rovelli.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;12;FREE
+2018-04-24 18:41:22;matti_karttunen.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;10;21.05
+2018-04-24 18:55:21;lino_rodriguez.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;20;34.0
+2018-04-24 19:00:41;jose_pavarotti.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;24;33.25
+2018-04-24 19:10:51;lino_rodriguez.fejkmejl@gmail.com;Gula Malacca;Condiments;15;19.45
+2018-04-24 19:19:59;felipe_izquierdo.fejkmejl@gmail.com;Maxilaku;Confections;60;20.0
+2018-04-24 19:23:21;helen_bennett.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;5;9.0
+2018-04-24 19:26:42;andré_fonseca.fejkmejl@gmail.com;Northwoods Cranberry Sauce;Condiments;40;40.0
+2018-04-24 19:48:11;bernardo_batista.fejkmejl@gmail.com;Grandma's Boysenberry Spread;Condiments;40;25.0
+2018-04-24 19:57:19;maria_larsson.fejkmejl@gmail.com;Louisiana Hot Spiced Okra;Condiments;50;17.0
+2018-04-25 08:13:08;jose_pavarotti.fejkmejl@gmail.com;Pavlova;Confections;21;17.45
+2018-04-25 08:43:17;jean_fresnière.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;70;39.0
+2018-04-25 08:53:35;patricio_simpson.fejkmejl@gmail.com;Scottish Longbreads;Confections;6;12.5
+2018-04-25 08:58:00;helen_bennett.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;20;9.65
+2018-04-25 09:05:13;yoshi_tannamuri.fejkmejl@gmail.com;Konbu;Seafood;7;6.0
+2018-04-25 09:12:50;peter_franken.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;3;4.5
+2018-04-25 09:16:01;jose_pavarotti.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;42;314.16
+2018-04-25 09:18:21;giovanni_rovelli.fejkmejl@gmail.com;Chartreuse verte;Beverages;2;18.0
+2018-04-25 09:19:52;aria_cruz.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;12;34.0
+2018-04-25 09:31:32;rene_phillips.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;24;7.0
+2018-04-25 09:31:35;sergio_gutiérrez.fejkmejl@gmail.com;Sirop d'érable;Condiments;10;28.5
+2018-04-25 09:36:29;sven_ottlieb.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;12;314.16
+2018-04-25 09:37:43;renate_messner.fejkmejl@gmail.com;Lakkalikööri;Beverages;15;18.0
+2018-04-25 09:43:35;pirkko_koskitalo.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;6;13.25
+2018-04-25 09:46:09;aria_cruz.fejkmejl@gmail.com;Chartreuse verte;Beverages;50;18.0
+2018-04-25 09:48:01;helvetius_nagy.fejkmejl@gmail.com;Tarte au sucre;Confections;3;49.3
+2018-04-25 09:51:43;elizabeth_lincoln.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;30;4.5
+2018-04-25 10:00:03;art_braunschweiger.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;6;53.0
+2018-04-25 10:10:32;christina_berglund.fejkmejl@gmail.com;Côte de Blaye;Beverages;15;263.5
+2018-04-25 10:28:30;fran_wilson.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;20;53.0
+2018-04-25 10:35:16;mary_saveley.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;8;7.0
+2018-04-25 10:54:17;andré_fonseca.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;20;314.16
+2018-04-25 10:58:37;philip_cramer.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;18;
+2018-04-25 10:59:54;pedro_afonso.fejkmejl@gmail.com;Gula Malacca;Condiments;15;19.45
+2018-04-25 11:07:07;peter_franken.fejkmejl@gmail.com;Lakkalikööri;Beverages;15;
+2018-04-25 11:13:34;thomas_hardy.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;15;34.0
+2018-04-25 11:16:20;horst_kloss.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;60;10.0
+2018-04-25 11:21:32;hari_kumar.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;50;21.0
+2018-04-25 11:29:20;pascale_cartrain.fejkmejl@gmail.com;Chang;Beverages;20;19.0
+2018-04-25 11:31:24;paula_wilson.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;60;55.0
+2018-04-25 11:46:18;michael_holz.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;30;19.5
+2018-04-25 11:49:11;hanna_moos.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;4;19.5
+2018-04-25 12:02:34;josé_pedro_freyre.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;6;10.0
+2018-04-25 12:03:11;patricia_mckenna.fejkmejl@gmail.com;Flotemysost;Dairy Products;3;21.5
+2018-04-25 12:12:09;elizabeth_lincoln.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;10;314.16
+2018-04-25 12:25:14;hari_kumar.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;80;4.5
+2018-04-25 12:40:21;helen_bennett.fejkmejl@gmail.com;Lakkalikööri;Beverages;6;18.0
+2018-04-25 12:49:39;miguel_angel_paolino.fejkmejl@gmail.com;Chai;Beverages;10;18.0
+2018-04-25 12:52:59;karin_josephs.fejkmejl@gmail.com;Maxilaku;Confections;40;20.0
+2018-04-25 13:00:19;josé_pedro_freyre.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;9;33.25
+2018-04-25 13:02:13;christina_berglund.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;20;45.6
+2018-04-25 13:02:46;patricia_mckenna.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;20;21.05
+2018-04-25 13:06:26;victoria_ashworth.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;4;30.0
+2018-04-25 13:07:48;howard_snyder.fejkmejl@gmail.com;Côte de Blaye;Beverages;15;263.5
+2018-04-25 13:08:37;fran_wilson.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;3;32.8
+2018-04-25 13:17:44;matti_karttunen.fejkmejl@gmail.com;Boston Crab Meat;Seafood;12;18.4
+2018-04-25 13:22:26;rene_phillips.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;30;13.25
+2018-04-25 13:38:09;patricia_mckenna.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;42;55.0
+2018-04-25 13:38:33;martine_rancé.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;12;55.0
+2018-04-25 13:42:07;catherine_dewey.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;12;14.0
+2018-04-25 13:44:52;philip_cramer.fejkmejl@gmail.com;Konbu;Seafood;12;6.0
+2018-04-25 13:50:00;paula_wilson.fejkmejl@gmail.com;Chai;Beverages;18;18.0
+2018-04-25 14:07:15;henriette_pfalzheim.fejkmejl@gmail.com;Konbu;Seafood;10;6.0
+2018-04-25 14:07:29;elizabeth_lincoln.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;24;53.0
+2018-04-25 14:16:43;jose_pavarotti.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;18;4.5
+2018-04-25 14:35:21;lúcia_carvalho.fejkmejl@gmail.com;Inlagd Sill;Seafood;5;19.0
+2018-04-25 14:37:00;matti_karttunen.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;3;45.6
+2018-04-25 14:44:51;yoshi_tannamuri.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;5;4.5
+2018-04-25 14:47:05;antonio_moreno.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;18;39.0
+2018-04-25 14:48:40;catherine_dewey.fejkmejl@gmail.com;Northwoods Cranberry Sauce;Condiments;20;40.0
+2018-04-25 14:54:56;paolo_accorti.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;5;9.2
+2018-04-25 14:59:43;giovanni_rovelli.fejkmejl@gmail.com;Chef Anton's Gumbo Mix;Condiments;15;21.35
+2018-04-25 15:01:52;paula_wilson.fejkmejl@gmail.com;Mascarpone Fabioli;Dairy Products;1;32.0
+2018-04-25 15:12:53;rita_müller.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;12;9.2
+2018-04-25 15:17:01;janete_limeira.fejkmejl@gmail.com;Gustaf's Knäckebröd;Grains/Cereals;15;
+2018-04-25 15:27:02;karl_jablonski.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;12;10.0
+2018-04-25 15:32:34;annette_roulet.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;8;314.16
+2018-04-25 15:37:19;rita_müller.fejkmejl@gmail.com;Boston Crab Meat;Seafood;10;FREE
+2018-04-25 15:37:26;maria_larsson.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;28;53.0
+2018-04-25 15:48:21;peter_franken.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;14;123.79
+2018-04-25 15:50:17;roland_mendel.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;80;4.5
+2018-04-25 16:01:01;miguel_angel_paolino.fejkmejl@gmail.com;Geitost;Dairy Products;30;2.5
+2018-04-25 16:04:35;art_braunschweiger.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;18;38.0
+2018-04-25 16:06:51;carlos_hernández.fejkmejl@gmail.com;Schoggi Schokolade;Confections;25;43.9
+2018-04-25 16:13:04;maurizio_moroni.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;20;39.0
+2018-04-25 16:13:45;horst_kloss.fejkmejl@gmail.com;Côte de Blaye;Beverages;60;263.5
+2018-04-25 16:14:00;renate_messner.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;35;34.0
+2018-04-25 16:19:36;janine_labrune.fejkmejl@gmail.com;Sasquatch Ale;Beverages;10;14.0
+2018-04-25 16:28:54;pirkko_koskitalo.fejkmejl@gmail.com;Inlagd Sill;Seafood;30;19.0
+2018-04-25 16:31:44;laurence_lebihan.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;10;21.05
+2018-04-25 16:34:43;carine_schmitt.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;12;21.05
+2018-04-25 16:37:04;jean_fresnière.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;60;13.0
+2018-04-25 16:45:20;alejandra_camino.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;1;25.89
+2018-04-25 16:56:07;roland_mendel.fejkmejl@gmail.com;Flotemysost;Dairy Products;17;21.5
+2018-04-25 16:59:13;philip_cramer.fejkmejl@gmail.com;Côte de Blaye;Beverages;30;263.5
+2018-04-25 17:02:04;paula_wilson.fejkmejl@gmail.com;Tarte au sucre;Confections;40;
+2018-04-25 17:16:15;lúcia_carvalho.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;20;31.23
+2018-04-25 17:22:19;michael_holz.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;20;36.0
+2018-04-25 17:24:23;felipe_izquierdo.fejkmejl@gmail.com;Inlagd Sill;Seafood;50;19.0
+2018-04-25 17:35:16;felipe_izquierdo.fejkmejl@gmail.com;Boston Crab Meat;Seafood;20;18.4
+2018-04-25 17:39:10;paula_parente.fejkmejl@gmail.com;Chai;Beverages;21;18.0
+2018-04-25 17:51:06;horst_kloss.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;40;123.79
+2018-04-25 17:53:04;philip_cramer.fejkmejl@gmail.com;Tarte au sucre;Confections;20;49.3
+2018-04-25 18:00:20;felipe_izquierdo.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;24;FREE
+2018-04-25 18:06:44;jose_pavarotti.fejkmejl@gmail.com;Spegesild;Seafood;30;12.0
+2018-04-25 18:37:47;philip_cramer.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;24;55.0
+2018-04-25 18:46:02;roland_mendel.fejkmejl@gmail.com;Rogede sild;Seafood;27;9.5
+2018-04-25 18:54:41;renate_messner.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;8;7.0
+2018-04-25 18:56:24;rita_müller.fejkmejl@gmail.com;Geitost;Dairy Products;20;2.5
+2018-04-25 18:58:04;jose_pavarotti.fejkmejl@gmail.com;Vegie-spread;Condiments;80;FREE
+2018-04-25 19:02:24;alejandra_camino.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;10;25.89
+2018-04-25 19:09:18;jose_pavarotti.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;40;55.0
+2018-04-25 19:21:43;alejandra_camino.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;10;FREE
+2018-04-25 19:24:26;patricio_simpson.fejkmejl@gmail.com;Ipoh Coffee;Beverages;7;46.0
+2018-04-25 19:29:28;paula_wilson.fejkmejl@gmail.com;Grandma's Boysenberry Spread;Condiments;1;25.0
+2018-04-25 19:39:08;helen_bennett.fejkmejl@gmail.com;Outback Lager;Beverages;20;15.0
+2018-04-25 19:40:00;josé_pedro_freyre.fejkmejl@gmail.com;Laughing Lumberjack Lager;Beverages;15;14.0
+2018-04-25 19:52:54;roland_mendel.fejkmejl@gmail.com;Boston Crab Meat;Seafood;91;18.4
+2018-04-26 08:18:26;christina_berglund.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;25;7.0
+2018-04-26 08:34:29;jonas_bergulfsen.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;8;62.5
+2018-04-26 08:38:28;philip_cramer.fejkmejl@gmail.com;Chartreuse verte;Beverages;4;18.0
+2018-04-26 09:03:55;pedro_afonso.fejkmejl@gmail.com;Spegesild;Seafood;9;12.0
+2018-04-26 09:03:56;jose_pavarotti.fejkmejl@gmail.com;Geitost;Dairy Products;14;2.5
+2018-04-26 09:12:38;roland_mendel.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;24;34.8
+2018-04-26 09:23:23;pascale_cartrain.fejkmejl@gmail.com;Steeleye Stout;Beverages;60;18.0
+2018-04-26 09:25:36;miguel_angel_paolino.fejkmejl@gmail.com;Gula Malacca;Condiments;9;19.45
+2018-04-26 09:27:08;patricia_mckenna.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;8;62.5
+2018-04-26 09:34:57;andré_fonseca.fejkmejl@gmail.com;Borówka Basia;Luxury;14;21.37
+2018-04-26 09:44:15;lino_rodriguez.fejkmejl@gmail.com;Lakkalikööri;Beverages;10;18.0
+2018-04-26 09:44:51;lúcia_carvalho.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;30;22.0
+2018-04-26 09:45:22;yoshi_latimer.fejkmejl@gmail.com;Tourtière;Meat/Poultry;10;7.45
+2018-04-26 09:54:29;alexander_feuer.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;20;45.6
+2018-04-26 09:55:14;helvetius_nagy.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;20;314.16
+2018-04-26 10:01:39;maria_larsson.fejkmejl@gmail.com;Lakkalikööri;Beverages;18;18.0
+2018-04-26 10:44:41;alejandra_camino.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;6;25.89
+2018-04-26 10:46:56;paula_wilson.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;18;314.16
+2018-04-26 11:01:39;guillermo_fernández.fejkmejl@gmail.com;Boston Crab Meat;Seafood;21;18.4
+2018-04-26 11:01:57;elizabeth_lincoln.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;5;21.0
+2018-04-26 11:08:41;bernardo_batista.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;20;10.0
+2018-04-26 11:11:23;maria_larsson.fejkmejl@gmail.com;Borówka Basia;Luxury;2;21.37
+2018-04-26 11:23:13;pirkko_koskitalo.fejkmejl@gmail.com;Flotemysost;Dairy Products;40;FREE
+2018-04-26 11:23:53;lúcia_carvalho.fejkmejl@gmail.com;Chocolade;Confections;24;12.75
+2018-04-26 11:26:52;bernardo_batista.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;15;32.8
+2018-04-26 11:41:18;zbyszek.nowak.fejkmejl@gmail.com;Sirop d'érable;Condiments;7;28.5
+2018-04-26 11:51:40;rita_müller.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;12;24.0
+2018-04-26 12:00:35;peter_franken.fejkmejl@gmail.com;Chang;Beverages;24;19.0
+2018-04-26 12:04:59;aria_cruz.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;6;314.16
+2018-04-26 12:05:11;henriette_pfalzheim.fejkmejl@gmail.com;Zaanse koeken;Confections;40;9.5
+2018-04-26 12:09:26;elizabeth_lincoln.fejkmejl@gmail.com;Ikura;Seafood;30;31.0
+2018-04-26 12:16:30;rita_müller.fejkmejl@gmail.com;Steeleye Stout;Beverages;18;18.0
+2018-04-26 12:31:48;maria_larsson.fejkmejl@gmail.com;Chang;Beverages;35;19.0
+2018-04-26 12:36:29;patricia_mckenna.fejkmejl@gmail.com;Grandma's Boysenberry Spread;Condiments;30;25.0
+2018-04-26 12:49:14;paula_wilson.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;36;39.0
+2018-04-26 12:52:27;miguel_angel_paolino.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;14;45.6
+2018-04-26 12:57:44;miguel_angel_paolino.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;15;21.0
+2018-04-26 12:59:55;roland_mendel.fejkmejl@gmail.com;Flotemysost;Dairy Products;21;21.5
+2018-04-26 13:09:25;jose_pavarotti.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;100;39.0
+2018-04-26 13:12:08;renate_messner.fejkmejl@gmail.com;Chang;Beverages;20;19.0
+2018-04-26 13:12:52;horst_kloss.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;120;24.0
+2018-04-26 13:14:32;horst_kloss.fejkmejl@gmail.com;Ikura;Seafood;24;31.0
+2018-04-26 13:22:55;maria_larsson.fejkmejl@gmail.com;Pâté chinois;Meat/Poultry;6;24.0
+2018-04-26 13:28:11;fran_wilson.fejkmejl@gmail.com;Scottish Longbreads;Confections;3;12.5
+2018-04-26 13:35:07;helen_bennett.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;5;9.2
+2018-04-26 13:41:38;paul_henriot.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;4;38.0
+2018-04-26 13:50:21;georg_pipps.fejkmejl@gmail.com;Tofu;Produce;35;23.25
+2018-04-26 14:05:46;mary_saveley.fejkmejl@gmail.com;Scottish Longbreads;Confections;10;12.5
+2018-04-26 14:08:54;christina_berglund.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;40;25.89
+2018-04-26 14:17:17;helen_bennett.fejkmejl@gmail.com;Outback Lager;Beverages;30;15.0
+2018-04-26 14:18:53;rene_phillips.fejkmejl@gmail.com;Pavlova;Confections;50;17.45
+2018-04-26 14:31:11;paula_wilson.fejkmejl@gmail.com;Ikura;Seafood;1;31.0
+2018-04-26 14:36:04;patricia_mckenna.fejkmejl@gmail.com;Outback Lager;Beverages;30;15.0
+2018-04-26 14:39:25;jose_pavarotti.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;12;34.8
+2018-04-26 14:39:50;palle_ibsen.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;18;123.79
+2018-04-26 14:40:23;anabela_domingues.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;15;34.8
+2018-04-26 14:45:30;miguel_angel_paolino.fejkmejl@gmail.com;Ikura;Seafood;15;31.0
+2018-04-26 14:47:27;michael_holz.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;10;21.05
+2018-04-26 14:50:41;pascale_cartrain.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;25;13.0
+2018-04-26 14:54:05;roland_mendel.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;7;314.16
+2018-04-26 15:08:36;mario_pontes.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;30;13.0
+2018-04-26 15:13:39;yang_wang.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;40;36.0
+2018-04-26 15:25:17;lúcia_carvalho.fejkmejl@gmail.com;Sir Rodney's Marmalade;Confections;12;81.0
+2018-04-26 15:44:00;jose_pavarotti.fejkmejl@gmail.com;Pavlova;Confections;55;17.45
+2018-04-26 15:45:53;roland_mendel.fejkmejl@gmail.com;Longlife Tofu;Produce;50;10.0
+2018-04-26 15:53:09;janine_labrune.fejkmejl@gmail.com;Chai;Beverages;3;18.0
+2018-04-26 16:07:24;carlos_hernández.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;8;33.25
+2018-04-26 16:15:46;renate_messner.fejkmejl@gmail.com;Boston Crab Meat;Seafood;25;18.4
+2018-04-26 16:44:31;rita_müller.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;20;36.0
+2018-04-26 16:48:51;thomas_hardy.fejkmejl@gmail.com;Sir Rodney's Marmalade;Confections;50;81.0
+2018-04-26 16:54:00;maria_larsson.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;30;13.25
+2018-04-26 17:00:43;miguel_angel_paolino.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;12;62.5
+2018-04-26 17:01:32;horst_kloss.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;60;13.25
+2018-04-26 17:15:10;maria_larsson.fejkmejl@gmail.com;Röd Kaviar;Seafood;35;15.0
+2018-04-26 17:22:47;laurence_lebihan.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;20;53.0
+2018-04-26 17:25:03;yoshi_tannamuri.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;20;9.65
+2018-04-26 17:28:44;andré_fonseca.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;10;34.0
+2018-04-26 17:39:19;howard_snyder.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;30;9.2
+2018-04-26 17:40:31;janine_labrune.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;6;14.0
+2018-04-26 17:44:55;peter_franken.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;25;314.16
+2018-04-26 17:46:45;janete_limeira.fejkmejl@gmail.com;Pavlova;Confections;40;17.45
+2018-04-26 17:48:12;christina_berglund.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;15;34.0
+2018-04-26 17:58:48;felipe_izquierdo.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;21;21.05
+2018-04-26 18:09:38;mary_saveley.fejkmejl@gmail.com;Longlife Tofu;Produce;15;10.0
+2018-04-26 18:11:36;antonio_moreno.fejkmejl@gmail.com;Geitost;Dairy Products;8;2.5
+2018-04-26 18:40:01;daniel_tonini.fejkmejl@gmail.com;Sir Rodney's Marmalade;Confections;5;81.0
+2018-04-26 18:49:00;ana_trujillo.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;7;9.2
+2018-04-26 19:01:56;zbyszek.nowak.fejkmejl@gmail.com;Chang;Beverages;10;19.0
+2018-04-26 19:17:28;christina_berglund.fejkmejl@gmail.com;Ikura;Seafood;2;31.0
+2018-04-26 19:20:15;jose_pavarotti.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;24;123.79
+2018-04-26 19:32:17;guillermo_fernández.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;4;FREE
+2018-04-26 19:33:18;renate_messner.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;5;31.23
+2018-04-26 19:40:44;rene_phillips.fejkmejl@gmail.com;Schoggi Schokolade;Confections;50;43.9
+2018-04-26 19:43:26;horst_kloss.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;28;21.05
+2018-04-26 19:50:24;yvonne_moncada.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;15;13.0
+2018-04-27 08:00:51;roland_mendel.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;33;39.0
+2018-04-27 08:14:07;christina_berglund.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;10;123.79
+2018-04-27 08:14:54;ana_trujillo.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;5;14.0
+2018-04-27 08:15:13;liu_wong.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;10;45.6
+2018-04-27 08:22:58;martine_rancé.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;30;62.5
+2018-04-27 08:42:52;bernardo_batista.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;30;31.23
+2018-04-27 08:46:26;paula_parente.fejkmejl@gmail.com;Röd Kaviar;Seafood;20;FREE
+2018-04-27 08:57:02;elizabeth_lincoln.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;20;30.0
+2018-04-27 08:58:52;maurizio_moroni.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;20;30.0
+2018-04-27 09:05:35;patricia_mckenna.fejkmejl@gmail.com;Tarte au sucre;Confections;15;49.3
+2018-04-27 09:06:01;laurence_lebihan.fejkmejl@gmail.com;Pavlova;Confections;30;
+2018-04-27 09:13:20;alejandra_camino.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;6;4.5
+2018-04-27 09:22:05;rita_müller.fejkmejl@gmail.com;Borówka Basia;Luxury;8;21.37
+2018-04-27 09:38:17;matti_karttunen.fejkmejl@gmail.com;Maxilaku;Confections;10;20.0
+2018-04-27 09:46:45;paula_wilson.fejkmejl@gmail.com;Borówka Basia;Luxury;35;21.37
+2018-04-27 09:55:11;roland_mendel.fejkmejl@gmail.com;Sasquatch Ale;Beverages;90;14.0
+2018-04-27 09:57:20;paula_parente.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;8;9.0
+2018-04-27 09:59:36;andré_fonseca.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;20;
+2018-04-27 10:11:05;horst_kloss.fejkmejl@gmail.com;Zaanse koeken;Confections;55;9.5
+2018-04-27 10:17:51;elizabeth_lincoln.fejkmejl@gmail.com;Boston Crab Meat;Seafood;50;18.4
+2018-04-27 10:32:15;carlos_hernández.fejkmejl@gmail.com;Chai;Beverages;20;18.0
+2018-04-27 10:32:39;jose_pavarotti.fejkmejl@gmail.com;Tofu;Produce;30;23.25
+2018-04-27 10:35:21;horst_kloss.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;44;53.0
+2018-04-27 10:38:28;josé_pedro_freyre.fejkmejl@gmail.com;Scottish Longbreads;Confections;18;12.5
+2018-04-27 10:40:14;peter_franken.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;30;13.25
+2018-04-27 10:48:48;lino_rodriguez.fejkmejl@gmail.com;Gula Malacca;Condiments;40;19.45
+2018-04-27 10:56:27;aria_cruz.fejkmejl@gmail.com;Geitost;Dairy Products;50;2.5
+2018-04-27 11:09:29;karin_josephs.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;15;9.2
+2018-04-27 11:10:22;lino_rodriguez.fejkmejl@gmail.com;Tourtière;Meat/Poultry;20;7.45
+2018-04-27 11:15:47;henriette_pfalzheim.fejkmejl@gmail.com;Jack's New England Clam Chowder;Seafood;16;9.65
+2018-04-27 11:18:28;pascale_cartrain.fejkmejl@gmail.com;Outback Lager;Beverages;30;15.0
+2018-04-27 11:35:18;horst_kloss.fejkmejl@gmail.com;Chang;Beverages;11;19.0
+2018-04-27 11:35:47;paula_wilson.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;15;30.0
+2018-04-27 11:47:58;matti_karttunen.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;10;55.0
+2018-04-27 11:57:41;roland_mendel.fejkmejl@gmail.com;Tofu;Produce;11;23.25
+2018-04-27 12:00:42;peter_franken.fejkmejl@gmail.com;Tofu;Produce;30;23.25
+2018-04-27 12:09:19;karin_josephs.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;12;9.2
+2018-04-27 12:15:14;horst_kloss.fejkmejl@gmail.com;Scottish Longbreads;Confections;35;12.5
+2018-04-27 12:34:38;roland_mendel.fejkmejl@gmail.com;Chang;Beverages;50;
+2018-04-27 12:36:57;horst_kloss.fejkmejl@gmail.com;Geitost;Dairy Products;20;2.5
+2018-04-27 12:41:27;paula_wilson.fejkmejl@gmail.com;Sir Rodney's Marmalade;Confections;1;81.0
+2018-04-27 12:41:31;pascale_cartrain.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;40;34.0
+2018-04-27 12:47:25;carlos_hernández.fejkmejl@gmail.com;Gudbrandsdalsost;Dairy Products;24;36.0
+2018-04-27 12:52:08;patricia_mckenna.fejkmejl@gmail.com;Pavlova;Confections;36;17.45
+2018-04-27 12:59:43;peter_franken.fejkmejl@gmail.com;Röd Kaviar;Seafood;50;15.0
+2018-04-27 13:11:58;christina_berglund.fejkmejl@gmail.com;Tourtière;Meat/Poultry;15;7.45
+2018-04-27 13:26:23;martín_sommer.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;16;19.5
+2018-04-27 13:30:11;liz_nixon.fejkmejl@gmail.com;Inlagd Sill;Seafood;5;19.0
+2018-04-27 14:00:26;philip_cramer.fejkmejl@gmail.com;Tourtière;Meat/Poultry;24;7.45
+2018-04-27 14:00:40;carlos_hernández.fejkmejl@gmail.com;Konbu;Seafood;60;6.0
+2018-04-27 14:12:33;horst_kloss.fejkmejl@gmail.com;Boston Crab Meat;Seafood;60;18.4
+2018-04-27 14:14:05;paula_parente.fejkmejl@gmail.com;Ipoh Coffee;Beverages;20;46.0
+2018-04-27 14:16:33;renate_messner.fejkmejl@gmail.com;Genen Shouyu;Condiments;25;15.5
+2018-04-27 14:21:16;jean_fresnière.fejkmejl@gmail.com;Sirop d'érable;Condiments;5;28.5
+2018-04-27 14:25:53;laurence_lebihan.fejkmejl@gmail.com;Ikura;Seafood;21;31.0
+2018-04-27 14:26:13;karl_jablonski.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;42;9.2
+2018-04-27 14:33:58;rita_müller.fejkmejl@gmail.com;Ipoh Coffee;Beverages;24;46.0
+2018-04-27 14:42:08;miguel_angel_paolino.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;10;55.0
+2018-04-27 14:53:26;howard_snyder.fejkmejl@gmail.com;Tofu;Produce;3;23.25
+2018-04-27 14:58:34;karl_jablonski.fejkmejl@gmail.com;Côte de Blaye;Beverages;25;263.5
+2018-04-27 14:59:23;catherine_dewey.fejkmejl@gmail.com;Boston Crab Meat;Seafood;10;18.4
+2018-04-27 15:04:51;mary_saveley.fejkmejl@gmail.com;Ikura;Seafood;20;31.0
+2018-04-27 15:07:56;jonas_bergulfsen.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;18;13.0
+2018-04-27 15:12:51;roland_mendel.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;1;34.8
+2018-04-27 15:13:18;peter_franken.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;40;9.0
+2018-04-27 15:26:56;horst_kloss.fejkmejl@gmail.com;Louisiana Fiery Hot Pepper Sauce;Condiments;80;
+2018-04-27 15:32:39;jonas_bergulfsen.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;12;55.0
+2018-04-27 15:37:53;jonas_bergulfsen.fejkmejl@gmail.com;Flotemysost;Dairy Products;15;21.5
+2018-04-27 15:38:01;elizabeth_lincoln.fejkmejl@gmail.com;NuNuCa Nuß-Nougat-Creme;Confections;60;FREE
+2018-04-27 15:39:29;patricia_mckenna.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;40;21.0
+2018-04-27 15:55:58;art_braunschweiger.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;21;62.5
+2018-04-27 16:05:32;paula_parente.fejkmejl@gmail.com;Outback Lager;Beverages;3;15.0
+2018-04-27 16:13:07;jonas_bergulfsen.fejkmejl@gmail.com;Steeleye Stout;Beverages;8;18.0
+2018-04-27 16:15:16;helen_bennett.fejkmejl@gmail.com;Sasquatch Ale;Beverages;14;14.0
+2018-04-27 16:40:27;palle_ibsen.fejkmejl@gmail.com;Flotemysost;Dairy Products;30;21.5
+2018-04-27 16:43:27;sergio_gutiérrez.fejkmejl@gmail.com;Boston Crab Meat;Seafood;20;18.4
+2018-04-27 16:51:44;henriette_pfalzheim.fejkmejl@gmail.com;Tarte au sucre;Confections;15;49.3
+2018-04-27 16:55:41;hari_kumar.fejkmejl@gmail.com;Perth Pasties;Meat/Poultry;40;32.8
+2018-04-27 16:59:17;philip_cramer.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;25;55.0
+2018-04-27 17:05:36;art_braunschweiger.fejkmejl@gmail.com;Thüringer Rostbratwurst;Meat/Poultry;20;123.79
+2018-04-27 17:06:55;philip_cramer.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;8;25.89
+2018-04-27 17:10:22;jose_pavarotti.fejkmejl@gmail.com;Maxilaku;Confections;20;20.0
+2018-04-27 17:13:45;lúcia_carvalho.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;60;38.0
+2018-04-27 17:18:19;janete_limeira.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;35;34.0
+2018-04-27 17:29:42;john_steel.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;10;21.0
+2018-04-27 17:33:25;horst_kloss.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;40;14.0
+2018-04-27 17:44:47;art_braunschweiger.fejkmejl@gmail.com;Steeleye Stout;Beverages;20;18.0
+2018-04-27 17:55:22;horst_kloss.fejkmejl@gmail.com;Chang;Beverages;50;19.0
+2018-04-27 17:59:45;maurizio_moroni.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;20;30.0
+2018-04-27 18:03:09;frédérique_citeaux.fejkmejl@gmail.com;Outback Lager;Beverages;20;15.0
+2018-04-27 18:15:27;horst_kloss.fejkmejl@gmail.com;Longlife Tofu;Produce;15;10.0
+2018-04-27 18:46:15;paula_wilson.fejkmejl@gmail.com;Aniseed Syrup;Condiments;4;10.0
+2018-04-27 19:03:27;jaime_yorres.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;40;10.0
+2018-04-27 19:08:17;laurence_lebihan.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;30;14.0
+2018-04-27 19:16:47;giovanni_rovelli.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;40;14.0
+2018-04-27 19:19:04;pascale_cartrain.fejkmejl@gmail.com;Longlife Tofu;Produce;20;10.0
+2018-04-27 19:19:11;art_braunschweiger.fejkmejl@gmail.com;Geitost;Dairy Products;24;2.5
+2018-04-27 19:26:02;renate_messner.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;20;34.0
+2018-04-27 19:26:26;hari_kumar.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;20;7.0
+2018-04-27 19:49:55;annette_roulet.fejkmejl@gmail.com;Valkoinen suklaa;Confections;15;16.25
+2018-04-27 19:54:25;palle_ibsen.fejkmejl@gmail.com;Scottish Longbreads;Confections;60;12.5
+2018-04-27 19:57:04;rita_müller.fejkmejl@gmail.com;Gustaf's Knäckebröd;Grains/Cereals;20;21.0
+2018-04-30 08:01:40;annette_roulet.fejkmejl@gmail.com;Genen Shouyu;Condiments;12;15.5
+2018-04-30 08:04:50;frédérique_citeaux.fejkmejl@gmail.com;Rössle Sauerkraut;Produce;30;45.6
+2018-04-30 08:05:46;lino_rodriguez.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;16;22.0
+2018-04-30 08:18:42;roland_mendel.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;110;55.0
+2018-04-30 08:37:45;bernardo_batista.fejkmejl@gmail.com;Gula Malacca;Condiments;24;19.45
+2018-04-30 08:53:25;carlos_gonzález.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;20;7.0
+2018-04-30 08:56:23;carlos_hernández.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;30;14.0
+2018-04-30 08:57:02;pedro_afonso.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;10;13.0
+2018-04-30 09:05:00;annette_roulet.fejkmejl@gmail.com;Laughing Lumberjack Lager;Beverages;24;14.0
+2018-04-30 09:06:25;maria_larsson.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;4;314.16
+2018-04-30 09:15:11;bernardo_batista.fejkmejl@gmail.com;Tourtière;Meat/Poultry;6;7.45
+2018-04-30 09:31:27;art_braunschweiger.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;8;25.89
+2018-04-30 09:46:12;karl_jablonski.fejkmejl@gmail.com;Original Frankfurter grüne Soße;Condiments;30;13.0
+2018-04-30 10:07:05;sergio_gutiérrez.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;20;FREE
+2018-04-30 10:19:48;laurence_lebihan.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;16;39.0
+2018-04-30 10:31:07;jose_pavarotti.fejkmejl@gmail.com;Sasquatch Ale;Beverages;12;14.0
+2018-04-30 10:49:42;thomas_hardy.fejkmejl@gmail.com;Outback Lager;Beverages;28;15.0
+2018-04-30 10:54:11;thomas_hardy.fejkmejl@gmail.com;Ravioli Angelo;Grains/Cereals;25;19.5
+2018-04-30 10:55:39;paula_wilson.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;70;38.0
+2018-04-30 10:59:08;ann_devon.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;12;31.23
+2018-04-30 11:18:03;felipe_izquierdo.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;18;9.0
+2018-04-30 11:19:41;ann_devon.fejkmejl@gmail.com;Chef Anton's Gumbo Mix;Condiments;30;21.35
+2018-04-30 11:20:58;laurence_lebihan.fejkmejl@gmail.com;Boston Crab Meat;Seafood;30;18.4
+2018-04-30 11:32:45;rita_müller.fejkmejl@gmail.com;Mascarpone Fabioli;Dairy Products;50;32.0
+2018-04-30 11:42:08;patricia_mckenna.fejkmejl@gmail.com;Ikura;Seafood;18;31.0
+2018-04-30 11:42:39;mario_pontes.fejkmejl@gmail.com;Maxilaku;Confections;40;20.0
+2018-04-30 11:43:08;miguel_angel_paolino.fejkmejl@gmail.com;Ikura;Seafood;2;31.0
+2018-04-30 11:53:10;jonas_bergulfsen.fejkmejl@gmail.com;Côte de Blaye;Beverages;8;263.5
+2018-04-30 12:05:48;hari_kumar.fejkmejl@gmail.com;Tunnbröd;Grains/Cereals;50;9.0
+2018-04-30 12:06:33;jose_pavarotti.fejkmejl@gmail.com;Steeleye Stout;Beverages;30;18.0
+2018-04-30 12:10:24;jose_pavarotti.fejkmejl@gmail.com;Tarte au sucre;Confections;30;49.3
+2018-04-30 12:14:48;janete_limeira.fejkmejl@gmail.com;Teatime Chocolate Biscuits;Confections;15;9.2
+2018-04-30 12:27:19;frédérique_citeaux.fejkmejl@gmail.com;Carnarvon Tigers;Seafood;18;62.5
+2018-04-30 12:27:50;roland_mendel.fejkmejl@gmail.com;Louisiana Hot Spiced Okra;Condiments;60;17.0
+2018-04-30 12:56:25;howard_snyder.fejkmejl@gmail.com;Gula Malacca;Condiments;28;19.45
+2018-04-30 13:02:05;jose_pavarotti.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;45;38.0
+2018-04-30 13:03:24;alexander_feuer.fejkmejl@gmail.com;Borówka Basia;Luxury;10;21.37
+2018-04-30 13:12:06;sven_ottlieb.fejkmejl@gmail.com;Lakkalikööri;Beverages;12;18.0
+2018-04-30 13:17:56;yvonne_moncada.fejkmejl@gmail.com;Uncle Bob's Organic Dried Pears;Produce;6;
+2018-04-30 13:22:12;antonio_moreno.fejkmejl@gmail.com;Ipoh Coffee;Beverages;15;46.0
+2018-04-30 13:23:51;carlos_hernández.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;5;21.0
+2018-04-30 13:27:03;felipe_izquierdo.fejkmejl@gmail.com;Steeleye Stout;Beverages;24;18.0
+2018-04-30 13:28:46;giovanni_rovelli.fejkmejl@gmail.com;Raclette Courdavault;Dairy Products;6;55.0
+2018-04-30 13:49:37;martín_sommer.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;40;7.0
+2018-04-30 13:49:39;lúcia_carvalho.fejkmejl@gmail.com;Maxilaku;Confections;42;20.0
+2018-04-30 13:49:51;pascale_cartrain.fejkmejl@gmail.com;Escargots de Bourgogne;Seafood;30;13.25
+2018-04-30 13:58:57;josé_pedro_freyre.fejkmejl@gmail.com;Tarte au sucre;Confections;20;49.3
+2018-04-30 14:06:39;maurizio_moroni.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;10;38.0
+2018-04-30 14:10:22;maria_anders.fejkmejl@gmail.com;Lakkalikööri;Beverages;15;18.0
+2018-04-30 14:18:32;jonas_bergulfsen.fejkmejl@gmail.com;Ipoh Coffee;Beverages;9;46.0
+2018-04-30 14:22:58;ana_trujillo.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;10;34.0
+2018-04-30 14:24:49;christina_berglund.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;30;314.16
+2018-04-30 14:25:16;jose_pavarotti.fejkmejl@gmail.com;Kalafior Krzyś;Luxury;36;314.16
+2018-04-30 14:25:29;sven_ottlieb.fejkmejl@gmail.com;Konbu;Seafood;7;6.0
+2018-04-30 14:27:55;lúcia_carvalho.fejkmejl@gmail.com;Boston Crab Meat;Seafood;6;18.4
+2018-04-30 14:32:54;jose_pavarotti.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;28;38.0
+2018-04-30 14:42:13;zbyszek.nowak.fejkmejl@gmail.com;Borówka Basia;Luxury;30;21.37
+2018-04-30 15:01:52;josé_pedro_freyre.fejkmejl@gmail.com;Ikura;Seafood;10;31.0
+2018-04-30 15:02:36;pascale_cartrain.fejkmejl@gmail.com;Tourtière;Meat/Poultry;10;7.45
+2018-04-30 15:08:04;yvonne_moncada.fejkmejl@gmail.com;Queso Cabrales;Dairy Products;30;21.0
+2018-04-30 15:14:28;anabela_domingues.fejkmejl@gmail.com;Nord-Ost Matjeshering;Seafood;20;25.89
+2018-04-30 15:25:20;laurence_lebihan.fejkmejl@gmail.com;Boston Crab Meat;Seafood;15;18.4
+2018-04-30 15:27:53;rita_müller.fejkmejl@gmail.com;Chai;Beverages;15;FREE
+2018-04-30 15:58:53;hari_kumar.fejkmejl@gmail.com;Tourtière;Meat/Poultry;7;7.45
+2018-04-30 16:10:17;rene_phillips.fejkmejl@gmail.com;Manjimup Dried Apples;Produce;16;53.0
+2018-04-30 16:14:01;lúcia_carvalho.fejkmejl@gmail.com;Côte de Blaye;Beverages;40;263.5
+2018-04-30 16:17:39;mario_pontes.fejkmejl@gmail.com;Konbu;Seafood;40;6.0
+2018-04-30 16:19:53;ann_devon.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;25;22.0
+2018-04-30 16:20:22;annette_roulet.fejkmejl@gmail.com;Singaporean Hokkien Fried Mee;Grains/Cereals;10;14.0
+2018-04-30 16:36:35;christina_berglund.fejkmejl@gmail.com;Sir Rodney's Marmalade;Confections;28;81.0
+2018-04-30 16:39:28;maria_larsson.fejkmejl@gmail.com;Röd Kaviar;Seafood;24;15.0
+2018-04-30 16:46:21;yang_wang.fejkmejl@gmail.com;Gnocchi di nonna Alice;Grains/Cereals;20;38.0
+2018-04-30 16:48:26;ann_devon.fejkmejl@gmail.com;Geitost;Dairy Products;30;2.5
+2018-04-30 16:53:03;martín_sommer.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;24;22.0
+2018-04-30 17:02:03;howard_snyder.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;12;10.0
+2018-04-30 17:17:22;horst_kloss.fejkmejl@gmail.com;Chef Anton's Cajun Seasoning;Condiments;50;22.0
+2018-04-30 17:34:49;paula_wilson.fejkmejl@gmail.com;Alice Mutton;Meat/Poultry;16;39.0
+2018-04-30 17:36:24;carlos_hernández.fejkmejl@gmail.com;Boston Crab Meat;Seafood;60;18.4
+2018-04-30 17:46:53;liz_nixon.fejkmejl@gmail.com;Côte de Blaye;Beverages;10;263.5
+2018-04-30 17:47:28;sven_ottlieb.fejkmejl@gmail.com;Gumbär Gummibärchen;Confections;12;31.23
+2018-04-30 17:52:40;josé_pedro_freyre.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;9;34.0
+2018-04-30 17:58:04;rita_müller.fejkmejl@gmail.com;Borówka Basia;Luxury;30;21.37
+2018-04-30 18:25:15;peter_franken.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;21;34.8
+2018-04-30 18:27:43;lúcia_carvalho.fejkmejl@gmail.com;Filo Mix;Grains/Cereals;6;
+2018-04-30 18:40:45;yang_wang.fejkmejl@gmail.com;Tarte au sucre;Confections;12;49.3
+2018-04-30 18:45:10;roland_mendel.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;5;10.0
+2018-04-30 18:47:34;helvetius_nagy.fejkmejl@gmail.com;Wimmers gute Semmelknödel;Grains/Cereals;6;33.25
+2018-04-30 18:55:44;hanna_moos.fejkmejl@gmail.com;Sir Rodney's Scones;Confections;8;10.0
+2018-04-30 18:56:44;paolo_accorti.fejkmejl@gmail.com;Camembert Pierrot;Dairy Products;4;34.0
+2018-04-30 19:05:47;lúcia_carvalho.fejkmejl@gmail.com;Mozzarella di Giovanni;Dairy Products;42;34.8
+2018-04-30 19:42:40;felipe_izquierdo.fejkmejl@gmail.com;Rogede sild;Seafood;30;9.5
+2018-04-30 19:57:09;annette_roulet.fejkmejl@gmail.com;Guaraná Fantástica;Beverages;10;4.5

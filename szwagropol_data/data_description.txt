@@ -1,0 +1,7 @@
+transaction_time - data transakcji (rok-miesiac-dzien godzina:minuta:sekunda)
+customer - jaki użytkownik dokonał transakcji, konkretnie jego email (tak klientów identyfikuje szwagropol)
+product_name - nazwa produktu
+category_name - kategoria do której należy produkt (jedna z: Beverages, Dairy Products, Confections, Seafood,
+Condiments, Grains/Cereals, Meat/Poultry, Produce, Luxury)
+quantity - ile sztuk produktu zostało zakupione
+unit_price - cena/szt zakupionego produktu
