@@ -5,3 +5,7 @@ category_name - kategoria do której należy produkt (jedna z: Beverages, Dairy 
 Condiments, Grains/Cereals, Meat/Poultry, Produce, Luxury)
 quantity - ile sztuk produktu zostało zakupione
 unit_price - cena/szt zakupionego produktu
+
+
+1.) Wczytać dane
+2.)
