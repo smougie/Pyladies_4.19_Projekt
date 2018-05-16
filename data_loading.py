@@ -1,9 +1,9 @@
-from helper_functions import parse_date_from_string
+from helper_functions import parse_date_from_string, create_date
+from operator import itemgetter
 
 
 def open_filename(filename):
     """Funkcja odpowiedzialna za wczytanie pliku"""
-    filename = 'szwagropol_data/transactions.txt'
 
     with open(filename, encoding='utf-8') as f_obj:
         # Tworzymy pustą listę dla przetworzonych danych
@@ -25,14 +25,48 @@ def open_filename(filename):
 
         return rows, columns_names  # funkcja zwraca nazwę kolumn oraz ich wartość w dwóch różnych zmiennych
 
-# Funckja odpowiedzialna za liczenie sumy transakcji
-def transaction_value(rows):
+def transaction_value(rows, *category):
+    """Funckja odpowiedzialna za liczenie sumy transakcji"""
+
     QUANTITY_INDEX = -2  # Indeks odpowiadający ilości produktów
     VALUE_INDEX = -1  # Indeks odpowiadający wartości
+    CATEGORY_INDEX = -3  # Indeks odpowiadający categorii produktu
     transaction_value = 0  # Wartość całkowita transakcji
-    all_transaction_value_list = []  # Lista w której będziemy przechowywać sumę ilości produktu * jego wartość
+    transaction_value_list = []  # Lista w której będziemy przechowywać sumę ilości produktu * jego wartość
+
     # Pętla która dodaje do transaction_value oraz transaction list, przemnożoną ilość produtków razy jego wartość
+    # Zaokrąglamy także transaction_value oraz wartości dodawane do transaction_value_list
     for lane in rows:
-        transaction_value += lane[QUANTITY_INDEX] * lane[VALUE_INDEX]
-        all_transaction_value_list.append(lane[QUANTITY_INDEX] * lane[VALUE_INDEX])
-    return transaction_value, all_transaction_value_list
+        if category:  # Jeżeli wystąpi argument pozycyjny category to:
+            if lane[CATEGORY_INDEX] in category:  # Jeżeli indeks danej transakcji znajduje się w category to wykonuje:
+                transaction_value += lane[QUANTITY_INDEX] * lane[VALUE_INDEX]
+                transaction_value_list.append(round(lane[QUANTITY_INDEX] * lane[VALUE_INDEX], 2))
+        else:  # Jeżeli nie podamy argumentu pozycyjnego to wykonuje:
+            transaction_value += lane[QUANTITY_INDEX] * lane[VALUE_INDEX]
+            transaction_value_list.append(round(lane[QUANTITY_INDEX] * lane[VALUE_INDEX], 2))
+    return round(transaction_value, 2), transaction_value_list  # Zwraca wartości ze zmiennych zaokrąglone do 2 miejsc
+
+def filter_rows_by_date(year, month, day, rows):
+    """Funkcja która przyjmuje 4 parametry, pierwsze 3 służą do utworzenia daty, następny argument to kolumny na których
+    wykonamy filtrowanie, zwraca odfitrowane kolumny"""
+
+    date = create_date(year, month, day)  # tworzymy datę przy użyciu funkcji create_date()
+    filtered_rows = []  # pusta lista do której będziemy dodawać kolumny odpowiadające filtrowanej dacie
+    for row in rows:
+        if row[0] == date:
+            filtered_rows.append(row)
+    return filtered_rows
+
+def bestseller(rows):
+    sorted_rows = sorted(rows, key=itemgetter(-2))
+    bestseller_list = sorted_rows
+    # for row in rows:
+    #     if len(bestseller_list) < 5:
+    #         bestseller_list.append(row)
+    #     else:
+    #         for index, item in enumerate(bestseller_list):
+    #             if item[-2] < row[-2]:
+    #                 bestseller_list[index] = row
+    #                 continue
+
+    return bestseller_list[:-6:-1]  # ostatnie 5 indeksów, odwrócone
