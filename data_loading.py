@@ -25,7 +25,8 @@ def open_filename(filename):
 
         return rows, columns_names  # funkcja zwraca nazwę kolumn oraz ich wartość w dwóch różnych zmiennych
 
-def transaction_value(rows, *category):
+
+def calculate_total_revenue(rows, *category):
     """Funckja odpowiedzialna za liczenie sumy transakcji"""
 
     QUANTITY_INDEX = -2  # Indeks odpowiadający ilości produktów
@@ -46,7 +47,8 @@ def transaction_value(rows, *category):
             transaction_value_list.append(round(lane[QUANTITY_INDEX] * lane[VALUE_INDEX], 2))
     return round(transaction_value, 2), transaction_value_list  # Zwraca wartości ze zmiennych zaokrąglone do 2 miejsc
 
-def filter_rows_by_date(year, month, day, rows):
+
+def filter_rows_by_day(year, month, day, rows):
     """Funkcja która przyjmuje 4 parametry, pierwsze 3 służą do utworzenia daty, następny argument to kolumny na których
     wykonamy filtrowanie, zwraca odfitrowane kolumny"""
 
@@ -57,16 +59,23 @@ def filter_rows_by_date(year, month, day, rows):
             filtered_rows.append(row)
     return filtered_rows
 
+
+def filter_rows_by_date(start_date, finish_date, rows):
+    filtered_rows = []
+    for row in rows:
+        if row[0] >= start_date and row[0] <= finish_date:
+            filtered_rows.append(row)
+    return filtered_rows
+
+def write_result(result):
+    filename = 'szwagropol_data/results.txt'
+    with open(filename, 'w') as f_obj:
+        for row in result:
+            f_obj.write(str(row) + '\n')
+
+
 def bestseller(rows):
     sorted_rows = sorted(rows, key=itemgetter(-2))
     bestseller_list = sorted_rows
-    # for row in rows:
-    #     if len(bestseller_list) < 5:
-    #         bestseller_list.append(row)
-    #     else:
-    #         for index, item in enumerate(bestseller_list):
-    #             if item[-2] < row[-2]:
-    #                 bestseller_list[index] = row
-    #                 continue
 
     return bestseller_list[:-6:-1]  # ostatnie 5 indeksów, odwrócone
