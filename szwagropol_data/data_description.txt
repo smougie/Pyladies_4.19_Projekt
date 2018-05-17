@@ -10,4 +10,5 @@ unit_price - cena/szt zakupionego produktu
 1.) Wczytać dane
 2.)
 
+['transaction_time', 'customer', 'product_name', 'category_name', 'quantity', 'unit_price']
 [datetime.date(2018, 4, 2), 'yvonne_moncada.fejkmejl@gmail.com', 'Lakkalikööri', 'Beverages', 10, 18.0]

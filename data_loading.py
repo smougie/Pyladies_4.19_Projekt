@@ -26,47 +26,6 @@ def open_filename(filename):
         return rows, columns_names  # funkcja zwraca nazwę kolumn oraz ich wartość w dwóch różnych zmiennych
 
 
-def calculate_total_revenue(rows, *category):
-    """Funckja odpowiedzialna za liczenie sumy transakcji"""
-
-    QUANTITY_INDEX = -2  # Indeks odpowiadający ilości produktów
-    VALUE_INDEX = -1  # Indeks odpowiadający wartości
-    CATEGORY_INDEX = -3  # Indeks odpowiadający categorii produktu
-    transaction_value = 0  # Wartość całkowita transakcji
-    transaction_value_list = []  # Lista w której będziemy przechowywać sumę ilości produktu * jego wartość
-
-    # Pętla która dodaje do transaction_value oraz transaction list, przemnożoną ilość produtków razy jego wartość
-    # Zaokrąglamy także transaction_value oraz wartości dodawane do transaction_value_list
-    for lane in rows:
-        if category:  # Jeżeli wystąpi argument pozycyjny category to:
-            if lane[CATEGORY_INDEX] in category:  # Jeżeli indeks danej transakcji znajduje się w category to wykonuje:
-                transaction_value += lane[QUANTITY_INDEX] * lane[VALUE_INDEX]
-                transaction_value_list.append(round(lane[QUANTITY_INDEX] * lane[VALUE_INDEX], 2))
-        else:  # Jeżeli nie podamy argumentu pozycyjnego to wykonuje:
-            transaction_value += lane[QUANTITY_INDEX] * lane[VALUE_INDEX]
-            transaction_value_list.append(round(lane[QUANTITY_INDEX] * lane[VALUE_INDEX], 2))
-    return round(transaction_value, 2), transaction_value_list  # Zwraca wartości ze zmiennych zaokrąglone do 2 miejsc
-
-
-def filter_rows_by_day(year, month, day, rows):
-    """Funkcja która przyjmuje 4 parametry, pierwsze 3 służą do utworzenia daty, następny argument to kolumny na których
-    wykonamy filtrowanie, zwraca odfitrowane kolumny"""
-
-    date = create_date(year, month, day)  # tworzymy datę przy użyciu funkcji create_date()
-    filtered_rows = []  # pusta lista do której będziemy dodawać kolumny odpowiadające filtrowanej dacie
-    for row in rows:
-        if row[0] == date:
-            filtered_rows.append(row)
-    return filtered_rows
-
-
-def filter_rows_by_date(start_date, finish_date, rows):
-    filtered_rows = []
-    for row in rows:
-        if row[0] >= start_date and row[0] <= finish_date:
-            filtered_rows.append(row)
-    return filtered_rows
-
 def write_result(result):
     filename = 'szwagropol_data/results.txt'
     with open(filename, 'w') as f_obj:
@@ -75,6 +34,7 @@ def write_result(result):
 
 
 def bestseller(rows):
+    print(rows)
     sorted_rows = sorted(rows, key=itemgetter(-2))
     bestseller_list = sorted_rows
 
