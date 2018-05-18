@@ -19,14 +19,14 @@ CHOICES = {
 
 #Zapisujemy do zmiennej rows oraz column_names sformatowane dane z modułu open_filename
 rows, column_names = open_filename(filename)
-print([print(row) for row in bestseller(rows)])
+# print([print(row) for row in bestseller(rows)])
 
 # Zapisujemy do zmiennych wartości z funckji transaction_value tj.
 # total_revenue - ogólny przychód, all_transaction_value_list - lista wartości każdego zakupu
-report = calculate_total_revenue(rows, CHOICES)
-# for k, v in report.items():
-#     print(k, v)
-# print(report)
+report = calculate_total_revenue(rows, CHOICES, 'category_name')
+for k, v in report.items():
+    print(k, v)
+print(report)
 
 # W zmiennej second_april zapisujemy zwrócone przez funckję filter_date(), kolumny które odpowidają dacie filtracji
 # Funkcja filter_date przyjmuje argumenty niezbędne do utowrzenia daty oraz argument rows w którym znajdują się
@@ -36,8 +36,8 @@ second_april = filter_rows_by_day(rows, second_april)
 # [print(row) for row in second_april]
 
 # Obliczenie dochodu oraz wyświetlenie transakcji z danej daty przy użyciu funkcji transaction_value()
-report = calculate_total_revenue(second_april, CHOICES)
-# print(second_april_revenue)
+report_second_april = calculate_total_revenue(second_april, CHOICES)
+print(report_second_april)
 # print(transactions_second_april)
 
 # Utworzenie listy 5 najlepiej sprzedających się produktów z przekazanej do funkcji listy transakcji
